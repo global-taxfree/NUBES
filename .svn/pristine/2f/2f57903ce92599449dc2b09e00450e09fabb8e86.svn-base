@@ -1,0 +1,1940 @@
+[INFO] 2017-09-20 23:35:45,653 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:35:45,664 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:35:45,665 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:35:48,666 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:35:48,666 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:35:48,667 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:35:51,668 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:35:51,668 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:35:51,669 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:35:54,670 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:35:54,670 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:35:54,671 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:35:57,672 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:35:57,672 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:35:57,673 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:36:00,673 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:36:00,673 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:36:00,674 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:36:03,675 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:36:03,675 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:36:03,676 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:36:06,677 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:36:06,677 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:36:06,678 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:36:09,679 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:36:09,679 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:36:09,680 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:36:12,680 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:36:12,680 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:36:12,681 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:36:15,683 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:36:15,683 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:36:15,684 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:36:18,685 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:36:18,685 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:36:18,686 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:36:21,687 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:36:21,687 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:36:21,688 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:36:24,689 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:36:24,689 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:36:24,690 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:36:27,691 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:36:27,691 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:36:27,692 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:36:30,694 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:36:30,694 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:36:30,695 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:36:33,696 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:36:33,696 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:36:33,697 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:36:36,698 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:36:36,698 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:36:36,699 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:36:39,700 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:36:39,700 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:36:39,701 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:36:42,702 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:36:42,702 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:36:42,703 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:36:45,704 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:36:45,704 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:36:45,705 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:36:48,707 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:36:48,707 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:36:48,708 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:36:51,709 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:36:51,709 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:36:51,710 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:36:54,710 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:36:54,710 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:36:54,711 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:36:57,712 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:36:57,712 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:36:57,713 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:37:00,714 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:37:00,714 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:37:00,715 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:37:03,716 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:37:03,716 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:37:03,717 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:37:06,719 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:37:06,719 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:37:06,720 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:37:09,721 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:37:09,721 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:37:09,722 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:37:12,723 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:37:12,723 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:37:12,724 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:37:15,725 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:37:15,725 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:37:15,726 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:37:18,727 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:37:18,727 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:37:18,728 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:37:21,728 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:37:21,728 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:37:21,729 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:37:24,730 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:37:24,730 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:37:24,731 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:37:27,732 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:37:27,732 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:37:27,733 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:37:30,733 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:37:30,733 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:37:30,734 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:37:33,735 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:37:33,735 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:37:33,736 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:37:36,736 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:37:36,737 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:37:36,738 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:37:39,738 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:37:39,738 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:37:39,739 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:37:42,741 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:37:42,741 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:37:42,742 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:37:45,743 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:37:45,743 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:37:45,744 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:37:48,745 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:37:48,745 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:37:48,746 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:37:51,747 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:37:51,747 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:37:51,748 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:37:54,749 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:37:54,749 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:37:54,750 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:37:57,751 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:37:57,751 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:37:57,752 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:38:00,753 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:38:00,753 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:38:00,754 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:38:03,755 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:38:03,755 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:38:03,756 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:38:06,757 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:38:06,757 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:38:06,758 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:38:09,760 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:38:09,760 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:38:09,774 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:38:12,775 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:38:12,775 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:38:12,776 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:38:15,778 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:38:15,778 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:38:15,779 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:38:18,780 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:38:18,780 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:38:18,781 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:38:21,782 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:38:21,782 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:38:21,783 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:38:24,783 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:38:24,783 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:38:24,784 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:38:27,784 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:38:27,784 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:38:27,785 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:38:30,786 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:38:30,786 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:38:30,787 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:38:33,789 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:38:33,790 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:38:33,791 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:38:36,792 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:38:36,792 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:38:36,793 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:38:39,794 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:38:39,794 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:38:39,795 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:38:42,796 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:38:42,796 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:38:42,797 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:38:45,798 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:38:45,798 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:38:45,799 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:38:48,800 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:38:48,800 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:38:48,806 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:38:51,808 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:38:51,808 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:38:51,809 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:38:54,810 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:38:54,810 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:38:54,811 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:38:57,814 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:38:57,815 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:38:57,815 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:39:00,816 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:39:00,816 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:39:00,817 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:39:03,818 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:39:03,818 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:39:03,819 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:39:06,819 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:39:06,819 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:39:06,820 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:39:09,821 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:39:09,821 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:39:09,822 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:39:12,823 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:39:12,823 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:39:12,824 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:39:15,825 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:39:15,825 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:39:15,826 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:39:18,827 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:39:18,827 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:39:18,828 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:39:21,829 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:39:21,829 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:39:21,830 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:39:24,831 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:39:24,831 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:39:24,841 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:39:27,852 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:39:27,852 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:39:27,853 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:39:30,854 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:39:30,854 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:39:30,855 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:39:33,855 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:39:33,855 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:39:33,856 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:39:36,856 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:39:36,856 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:39:36,857 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:39:39,857 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:39:39,857 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:39:39,858 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:39:42,860 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:39:42,860 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:39:42,861 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:39:45,862 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:39:45,862 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:39:45,863 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:39:48,864 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:39:48,864 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:39:48,865 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:39:51,866 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:39:51,866 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:39:51,867 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:39:54,868 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:39:54,868 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:39:54,869 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:39:57,870 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:39:57,870 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:39:57,871 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:40:00,873 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:40:00,873 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:40:00,874 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:40:03,875 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:40:03,875 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:40:03,876 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:40:06,876 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:40:06,876 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:40:06,877 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:40:09,878 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:40:09,878 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:40:09,879 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:40:12,880 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:40:12,880 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:40:12,881 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:40:15,882 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:40:15,883 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:40:15,884 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:40:18,885 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:40:18,885 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:40:18,886 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:40:21,886 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:40:21,886 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:40:21,887 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:40:24,888 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:40:24,888 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:40:24,889 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:40:27,889 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:40:27,890 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:40:27,891 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:40:30,891 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:40:30,891 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:40:30,892 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:40:33,893 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:40:33,893 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:40:33,894 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:40:36,896 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:40:36,896 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:40:36,897 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:40:39,897 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:40:39,897 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:40:39,898 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:40:42,898 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:40:42,898 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:40:42,899 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:40:45,900 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:40:45,900 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:40:45,901 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:40:48,902 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:40:48,902 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:40:48,903 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:40:51,903 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:40:51,903 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:40:51,904 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:40:54,906 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:40:54,906 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:40:54,907 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:40:57,908 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:40:57,908 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:40:57,909 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:41:00,909 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:41:00,909 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:41:00,910 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:41:03,911 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:41:03,911 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:41:03,912 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:41:06,913 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:41:06,913 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:41:06,914 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:41:09,915 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:41:09,915 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:41:09,916 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:41:12,918 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:41:12,918 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:41:12,919 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:41:15,920 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:41:15,920 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:41:15,921 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:41:18,922 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:41:18,922 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:41:18,923 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:41:21,924 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:41:21,924 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:41:21,925 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:41:24,925 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:41:24,925 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:41:24,926 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:41:27,928 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:41:27,928 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:41:27,929 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:41:30,930 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:41:30,930 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:41:30,931 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:41:33,932 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:41:33,932 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:41:33,933 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:41:36,934 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:41:36,934 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:41:36,935 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:41:39,936 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:41:39,936 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:41:39,937 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:41:42,938 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:41:42,938 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:41:42,939 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:41:45,940 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:41:45,940 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:41:45,941 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:41:48,942 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:41:48,942 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:41:48,944 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:41:51,944 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:41:51,944 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:41:51,945 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:41:54,946 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:41:54,946 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:41:54,947 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:41:57,947 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:41:57,947 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:41:57,948 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:42:00,949 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:42:00,949 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:42:00,950 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:42:03,952 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:42:03,952 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:42:03,953 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:42:06,954 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:42:06,954 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:42:06,955 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:42:09,956 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:42:09,956 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:42:09,957 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:42:12,958 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:42:12,958 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:42:12,959 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:42:15,960 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:42:15,960 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:42:15,961 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:42:18,962 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:42:18,962 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:42:18,963 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:42:21,965 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:42:21,965 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:42:21,966 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:42:24,966 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:42:24,966 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:42:24,967 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:42:27,968 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:42:27,968 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:42:27,969 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:42:30,970 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:42:30,970 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:42:30,971 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:42:33,972 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:42:33,972 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:42:33,973 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:42:36,973 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:42:36,973 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:42:36,974 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:42:39,976 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:42:39,976 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:42:39,979 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:42:42,980 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:42:42,980 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:42:42,981 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:42:45,982 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:42:45,982 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:42:45,983 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:42:48,983 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:42:48,983 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:42:48,984 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:42:51,984 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:42:51,984 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:42:51,985 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:42:54,986 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:42:54,986 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:42:54,987 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:42:57,989 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:42:57,989 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:42:57,990 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:43:00,991 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:43:00,991 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:43:00,992 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:43:03,992 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:43:03,992 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:43:03,993 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:43:06,994 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:43:06,994 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:43:06,995 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:43:09,996 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:43:09,996 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:43:10,010 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:43:13,012 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:43:13,012 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:43:13,013 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:43:16,014 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:43:16,014 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:43:16,015 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:43:19,016 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:43:19,016 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:43:19,017 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:43:22,017 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:43:22,017 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:43:22,018 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:43:25,019 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:43:25,019 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:43:25,020 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:43:28,021 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:43:28,021 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:43:28,022 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:43:31,024 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:43:31,024 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:43:31,025 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:43:34,026 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:43:34,026 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:43:34,027 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:43:37,027 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:43:37,027 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:43:37,028 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:43:40,029 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:43:40,029 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:43:40,030 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:43:43,030 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:43:43,031 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:43:43,032 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:43:46,032 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:43:46,032 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:43:46,033 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:43:49,035 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:43:49,035 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:43:49,036 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:43:52,037 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:43:52,037 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:43:52,038 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:43:55,038 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:43:55,038 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:43:55,039 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:43:58,039 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:43:58,039 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:43:58,040 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:44:01,040 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:44:01,040 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:44:01,041 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:44:04,042 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:44:04,042 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:44:04,043 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:44:07,045 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:44:07,045 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:44:07,046 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:44:10,047 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:44:10,047 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:44:10,048 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:44:13,049 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:44:13,049 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:44:13,050 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:44:16,051 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:44:16,051 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:44:16,052 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:44:19,053 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:44:19,053 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:44:19,054 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:44:22,054 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:44:22,054 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:44:22,055 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:44:25,057 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:44:25,057 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:44:25,058 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:44:28,059 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:44:28,059 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:44:28,060 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:44:31,061 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:44:31,061 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:44:31,062 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:44:34,063 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:44:34,063 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:44:34,064 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:44:37,065 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:44:37,065 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:44:37,066 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:44:40,067 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:44:40,067 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:44:40,068 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:44:43,069 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:44:43,069 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:44:43,070 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:44:46,071 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:44:46,071 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:44:46,072 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:44:49,073 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:44:49,073 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:44:49,074 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:44:52,075 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:44:52,075 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:44:52,076 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:44:55,077 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:44:55,077 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:44:55,078 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:44:58,080 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:44:58,080 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:44:58,081 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:45:01,081 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:45:01,081 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:45:01,082 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:45:04,082 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:45:04,082 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:45:04,083 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:45:07,084 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:45:07,084 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:45:07,085 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:45:10,086 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:45:10,086 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:45:10,087 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:45:13,088 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:45:13,088 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:45:13,089 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:45:16,091 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:45:16,091 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:45:16,092 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:45:19,092 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:45:19,092 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:45:19,093 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:45:22,094 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:45:22,094 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:45:22,095 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:45:25,096 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:45:25,096 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:45:25,097 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:45:28,098 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:45:28,098 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:45:28,099 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:45:31,100 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:45:31,100 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:45:31,101 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:45:34,103 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:45:34,103 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:45:34,104 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:45:37,105 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:45:37,105 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:45:37,106 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:45:40,107 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:45:40,107 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:45:40,108 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:45:43,109 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:45:43,109 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:45:43,110 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:45:46,111 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:45:46,111 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:45:46,112 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:45:49,113 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:45:49,113 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:45:49,114 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:45:52,115 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:45:52,115 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:45:52,116 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:45:55,117 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:45:55,117 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:45:55,118 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:45:58,119 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:45:58,119 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:45:58,120 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:46:01,121 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:46:01,121 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:46:01,122 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:46:04,122 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:46:04,122 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:46:04,123 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:46:07,123 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:46:07,123 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:46:07,124 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:46:10,126 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:46:10,126 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:46:10,127 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:46:13,127 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:46:13,127 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:46:13,128 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:46:16,129 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:46:16,129 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:46:16,130 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:46:19,131 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:46:19,131 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:46:19,132 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:46:22,132 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:46:22,132 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:46:22,133 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:46:25,137 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:46:25,137 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:46:25,138 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:46:28,138 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:46:28,138 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:46:28,139 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:46:31,140 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:46:31,140 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:46:31,141 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:46:34,142 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:46:34,142 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:46:34,143 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:46:37,143 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:46:37,143 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:46:37,144 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:46:40,145 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:46:40,145 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:46:40,146 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:46:43,148 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:46:43,148 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:46:43,149 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:46:46,150 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:46:46,150 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:46:46,151 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:46:49,152 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:46:49,152 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:46:49,153 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:46:52,154 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:46:52,154 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:46:52,155 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:46:55,156 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:46:55,156 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:46:55,157 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:46:58,158 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:46:58,158 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:46:58,159 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:47:01,161 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:47:01,161 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:47:01,162 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:47:04,162 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:47:04,162 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:47:04,163 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:47:07,164 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:47:07,164 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:47:07,165 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:47:10,166 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:47:10,166 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:47:10,167 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:47:13,167 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:47:13,167 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:47:13,168 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:47:16,168 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:47:16,168 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:47:16,169 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:47:19,171 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:47:19,171 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:47:19,173 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:47:22,173 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:47:22,173 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:47:22,174 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:47:25,174 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:47:25,174 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:47:25,175 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:47:28,176 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:47:28,176 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:47:28,177 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:47:31,178 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:47:31,178 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:47:31,179 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:47:34,179 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:47:34,179 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:47:34,180 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:47:37,182 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:47:37,182 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:47:37,183 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:47:40,184 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:47:40,184 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:47:40,185 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:47:43,186 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:47:43,186 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:47:43,187 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:47:46,188 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:47:46,188 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:47:46,189 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:47:49,190 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:47:49,190 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:47:49,191 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:47:52,192 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:47:52,192 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:47:52,193 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:47:55,195 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:47:55,195 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:47:55,196 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:47:58,196 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:47:58,196 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:47:58,197 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:48:01,198 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:48:01,198 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:48:01,199 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:48:04,200 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:48:04,200 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:48:04,201 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:48:07,202 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:48:07,202 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:48:07,203 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:48:10,205 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:48:10,205 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:48:10,220 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:48:13,221 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:48:13,221 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:48:13,222 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:48:16,222 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:48:16,222 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:48:16,223 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:48:19,223 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:48:19,223 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:48:19,224 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:48:22,225 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:48:22,225 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:48:22,226 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:48:25,227 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:48:25,227 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:48:25,228 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:48:28,230 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:48:28,230 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:48:28,231 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:48:31,232 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:48:31,232 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:48:31,233 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:48:34,234 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:48:34,234 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:48:34,235 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:48:37,235 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:48:37,235 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:48:37,236 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:48:40,237 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:48:40,237 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:48:40,238 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:48:43,239 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:48:43,240 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:48:43,241 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:48:46,242 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:48:46,242 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:48:46,243 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:48:49,244 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:48:49,244 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:48:49,245 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:48:52,246 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:48:52,246 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:48:52,247 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:48:55,247 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:48:55,247 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:48:55,248 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:48:58,249 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:48:58,249 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:48:58,250 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:49:01,251 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:49:01,251 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:49:01,252 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:49:04,254 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:49:04,255 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:49:04,256 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:49:07,256 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:49:07,256 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:49:07,257 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:49:10,258 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:49:10,258 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:49:10,259 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:49:13,260 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:49:13,260 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:49:13,261 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:49:16,261 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:49:16,261 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:49:16,262 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:49:19,263 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:49:19,263 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:49:19,264 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:49:22,265 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:49:22,265 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:49:22,266 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:49:25,266 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:49:25,266 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:49:25,267 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:49:28,268 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:49:28,268 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:49:28,269 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:49:31,270 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:49:31,270 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:49:31,271 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:49:34,272 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:49:34,273 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:49:34,274 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:49:37,275 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:49:37,275 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:49:37,277 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:49:40,277 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:49:40,277 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:49:40,278 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:49:43,279 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:49:43,279 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:49:43,280 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:49:46,281 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:49:46,281 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:49:46,282 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:49:49,283 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:49:49,283 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:49:49,284 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:49:52,285 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:49:52,285 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:49:52,286 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:49:55,288 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:49:55,288 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:49:55,289 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:49:58,290 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:49:58,290 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:49:58,291 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:50:01,292 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:50:01,292 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:50:01,293 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:50:04,294 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:50:04,294 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:50:04,295 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:50:07,296 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:50:07,296 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:50:07,299 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:50:10,299 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:50:10,299 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:50:10,300 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:50:13,302 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:50:13,302 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:50:13,303 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:50:16,304 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:50:16,304 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:50:16,305 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:50:19,306 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:50:19,306 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:50:19,307 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:50:22,308 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:50:22,308 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:50:22,310 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:50:25,310 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:50:25,310 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:50:25,311 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:50:28,312 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:50:28,312 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:50:28,313 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:50:31,314 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:50:31,314 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:50:31,315 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:50:34,315 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:50:34,315 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:50:34,316 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:50:37,317 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:50:37,317 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:50:37,318 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:50:40,319 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:50:40,319 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:50:40,320 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:50:43,321 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:50:43,321 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:50:43,322 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:50:46,323 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:50:46,323 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:50:46,324 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:50:49,326 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:50:49,326 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:50:49,327 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:50:52,347 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:50:52,347 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:50:52,348 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:50:55,349 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:50:55,349 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:50:55,350 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:50:58,351 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:50:58,351 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:50:58,352 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:51:01,353 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:51:01,353 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:51:01,354 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:51:04,355 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:51:04,355 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:51:04,356 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:51:07,357 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:51:07,357 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:51:07,358 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:51:10,358 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:51:10,358 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:51:10,359 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:51:13,359 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:51:13,360 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:51:13,361 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:51:16,362 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:51:16,362 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:51:16,363 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:51:19,364 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:51:19,364 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:51:19,365 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:51:22,366 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:51:22,366 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:51:22,369 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:51:25,370 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:51:25,370 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:51:25,371 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:51:28,371 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:51:28,371 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:51:28,372 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:51:31,372 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:51:31,372 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:51:31,373 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:51:34,373 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:51:34,373 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:51:34,374 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:51:37,374 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:51:37,374 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:51:37,375 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:51:40,377 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:51:40,377 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:51:40,378 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:51:43,379 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:51:43,379 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:51:43,380 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:51:46,381 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:51:46,381 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:51:46,382 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:51:49,383 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:51:49,383 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:51:49,384 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:51:52,385 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:51:52,385 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:51:52,386 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:51:55,386 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:51:55,386 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:51:55,387 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:51:58,389 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:51:58,389 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:51:58,390 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:52:01,390 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:52:01,390 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:52:01,391 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:52:04,392 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:52:04,392 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:52:04,393 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:52:07,394 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:52:07,394 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:52:07,395 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:52:10,395 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:52:10,395 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:52:10,396 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:52:13,397 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:52:13,397 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:52:13,398 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:52:16,400 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:52:16,400 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:52:16,401 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:52:19,402 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:52:19,402 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:52:19,403 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:52:22,404 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:52:22,404 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:52:22,405 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:52:25,406 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:52:25,406 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:52:25,407 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:52:28,408 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:52:28,408 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:52:28,409 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:52:31,410 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:52:31,410 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:52:31,411 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:52:34,413 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:52:34,413 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:52:34,414 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:52:37,414 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:52:37,414 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:52:37,415 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:52:40,416 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:52:40,416 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:52:40,417 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:52:43,418 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:52:43,418 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:52:43,419 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:52:46,420 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:52:46,420 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:52:46,421 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:52:49,421 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:52:49,421 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:52:49,422 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:52:52,424 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:52:52,424 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:52:52,425 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:52:55,426 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:52:55,426 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:52:55,427 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:52:58,428 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:52:58,428 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:52:58,429 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:53:01,429 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:53:01,429 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:53:01,430 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:53:04,431 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:53:04,431 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:53:04,432 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:53:07,434 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:53:07,434 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:53:07,435 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:53:10,436 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:53:10,436 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:53:10,451 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:53:13,452 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:53:13,452 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:53:13,453 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:53:16,454 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:53:16,454 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:53:16,455 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:53:19,456 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:53:19,456 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:53:19,457 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:53:22,458 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:53:22,458 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:53:22,459 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:53:25,461 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:53:25,461 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:53:25,462 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:53:28,462 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:53:28,462 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:53:28,463 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:53:31,464 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:53:31,464 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:53:31,465 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:53:34,466 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:53:34,466 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:53:34,467 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:53:37,468 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:53:37,468 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:53:37,469 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:53:40,470 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:53:40,470 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:53:40,471 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:53:43,473 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:53:43,473 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:53:43,474 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:53:46,474 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:53:46,474 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:53:46,475 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:53:49,476 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:53:49,476 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:53:49,477 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:53:52,477 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:53:52,479 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:53:52,481 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:53:55,481 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:53:55,481 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:53:55,482 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:53:58,483 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:53:58,483 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:53:58,484 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:54:01,486 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:54:01,486 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:54:01,487 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:54:04,487 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:54:04,487 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:54:04,488 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:54:07,489 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:54:07,489 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:54:07,490 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:54:10,491 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:54:10,492 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:54:10,493 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:54:13,493 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:54:13,494 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:54:13,494 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:54:16,495 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:54:16,495 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:54:16,496 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:54:19,498 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:54:19,498 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:54:19,499 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:54:22,500 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:54:22,500 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:54:22,501 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:54:25,502 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:54:25,502 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:54:25,503 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:54:28,504 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:54:28,504 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:54:28,505 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:54:31,506 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:54:31,506 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:54:31,507 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:54:34,508 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:54:34,508 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:54:34,509 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:54:37,510 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:54:37,510 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:54:37,511 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:54:40,512 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:54:40,512 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:54:40,513 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:54:43,514 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:54:43,514 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:54:43,515 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:54:46,515 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:54:46,515 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:54:46,516 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:54:49,516 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:54:49,516 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:54:49,517 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:54:52,518 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:54:52,518 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:54:52,519 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:54:55,520 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:54:55,520 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:54:55,521 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:54:58,522 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:54:58,522 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:54:58,523 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:55:01,524 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:55:01,524 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:55:01,525 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:55:04,526 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:55:04,526 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:55:04,527 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-20 23:55:07,528 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-20 23:55:07,528 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-20 23:55:07,529 - sendHttp_Json >> RES size:52

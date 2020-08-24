@@ -1,0 +1,146 @@
+[INFO] 2017-11-20 09:58:54,063 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/login
+[INFO] 2017-11-20 09:58:54,063 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it",
+  "password": "gtfsg12345"
+}
+[INFO] 2017-11-20 09:58:54,749 - sendHttp_Json >> RES size:85
+[INFO] 2017-11-20 09:58:54,796 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-11-20 09:58:54,812 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it"
+}
+[INFO] 2017-11-20 09:58:54,968 - sendHttp_Json >> RES size:50
+[INFO] 2017-11-20 09:58:54,983 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/searchCountryCode
+[INFO] 2017-11-20 09:58:54,999 - sendHttp_Json >> REQ:{}
+[INFO] 2017-11-20 09:58:55,217 - sendHttp_Json >> RES size:8480
+[INFO] 2017-11-20 09:58:55,311 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/searchStoreName
+[INFO] 2017-11-20 09:58:55,311 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000001"
+}
+[INFO] 2017-11-20 09:58:55,576 - sendHttp_Json >> RES size:15417
+[INFO] 2017-11-20 09:58:55,638 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/searchAutoCompanyName
+[INFO] 2017-11-20 09:58:55,638 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000001"
+}
+[INFO] 2017-11-20 09:58:55,810 - sendHttp_Json >> RES size:3051
+[INFO] 2017-11-20 09:58:55,810 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/searchStoreName
+[INFO] 2017-11-20 09:58:55,810 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000001"
+}
+[INFO] 2017-11-20 09:58:56,013 - sendHttp_Json >> RES size:15417
+[INFO] 2017-11-20 09:58:59,367 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-11-20 09:58:59,367 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it"
+}
+[INFO] 2017-11-20 09:58:59,523 - sendHttp_Json >> RES size:50
+[INFO] 2017-11-20 09:59:01,738 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/searchReceiptCount
+[INFO] 2017-11-20 09:59:01,738 - sendHttp_Json >> REQ:{
+  "group_id": "0000000001",
+  "start_date": "20171120",
+  "end_date": "20171120",
+  "receipt_no": "",
+  "gst_no": ""
+}
+[INFO] 2017-11-20 09:59:01,910 - sendHttp_Json >> RES size:46
+[INFO] 2017-11-20 09:59:02,529 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-11-20 09:59:02,529 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it"
+}
+[INFO] 2017-11-20 09:59:02,689 - sendHttp_Json >> RES size:50
+[INFO] 2017-11-20 09:59:04,511 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/searchReceiptCount
+[INFO] 2017-11-20 09:59:04,511 - sendHttp_Json >> REQ:{
+  "group_id": "0000000001",
+  "start_date": "20171119",
+  "end_date": "20171120",
+  "receipt_no": "",
+  "gst_no": ""
+}
+[INFO] 2017-11-20 09:59:04,682 - sendHttp_Json >> RES size:47
+[INFO] 2017-11-20 09:59:04,682 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/searchReceiptList
+[INFO] 2017-11-20 09:59:04,682 - sendHttp_Json >> REQ:{
+  "display_num": 15,
+  "page_num": "1",
+  "group_id": "0000000001",
+  "start_date": "20171119",
+  "end_date": "20171120",
+  "receipt_no": "",
+  "gst_no": ""
+}
+[INFO] 2017-11-20 09:59:05,026 - sendHttp_Json >> RES size:6380
+[INFO] 2017-11-20 09:59:05,696 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-11-20 09:59:05,696 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it"
+}
+[INFO] 2017-11-20 09:59:05,852 - sendHttp_Json >> RES size:50
+[INFO] 2017-11-20 09:59:06,461 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/getDocIdDetails
+[INFO] 2017-11-20 09:59:06,461 - sendHttp_Json >> REQ:{
+  "doc_id": "20052598801170018127"
+}
+[INFO] 2017-11-20 09:59:06,632 - sendHttp_Json >> RES size:834
+[INFO] 2017-11-20 09:59:06,632 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/getReceiptDetails
+[INFO] 2017-11-20 09:59:06,632 - sendHttp_Json >> REQ:{
+  "doc_id": "20052598801170018127"
+}
+[INFO] 2017-11-20 09:59:06,804 - sendHttp_Json >> RES size:148
+[INFO] 2017-11-20 09:59:08,863 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-11-20 09:59:08,863 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it"
+}
+[INFO] 2017-11-20 09:59:09,019 - sendHttp_Json >> RES size:50
+[INFO] 2017-11-20 09:59:12,030 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-11-20 09:59:12,030 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it"
+}
+[INFO] 2017-11-20 09:59:12,186 - sendHttp_Json >> RES size:50
+[INFO] 2017-11-20 09:59:17,350 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-11-20 09:59:17,350 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it"
+}
+[INFO] 2017-11-20 09:59:17,755 - sendHttp_Json >> RES size:50
+[INFO] 2017-11-20 09:59:20,766 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-11-20 09:59:20,766 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it"
+}
+[INFO] 2017-11-20 09:59:20,922 - sendHttp_Json >> RES size:50
+[INFO] 2017-11-20 09:59:23,933 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-11-20 09:59:23,933 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it"
+}
+[INFO] 2017-11-20 09:59:24,089 - sendHttp_Json >> RES size:50
+[INFO] 2017-11-20 09:59:27,104 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-11-20 09:59:27,104 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it"
+}
+[INFO] 2017-11-20 09:59:27,260 - sendHttp_Json >> RES size:50
+[INFO] 2017-11-20 09:59:30,271 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-11-20 09:59:30,271 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it"
+}
+[INFO] 2017-11-20 09:59:30,427 - sendHttp_Json >> RES size:50
+[INFO] 2017-11-20 09:59:33,437 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-11-20 09:59:33,437 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it"
+}
+[INFO] 2017-11-20 09:59:33,593 - sendHttp_Json >> RES size:50
+[INFO] 2017-11-20 09:59:36,604 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-11-20 09:59:36,604 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it"
+}
+[INFO] 2017-11-20 09:59:36,760 - sendHttp_Json >> RES size:50
+[INFO] 2017-11-20 09:59:39,771 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-11-20 09:59:39,771 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it"
+}
+[INFO] 2017-11-20 09:59:39,927 - sendHttp_Json >> RES size:50
+[INFO] 2017-11-20 09:59:42,938 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-11-20 09:59:42,938 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it"
+}
+[INFO] 2017-11-20 09:59:43,094 - sendHttp_Json >> RES size:50
+[INFO] 2017-11-20 09:59:46,105 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-11-20 09:59:46,105 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it"
+}
+[INFO] 2017-11-20 09:59:46,261 - sendHttp_Json >> RES size:50

@@ -1,0 +1,27 @@
+[INFO] 2017-09-14 18:16:38,797 - <--{"rows":5,"list":[{"company_id":"05144","company_name":"Eadeco (Singapore) Pte. Ltd. "},{"company_id":"05101","company_name":"SV Global Enterprise Pte. Ltd. "},{"company_id":"05133","company_name":"Elush (T3) Pte. Ltd. "},{"company_id":"05018","company_name":"Global Tax Free Pte Ltd"},{"company_id":"05147","company_name":"JNA Networks Pte. Ltd. "}]}
+[INFO] 2017-09-14 18:16:38,806 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-14 18:16:38,896 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-14 18:16:38,896 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-14 18:16:38,907 - sendHttp_Json >> RES size:1595
+[INFO] 2017-09-14 18:16:38,908 - <--{"rows":5,"list":[{"rec_digits":null,"company_id":"05147","group_name":"ION","mid":"03260","rec_prefix":null,"tid":"65130248","gst_no":"201503402K","company_name":"JNA Networks Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"OBBA & LLang","item_code3":null,"item_code2":"09","item_code1":"05","item_code5":null},{"rec_digits":"7","company_id":"05018","group_name":"ION","mid":"03030","rec_prefix":"GTF","tid":"65130246","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","item_code4":"11","dup_rc":"N","store_name":"Global Tax Free Pte Ltd","item_code3":"09","item_code2":"04","item_code1":"06","item_code5":"13"},{"rec_digits":null,"company_id":"05101","group_name":"ION","mid":"03172","rec_prefix":null,"tid":"65130247","gst_no":"201405244D","company_name":"SV Global Enterprise Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"SV Global Enterprise Pte. Ltd. ","item_code3":null,"item_code2":null,"item_code1":"28","item_code5":null},{"rec_digits":null,"company_id":"05133","group_name":"ION","mid":"03229","rec_prefix":null,"tid":"65130249","gst_no":"200722074E","company_name":"Elush (T3) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"iStudio - Changi Airport T3","item_code3":null,"item_code2":"28","item_code1":"03","item_code5":null},{"rec_digits":null,"company_id":"05144","group_name":"ION","mid":"03257","rec_prefix":null,"tid":"65130250","gst_no":"200413885M","company_name":"Eadeco (Singapore) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"Akemi Uchi - Jem","item_code3":null,"item_code2":null,"item_code1":"23","item_code5":null}]}
+[INFO] 2017-09-14 18:16:42,456 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-14 18:16:42,456 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-14 18:16:42,458 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-14 18:16:45,459 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-14 18:16:45,459 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-14 18:16:45,461 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-14 18:16:48,463 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-14 18:16:48,463 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-14 18:16:48,466 - sendHttp_Json >> RES size:52

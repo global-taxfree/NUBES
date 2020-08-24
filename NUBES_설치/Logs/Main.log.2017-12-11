@@ -1,0 +1,60 @@
+[INFO] 2017-12-11 10:36:07,064 - Start Application................
+[INFO] 2017-12-11 10:36:15,409 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/login
+[INFO] 2017-12-11 10:36:15,409 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it",
+  "password": "gtfsg12345"
+}
+[ERROR] 2017-12-11 10:36:22,527 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-12-11 10:37:34,114 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-12-11 10:37:34,132 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.Login(String strUserId, String strPassword) 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 40
+[INFO] 2017-12-11 10:37:38,501 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/login
+[INFO] 2017-12-11 10:37:38,502 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it",
+  "password": "gtfsg12345"
+}
+[INFO] 2017-12-11 10:37:39,006 - sendHttp_Json >> RES size:120
+[INFO] 2017-12-11 10:37:39,045 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-12-11 10:37:39,053 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it"
+}
+[INFO] 2017-12-11 10:37:39,056 - sendHttp_Json >> RES size:50
+[INFO] 2017-12-11 10:37:39,263 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchCountryCode
+[INFO] 2017-12-11 10:37:39,263 - sendHttp_Json >> REQ:{}
+[INFO] 2017-12-11 10:37:41,717 - sendHttp_Json >> RES size:8480
+[INFO] 2017-12-11 10:37:41,864 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchStoreName
+[INFO] 2017-12-11 10:37:41,864 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000001"
+}
+[INFO] 2017-12-11 10:37:42,368 - sendHttp_Json >> RES size:610
+[INFO] 2017-12-11 10:37:42,450 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchAutoCompanyName
+[INFO] 2017-12-11 10:37:42,450 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000001"
+}
+[INFO] 2017-12-11 10:37:42,945 - sendHttp_Json >> RES size:142
+[INFO] 2017-12-11 10:37:42,951 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchStoreName
+[INFO] 2017-12-11 10:37:42,952 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000001"
+}
+[INFO] 2017-12-11 10:37:43,448 - sendHttp_Json >> RES size:610
+[INFO] 2017-12-11 10:37:46,889 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-12-11 10:37:46,889 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it"
+}
+[INFO] 2017-12-11 10:37:46,893 - sendHttp_Json >> RES size:50
+[INFO] 2017-12-11 10:37:49,894 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-12-11 10:37:49,894 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it"
+}
+[INFO] 2017-12-11 10:37:49,896 - sendHttp_Json >> RES size:50
+[INFO] 2017-12-11 10:37:54,738 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-12-11 10:37:54,738 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it"
+}
+[INFO] 2017-12-11 10:37:54,741 - sendHttp_Json >> RES size:50

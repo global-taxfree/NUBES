@@ -1,0 +1,1970 @@
+[INFO] 2017-08-22 22:57:20,987 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:57:20,991 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:57:21,154 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:57:24,155 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:57:24,155 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:57:24,319 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:57:27,321 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:57:27,321 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:57:27,484 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:57:30,485 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:57:30,485 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:57:30,648 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:57:33,649 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:57:33,649 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:57:33,812 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:57:36,813 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:57:36,813 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:57:36,975 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:57:39,975 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:57:39,975 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:57:40,138 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:57:43,139 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:57:43,139 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:57:43,305 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:57:46,306 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:57:46,306 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:57:46,469 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:57:49,470 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:57:49,470 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:57:49,634 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:57:52,635 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:57:52,635 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:57:52,799 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:57:55,800 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:57:55,800 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:57:55,963 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:57:58,964 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:57:58,964 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:57:59,127 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:58:02,128 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:58:02,128 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:58:02,292 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:58:05,293 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:58:05,293 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:58:05,457 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:58:08,457 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:58:08,457 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:58:08,621 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:58:11,621 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:58:11,621 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:58:11,785 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:58:14,786 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:58:14,786 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:58:14,950 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:58:17,951 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:58:17,951 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:58:18,115 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:58:21,116 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:58:21,116 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:58:21,279 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:58:24,280 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:58:24,280 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:58:24,444 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:58:27,445 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:58:27,445 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:58:27,609 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:58:30,610 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:58:30,610 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:58:30,774 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:58:33,774 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:58:33,774 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:58:33,937 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:58:36,938 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:58:36,938 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:58:37,100 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:58:40,101 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:58:40,101 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:58:40,265 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:58:43,266 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:58:43,266 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:58:43,882 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:58:46,883 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:58:46,883 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:58:47,047 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:58:50,048 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:58:50,048 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:58:50,212 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:58:53,213 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:58:53,213 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:58:53,380 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:58:56,381 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:58:56,381 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:58:56,546 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:58:59,546 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:58:59,546 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:58:59,711 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:59:02,711 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:59:02,711 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:59:02,876 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:59:05,877 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:59:05,877 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:59:06,041 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:59:09,042 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:59:09,042 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:59:09,207 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:59:12,209 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:59:12,209 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:59:12,374 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:59:15,375 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:59:15,375 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:59:15,539 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:59:18,542 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:59:18,542 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:59:18,707 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:59:21,708 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:59:21,708 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:59:21,872 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:59:24,873 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:59:24,873 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:59:25,037 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:59:28,038 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:59:28,038 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:59:28,203 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:59:31,204 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:59:31,204 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:59:31,369 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:59:34,369 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:59:34,369 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:59:34,534 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:59:37,534 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:59:37,534 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:59:37,699 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:59:40,699 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:59:40,699 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:59:40,864 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:59:43,864 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:59:43,864 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:59:44,028 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:59:47,029 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:59:47,029 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:59:47,195 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:59:50,195 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:59:50,195 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:59:50,360 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:59:53,360 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:59:53,360 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:59:53,525 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:59:56,525 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:59:56,525 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:59:56,689 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 22:59:59,690 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 22:59:59,690 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 22:59:59,854 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:00:02,854 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:00:02,854 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:00:03,019 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:00:06,020 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:00:06,020 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:00:06,184 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:00:09,185 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:00:09,185 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:00:09,350 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:00:12,350 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:00:12,350 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:00:12,514 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:00:15,515 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:00:15,515 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:00:15,680 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:00:18,681 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:00:18,681 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:00:18,846 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:00:21,846 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:00:21,846 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:00:22,010 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:00:25,011 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:00:25,011 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:00:25,176 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:00:28,176 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:00:28,176 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:00:28,340 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:00:31,341 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:00:31,341 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:00:31,505 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:00:34,506 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:00:34,506 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:00:34,671 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:00:37,671 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:00:37,671 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:00:37,836 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:00:40,837 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:00:40,837 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:00:41,002 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:00:44,002 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:00:44,002 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:00:44,167 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:00:47,168 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:00:47,168 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:00:47,332 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:00:50,333 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:00:50,333 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:00:50,497 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:00:53,498 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:00:53,498 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:00:53,663 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:00:56,663 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:00:56,663 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:00:56,828 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:00:59,830 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:00:59,830 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:00:59,995 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:01:02,996 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:01:02,996 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:01:03,160 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:01:06,160 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:01:06,160 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:01:06,325 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:01:09,326 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:01:09,326 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:01:09,491 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:01:12,491 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:01:12,491 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:01:12,655 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:01:15,656 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:01:15,656 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:01:15,821 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:01:18,821 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:01:18,821 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:01:18,985 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:01:21,986 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:01:21,986 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:01:22,150 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:01:25,153 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:01:25,153 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:01:25,317 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:01:28,318 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:01:28,318 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:01:28,483 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:01:31,483 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:01:31,483 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:01:31,647 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:01:34,649 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:01:34,649 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:01:34,816 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:01:37,817 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:01:37,817 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:01:37,981 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:01:40,982 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:01:40,982 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:01:41,147 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:01:44,147 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:01:44,147 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:01:44,312 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:01:47,313 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:01:47,313 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:01:47,477 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:01:50,479 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:01:50,479 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:01:50,644 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:01:53,644 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:01:53,644 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:01:53,808 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:01:56,809 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:01:56,809 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:01:56,973 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:01:59,974 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:01:59,974 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:02:00,139 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:02:03,139 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:02:03,139 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:02:03,303 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:02:06,303 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:02:06,303 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:02:06,467 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:02:09,468 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:02:09,468 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:02:09,633 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:02:12,633 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:02:12,633 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:02:12,797 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:02:15,797 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:02:15,797 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:02:15,962 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:02:18,962 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:02:18,962 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:02:19,126 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:02:22,127 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:02:22,127 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:02:22,292 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:02:25,293 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:02:25,293 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:02:25,457 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:02:28,458 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:02:28,458 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:02:28,622 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:02:31,622 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:02:31,622 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:02:31,786 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:02:34,787 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:02:34,787 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:02:34,952 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:02:37,952 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:02:37,952 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:02:38,117 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:02:41,117 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:02:41,117 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:02:41,281 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:02:44,283 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:02:44,283 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:02:44,448 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:02:47,448 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:02:47,448 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:02:47,612 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:02:50,612 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:02:50,612 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:02:50,776 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:02:53,777 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:02:53,777 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:02:53,943 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:02:56,943 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:02:56,943 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:02:57,108 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:03:00,109 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:03:00,109 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:03:00,273 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:03:03,274 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:03:03,274 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:03:03,439 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:03:06,439 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:03:06,439 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:03:06,605 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:03:09,605 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:03:09,605 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:03:09,769 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:03:12,770 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:03:12,770 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:03:12,934 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:03:15,935 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:03:15,935 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:03:16,100 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:03:19,101 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:03:19,102 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:03:19,266 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:03:22,267 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:03:22,267 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:03:22,432 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:03:25,432 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:03:25,432 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:03:25,597 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:03:28,598 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:03:28,598 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:03:28,762 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:03:31,763 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:03:31,763 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:03:31,927 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:03:34,928 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:03:34,928 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:03:35,093 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:03:38,093 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:03:38,093 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:03:38,257 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:03:41,258 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:03:41,258 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:03:41,422 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:03:44,423 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:03:44,423 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:03:44,587 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:03:47,587 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:03:47,587 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:03:47,752 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:03:50,753 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:03:50,753 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:03:50,916 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:03:53,918 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:03:53,918 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:03:54,085 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:03:57,086 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:03:57,086 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:03:57,250 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:04:00,251 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:04:00,251 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:04:00,416 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:04:03,416 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:04:03,416 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:04:04,692 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:04:07,693 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:04:07,693 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:04:07,906 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:04:10,908 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:04:10,908 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:04:11,121 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:04:14,121 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:04:14,121 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:04:14,333 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:04:17,334 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:04:17,334 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:04:17,549 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:04:20,550 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:04:20,550 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:04:20,762 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:04:23,763 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:04:23,763 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:04:23,975 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:04:26,977 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:04:26,977 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:04:27,189 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:04:30,190 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:04:30,190 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:04:30,403 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:04:33,403 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:04:33,403 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:04:33,615 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:04:36,615 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:04:36,615 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:04:36,827 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:04:39,828 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:04:39,828 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:04:40,040 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:04:43,040 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:04:43,040 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:04:43,251 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:04:46,253 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:04:46,253 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:04:46,465 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:04:49,465 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:04:49,465 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:04:49,677 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:04:52,678 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:04:52,678 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:04:52,890 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:04:55,891 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:04:55,891 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:04:56,103 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:04:59,104 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:04:59,104 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:04:59,317 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:05:02,318 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:05:02,318 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:05:02,531 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:05:05,532 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:05:05,532 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:05:05,744 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:05:08,745 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:05:08,745 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:05:08,958 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:05:11,958 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:05:11,958 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:05:12,170 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:05:15,171 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:05:15,171 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:05:15,383 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:05:18,384 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:05:18,384 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:05:18,598 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:05:21,600 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:05:21,600 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:05:21,813 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:05:24,814 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:05:24,814 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:05:25,027 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:05:28,028 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:05:28,028 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:05:28,241 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:05:31,241 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:05:31,241 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:05:31,454 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:05:34,455 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:05:34,455 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:05:34,668 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:05:37,670 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:05:37,670 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:05:37,882 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:05:40,883 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:05:40,883 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:05:41,095 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:05:44,095 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:05:44,095 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:05:44,307 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:05:47,308 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:05:47,308 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:05:47,520 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:05:50,521 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:05:50,521 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:05:50,733 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:05:53,734 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:05:53,734 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:05:53,946 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:05:56,948 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:05:56,948 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:05:57,160 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:06:00,160 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:06:00,160 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:06:00,372 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:06:03,373 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:06:03,373 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:06:03,587 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:06:06,588 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:06:06,588 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:06:06,802 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:06:09,802 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:06:09,802 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:06:10,015 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:06:13,016 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:06:13,016 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:06:13,228 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:06:16,229 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:06:16,229 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:06:16,441 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:06:19,441 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:06:19,441 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:06:19,654 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:06:22,654 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:06:22,654 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:06:22,866 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:06:25,867 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:06:25,867 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:06:26,079 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:06:29,080 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:06:29,080 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:06:29,293 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:06:32,294 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:06:32,294 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:06:32,507 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:06:35,508 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:06:35,508 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:06:35,720 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:06:38,721 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:06:38,721 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:06:38,936 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:06:41,937 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:06:41,937 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:06:42,149 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:06:45,150 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:06:45,150 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:06:45,363 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:06:48,364 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:06:48,364 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:06:48,577 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:06:51,578 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:06:51,578 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:06:51,790 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:06:54,791 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:06:54,791 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:06:55,003 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:06:58,004 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:06:58,004 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:06:58,216 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:07:01,217 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:07:01,217 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:07:01,430 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:07:04,431 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:07:04,431 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:07:04,642 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:07:07,643 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:07:07,643 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:07:07,856 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:07:10,856 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:07:10,857 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:07:11,068 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:07:14,069 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:07:14,069 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:07:14,282 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:07:17,282 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:07:17,282 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:07:17,502 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:07:20,503 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:07:20,503 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:07:20,715 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:07:23,716 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:07:23,716 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:07:23,928 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:07:26,929 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:07:26,929 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:07:27,141 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:07:30,142 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:07:30,142 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:07:30,355 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:07:33,355 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:07:33,355 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:07:33,567 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:07:36,567 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:07:36,567 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:07:36,780 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:07:39,781 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:07:39,781 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:07:39,993 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:07:42,994 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:07:42,994 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:07:43,206 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:07:46,207 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:07:46,207 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:07:46,418 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:07:49,419 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:07:49,419 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:07:49,632 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:07:52,633 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:07:52,633 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:07:52,846 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:07:55,846 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:07:55,846 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:07:56,058 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:07:59,060 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:07:59,060 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:07:59,272 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:08:02,273 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:08:02,273 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:08:02,485 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:08:05,486 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:08:05,486 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:08:05,698 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:08:08,699 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:08:08,699 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:08:08,911 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:08:11,912 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:08:11,912 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:08:12,125 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:08:15,126 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:08:15,126 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:08:15,338 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:08:18,339 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:08:18,339 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:08:18,552 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:08:21,552 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:08:21,552 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:08:21,764 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:08:24,765 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:08:24,765 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:08:24,977 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:08:27,978 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:08:27,978 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:08:28,190 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:08:31,191 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:08:31,191 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:08:31,404 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:08:34,406 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:08:34,406 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:08:34,618 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:08:37,618 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:08:37,618 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:08:37,830 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:08:40,830 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:08:40,830 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:08:41,042 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:08:44,043 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:08:44,043 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:08:44,255 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:08:47,255 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:08:47,255 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:08:47,466 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:08:50,468 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:08:50,468 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:08:50,680 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:08:53,681 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:08:53,681 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:08:53,893 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:08:56,894 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:08:56,894 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:08:57,106 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:09:00,106 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:09:00,106 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:09:00,318 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:09:03,319 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:09:03,319 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:09:03,531 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:09:06,531 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:09:06,531 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:09:06,744 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:09:09,745 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:09:09,745 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:09:09,958 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:09:12,958 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:09:12,959 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:09:13,171 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:09:16,172 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:09:16,172 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:09:16,384 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:09:19,385 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:09:19,385 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:09:19,597 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:09:22,598 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:09:22,598 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:09:22,810 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:09:25,812 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:09:25,812 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:09:26,024 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:09:29,025 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:09:29,025 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:09:29,751 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:09:32,752 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:09:32,752 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:09:32,967 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:09:35,967 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:09:35,967 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:09:36,178 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:09:39,178 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:09:39,178 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:09:39,388 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:09:42,389 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:09:42,389 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:09:42,600 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:09:45,601 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:09:45,601 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:09:45,815 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:09:48,815 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:09:48,815 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:09:49,026 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:09:52,027 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:09:52,027 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:09:52,253 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:09:55,253 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:09:55,253 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:09:55,463 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:09:58,463 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:09:58,463 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:09:58,673 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:10:01,674 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:10:01,675 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:10:01,884 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:10:04,884 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:10:04,884 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:10:05,094 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:10:08,095 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:10:08,095 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:10:08,305 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:10:11,305 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:10:11,305 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:10:11,515 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:10:14,515 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:10:14,515 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:10:14,725 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:10:17,727 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:10:17,727 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:10:17,937 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:10:20,940 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:10:20,940 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:10:21,150 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:10:24,151 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:10:24,151 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:10:24,360 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:10:27,361 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:10:27,361 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:10:27,571 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:10:30,572 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:10:30,572 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:10:30,782 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:10:33,782 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:10:33,782 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:10:33,993 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:10:36,993 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:10:36,993 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:10:37,203 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:10:40,203 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:10:40,203 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:10:40,413 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:10:43,414 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:10:43,414 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:10:43,625 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:10:46,625 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:10:46,625 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:10:46,835 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:10:49,835 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:10:49,835 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:10:50,045 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:10:53,047 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:10:53,047 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:10:53,257 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:10:56,257 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:10:56,257 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:10:56,467 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:10:59,467 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:10:59,467 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:10:59,678 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:11:02,678 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:11:02,678 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:11:02,889 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:11:05,889 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:11:05,889 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:11:06,099 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:11:09,101 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:11:09,101 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:11:09,311 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:11:12,312 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:11:12,312 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:11:12,522 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:11:15,522 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:11:15,522 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:11:15,731 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:11:18,732 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:11:18,732 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:11:18,941 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:11:21,942 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:11:21,942 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:11:22,153 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:11:25,153 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:11:25,153 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:11:25,363 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:11:28,365 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:11:28,365 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:11:28,575 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:11:31,576 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:11:31,576 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:11:31,785 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:11:34,786 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:11:34,786 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:11:34,996 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:11:37,997 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:11:37,997 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:11:38,207 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:11:41,207 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:11:41,207 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:11:41,417 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:11:44,418 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:11:44,418 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:11:44,629 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:11:47,630 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:11:47,630 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:11:47,840 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:11:50,840 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:11:50,840 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:11:51,050 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:11:54,051 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:11:54,051 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:11:54,261 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:11:57,262 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:11:57,262 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:11:57,473 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:12:00,474 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:12:00,474 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:12:00,684 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:12:03,686 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:12:03,686 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:12:03,896 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:12:06,896 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:12:06,896 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:12:07,106 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:12:10,106 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:12:10,106 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:12:10,324 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:12:13,324 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:12:13,324 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:12:13,534 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:12:16,534 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:12:16,534 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:12:16,745 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:12:19,747 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:12:19,747 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:12:19,957 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:12:22,957 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:12:22,957 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:12:23,167 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:12:26,168 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:12:26,168 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:12:26,388 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:12:29,389 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:12:29,389 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:12:29,599 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:12:32,599 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:12:32,599 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:12:32,809 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:12:35,810 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:12:35,810 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:12:36,020 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:12:39,022 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:12:39,022 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:12:39,233 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:12:42,233 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:12:42,233 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:12:42,443 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:12:45,444 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:12:45,444 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:12:45,653 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:12:48,654 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:12:48,654 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:12:48,874 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:12:51,875 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:12:51,875 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:12:52,085 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:12:55,086 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:12:55,086 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:12:55,296 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:12:58,296 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:12:58,296 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:12:58,506 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:13:01,506 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:13:01,506 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:13:01,717 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:13:04,718 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:13:04,718 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:13:04,928 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:13:07,929 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:13:07,929 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:13:08,139 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:13:11,140 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:13:11,140 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:13:11,353 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:13:14,353 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:13:14,353 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:13:14,563 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:13:17,564 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:13:17,564 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:13:17,775 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:13:20,776 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:13:20,776 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:13:20,985 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:13:23,986 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:13:23,986 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:13:24,196 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:13:27,196 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:13:27,196 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:13:27,406 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:13:30,407 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:13:30,407 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:13:30,617 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:13:33,618 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:13:33,618 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:13:33,827 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:13:36,828 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:13:36,828 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:13:37,038 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:13:40,038 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:13:40,038 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:13:40,248 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:13:43,249 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:13:43,249 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:13:43,459 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:13:46,460 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:13:46,460 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:13:46,669 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:13:49,670 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:13:49,670 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:13:49,880 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:13:52,880 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:13:52,880 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:13:53,090 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:13:56,091 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:13:56,091 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:13:56,301 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:13:59,301 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:13:59,301 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:13:59,511 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:14:02,512 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:14:02,512 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:14:02,722 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:14:05,724 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:14:05,726 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:14:05,935 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:14:08,936 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:14:08,936 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:14:09,146 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:14:12,147 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:14:12,147 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:14:12,358 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:14:15,359 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:14:15,359 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:14:15,569 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:14:18,569 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:14:18,569 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:14:18,779 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:14:21,780 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:14:21,780 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:14:21,990 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:14:24,990 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:14:24,990 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:14:25,200 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:14:28,200 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:14:28,200 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:14:28,410 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:14:31,411 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:14:31,411 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:14:31,621 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:14:34,622 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:14:34,622 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:14:34,832 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:14:37,832 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:14:37,832 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:14:38,041 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:14:41,043 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:14:41,043 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:14:41,253 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:14:44,253 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:14:44,253 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:14:44,463 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:14:47,464 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:14:47,464 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:14:47,674 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:14:50,675 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:14:50,675 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:14:50,885 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:14:53,886 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:14:53,886 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:14:55,460 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:14:58,462 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:14:58,462 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:14:58,649 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:15:01,649 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:15:01,649 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:15:01,831 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:15:04,832 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:15:04,832 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:15:05,014 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:15:08,015 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:15:08,015 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:15:08,198 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:15:11,199 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:15:11,199 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:15:11,381 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:15:14,382 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:15:14,382 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:15:14,565 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:15:17,565 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:15:17,565 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:15:17,747 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:15:20,747 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:15:20,747 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:15:20,929 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:15:23,930 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:15:23,930 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:15:24,112 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:15:27,112 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:15:27,112 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:15:27,296 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:15:30,297 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:15:30,297 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:15:30,480 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:15:33,482 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:15:33,482 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:15:33,663 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:15:36,664 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:15:36,664 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:15:36,846 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:15:39,847 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:15:39,847 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:15:40,029 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:15:43,030 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:15:43,030 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:15:43,212 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:15:46,213 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:15:46,213 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:15:46,395 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:15:49,396 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:15:49,396 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:15:49,578 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:15:52,579 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:15:52,579 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:15:52,762 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:15:55,763 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:15:55,763 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:15:55,945 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:15:58,945 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:15:58,945 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:15:59,128 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:16:02,129 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:16:02,129 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:16:02,312 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:16:05,312 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:16:05,312 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:16:05,494 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:16:08,495 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:16:08,495 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:16:08,678 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:16:11,678 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:16:11,678 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:16:11,860 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:16:14,860 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:16:14,860 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:16:15,042 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:16:18,043 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:16:18,043 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:16:18,225 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:16:21,226 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:16:21,226 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:16:21,408 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:16:24,410 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:16:24,410 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:16:24,592 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:16:27,593 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:16:27,593 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:16:27,775 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:16:30,776 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:16:30,776 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:16:30,958 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:16:33,959 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:16:33,959 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:16:34,141 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:16:37,150 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:16:37,150 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:16:37,330 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:16:40,331 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:16:40,331 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:16:40,514 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:16:43,515 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:16:43,515 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:16:43,697 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:16:46,697 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:16:46,697 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:16:46,879 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:16:49,880 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:16:49,880 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:16:50,062 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:16:53,063 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:16:53,063 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:16:53,245 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:16:56,246 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:16:56,246 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:16:56,429 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:16:59,430 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:16:59,430 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:16:59,612 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:17:02,613 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:17:02,613 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:17:02,796 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:17:05,797 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:17:05,797 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:17:05,979 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:17:08,980 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:17:08,980 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:17:09,162 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:17:12,163 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:17:12,163 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:17:12,344 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:17:15,345 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:17:15,345 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:17:15,528 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:17:18,530 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:17:18,530 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:17:18,712 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:17:21,712 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:17:21,712 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:17:21,894 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:17:24,895 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:17:24,895 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:17:25,077 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:17:28,078 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:17:28,078 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:17:28,260 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:17:31,261 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:17:31,261 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:17:31,444 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:17:34,445 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:17:34,445 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:17:34,628 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:17:37,628 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:17:37,628 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:17:37,811 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:17:40,811 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:17:40,811 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:17:40,992 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:17:43,993 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:17:43,993 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:17:44,178 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:17:47,179 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:17:47,179 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:17:47,362 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:17:50,363 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:17:50,363 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:17:50,545 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:17:53,547 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:17:53,547 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:17:53,729 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:17:56,730 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:17:56,730 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:17:56,912 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:17:59,913 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:17:59,913 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:18:00,095 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:18:03,096 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:18:03,096 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:18:03,279 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:18:06,279 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:18:06,279 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:18:06,480 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:18:09,481 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:18:09,481 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:18:09,669 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:18:12,670 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:18:12,670 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:18:12,854 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:18:15,854 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:18:15,854 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:18:16,037 - sendHttp_Json >> RES size:52
+[INFO] 2017-08-22 23:18:19,038 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-08-22 23:18:19,038 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-08-22 23:18:19,219 - sendHttp_Json >> RES size:52

@@ -1,0 +1,276 @@
+[INFO] 2017-09-01 17:47:01,555 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:47:01,569 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:47:01,737 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-01 17:47:02,103 - -->{
+  "keyword": "a",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:47:02,104 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-01 17:47:02,104 - sendHttp_Json >> REQ:{
+  "keyword": "a",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:47:02,297 - sendHttp_Json >> RES size:604
+[INFO] 2017-09-01 17:47:02,298 - <--{"list":[{"group_name":"ION","rec_digits":null,"company_id":"05037","gst_no":"198600490M","rec_prefix":null,"company_name":"Song Brothers Marketing","item_code2":"18","item_code1":"03","item_code4":null,"tid":"65130049","mid":"03071","item_code3":"26","store_name":"Song Brothers Marketing-SLS","item_code5":null},{"group_name":"ION","rec_digits":"10","company_id":"05035","gst_no":"200307218M","rec_prefix":"ALDO","company_name":"Montreal Pte Ltd","item_code2":"11","item_code1":"10","item_code4":null,"tid":"65130048","mid":"03066","item_code3":null,"store_name":"ALDO-CP","item_code5":null}],"rows":2}
+[INFO] 2017-09-01 17:47:03,620 - -->{
+  "keyword": "al",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:47:03,621 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-01 17:47:03,621 - sendHttp_Json >> REQ:{
+  "keyword": "al",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:47:03,799 - sendHttp_Json >> RES size:299
+[INFO] 2017-09-01 17:47:03,800 - <--{"list":[{"group_name":"ION","rec_digits":"10","company_id":"05035","gst_no":"200307218M","rec_prefix":"ALDO","company_name":"Montreal Pte Ltd","item_code2":"11","item_code1":"10","item_code4":null,"tid":"65130048","mid":"03066","item_code3":null,"store_name":"ALDO-CP","item_code5":null}],"rows":1}
+[INFO] 2017-09-01 17:47:04,738 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:47:04,738 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:47:04,906 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-01 17:47:04,933 - -->{
+  "keyword": "al",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:47:04,934 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-01 17:47:04,934 - sendHttp_Json >> REQ:{
+  "keyword": "al",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:47:05,113 - sendHttp_Json >> RES size:299
+[INFO] 2017-09-01 17:47:05,113 - <--{"list":[{"group_name":"ION","rec_digits":"10","company_id":"05035","gst_no":"200307218M","rec_prefix":"ALDO","company_name":"Montreal Pte Ltd","item_code2":"11","item_code1":"10","item_code4":null,"tid":"65130048","mid":"03066","item_code3":null,"store_name":"ALDO-CP","item_code5":null}],"rows":1}
+[INFO] 2017-09-01 17:47:07,907 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:47:07,907 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:47:08,075 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-01 17:47:10,138 - -->{}
+[INFO] 2017-09-01 17:47:10,138 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/getItemCodeList
+[INFO] 2017-09-01 17:47:10,139 - sendHttp_Json >> REQ:{}
+[INFO] 2017-09-01 17:47:10,305 - sendHttp_Json >> RES size:1638
+[INFO] 2017-09-01 17:47:10,306 - <--{"list":[{"code_name":"Arts & Antiques","code_id":"01"},{"code_name":"Automobile Acc.","code_id":"02"},{"code_name":"AV Equipment","code_id":"03"},{"code_name":"Baby Prod.","code_id":"04"},{"code_name":"Beauty Prod.","code_id":"05"},{"code_name":"Books & Stationery","code_id":"06"},{"code_name":"Costume Jewellery","code_id":"07"},{"code_name":"Dept. Store Prod.","code_id":"08"},{"code_name":"Fashion & Clothing","code_id":"09"},{"code_name":"Fashion Acc.","code_id":"10"},{"code_name":"Footwear","code_id":"11"},{"code_name":"Furniture","code_id":"12"},{"code_name":"Games & Toys","code_id":"13"},{"code_name":"Glass & Crystal","code_id":"14"},{"code_name":"Handicraft","code_id":"15"},{"code_name":"Health Prod.","code_id":"16"},{"code_name":"Home Appliances","code_id":"17"},{"code_name":"IT Equipment","code_id":"18"},{"code_name":"Jewellery","code_id":"19"},{"code_name":"Leather Goods","code_id":"20"},{"code_name":"Lingerie Apparels","code_id":"21"},{"code_name":"Medical Equipment","code_id":"22"},{"code_name":"Medical Prod.","code_id":"23"},{"code_name":"Optical Prod.","code_id":"24"},{"code_name":"Other Retail Prod.","code_id":"25"},{"code_name":"Photographic Prod.","code_id":"26"},{"code_name":"Souvenirs & Gifts","code_id":"27"},{"code_name":"Spa Prod.","code_id":"28"},{"code_name":"Sports Equipment","code_id":"29"},{"code_name":"Teleco Equipment","code_id":"30"},{"code_name":"Textile & Carpets","code_id":"31"},{"code_name":"Tobacco & Wines","code_id":"32"},{"code_name":"Travel Accessories","code_id":"33"},{"code_name":"Video Music Prod.","code_id":"34"},{"code_name":"Watches & Clocks","code_id":"35"}],"rows":35}
+[INFO] 2017-09-01 17:47:11,052 - -->{
+  "keyword": "a",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:47:11,052 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-01 17:47:11,053 - sendHttp_Json >> REQ:{
+  "keyword": "a",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:47:11,075 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:47:11,075 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:47:11,231 - sendHttp_Json >> RES size:604
+[INFO] 2017-09-01 17:47:11,232 - <--{"list":[{"group_name":"ION","rec_digits":null,"company_id":"05037","gst_no":"198600490M","rec_prefix":null,"company_name":"Song Brothers Marketing","item_code2":"18","item_code1":"03","item_code4":null,"tid":"65130049","mid":"03071","item_code3":"26","store_name":"Song Brothers Marketing-SLS","item_code5":null},{"group_name":"ION","rec_digits":"10","company_id":"05035","gst_no":"200307218M","rec_prefix":"ALDO","company_name":"Montreal Pte Ltd","item_code2":"11","item_code1":"10","item_code4":null,"tid":"65130048","mid":"03066","item_code3":null,"store_name":"ALDO-CP","item_code5":null}],"rows":2}
+[INFO] 2017-09-01 17:47:11,416 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-01 17:47:13,476 - -->{
+  "keyword": "al",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:47:13,476 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-01 17:47:13,477 - sendHttp_Json >> REQ:{
+  "keyword": "al",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:47:13,655 - sendHttp_Json >> RES size:299
+[INFO] 2017-09-01 17:47:13,655 - <--{"list":[{"group_name":"ION","rec_digits":"10","company_id":"05035","gst_no":"200307218M","rec_prefix":"ALDO","company_name":"Montreal Pte Ltd","item_code2":"11","item_code1":"10","item_code4":null,"tid":"65130048","mid":"03066","item_code3":null,"store_name":"ALDO-CP","item_code5":null}],"rows":1}
+[INFO] 2017-09-01 17:47:14,417 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:47:14,417 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:47:14,585 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-01 17:47:30,963 - Start Application................
+[INFO] 2017-09-01 17:47:32,388 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/login
+[INFO] 2017-09-01 17:47:32,388 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1",
+  "password": "gtf12345"
+}
+[INFO] 2017-09-01 17:47:33,163 - sendHttp_Json >> RES size:85
+[INFO] 2017-09-01 17:47:33,235 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:47:33,235 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:47:33,401 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-01 17:47:34,752 - -->{}
+[INFO] 2017-09-01 17:47:34,753 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/getItemCodeList
+[INFO] 2017-09-01 17:47:34,754 - sendHttp_Json >> REQ:{}
+[INFO] 2017-09-01 17:47:34,917 - sendHttp_Json >> RES size:1638
+[INFO] 2017-09-01 17:47:34,918 - <--{"list":[{"code_name":"Arts & Antiques","code_id":"01"},{"code_name":"Automobile Acc.","code_id":"02"},{"code_name":"AV Equipment","code_id":"03"},{"code_name":"Baby Prod.","code_id":"04"},{"code_name":"Beauty Prod.","code_id":"05"},{"code_name":"Books & Stationery","code_id":"06"},{"code_name":"Costume Jewellery","code_id":"07"},{"code_name":"Dept. Store Prod.","code_id":"08"},{"code_name":"Fashion & Clothing","code_id":"09"},{"code_name":"Fashion Acc.","code_id":"10"},{"code_name":"Footwear","code_id":"11"},{"code_name":"Furniture","code_id":"12"},{"code_name":"Games & Toys","code_id":"13"},{"code_name":"Glass & Crystal","code_id":"14"},{"code_name":"Handicraft","code_id":"15"},{"code_name":"Health Prod.","code_id":"16"},{"code_name":"Home Appliances","code_id":"17"},{"code_name":"IT Equipment","code_id":"18"},{"code_name":"Jewellery","code_id":"19"},{"code_name":"Leather Goods","code_id":"20"},{"code_name":"Lingerie Apparels","code_id":"21"},{"code_name":"Medical Equipment","code_id":"22"},{"code_name":"Medical Prod.","code_id":"23"},{"code_name":"Optical Prod.","code_id":"24"},{"code_name":"Other Retail Prod.","code_id":"25"},{"code_name":"Photographic Prod.","code_id":"26"},{"code_name":"Souvenirs & Gifts","code_id":"27"},{"code_name":"Spa Prod.","code_id":"28"},{"code_name":"Sports Equipment","code_id":"29"},{"code_name":"Teleco Equipment","code_id":"30"},{"code_name":"Textile & Carpets","code_id":"31"},{"code_name":"Tobacco & Wines","code_id":"32"},{"code_name":"Travel Accessories","code_id":"33"},{"code_name":"Video Music Prod.","code_id":"34"},{"code_name":"Watches & Clocks","code_id":"35"}],"rows":35}
+[INFO] 2017-09-01 17:47:35,839 - -->{
+  "keyword": "a",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:47:35,840 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-01 17:47:35,841 - sendHttp_Json >> REQ:{
+  "keyword": "a",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:47:36,018 - sendHttp_Json >> RES size:604
+[INFO] 2017-09-01 17:47:36,018 - <--{"list":[{"group_name":"ION","rec_digits":null,"company_id":"05037","gst_no":"198600490M","rec_prefix":null,"company_name":"Song Brothers Marketing","item_code2":"18","item_code1":"03","item_code4":null,"tid":"65130049","mid":"03071","item_code3":"26","store_name":"Song Brothers Marketing-SLS","item_code5":null},{"group_name":"ION","rec_digits":"10","company_id":"05035","gst_no":"200307218M","rec_prefix":"ALDO","company_name":"Montreal Pte Ltd","item_code2":"11","item_code1":"10","item_code4":null,"tid":"65130048","mid":"03066","item_code3":null,"store_name":"ALDO-CP","item_code5":null}],"rows":2}
+[INFO] 2017-09-01 17:47:36,851 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:47:36,851 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:47:37,017 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-01 17:48:21,839 - Start Application................
+[INFO] 2017-09-01 17:48:22,906 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/login
+[INFO] 2017-09-01 17:48:22,906 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1",
+  "password": "gtf12345"
+}
+[INFO] 2017-09-01 17:48:23,529 - sendHttp_Json >> RES size:85
+[INFO] 2017-09-01 17:48:23,584 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:48:23,586 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:48:23,750 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-01 17:48:27,208 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:48:27,208 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:48:27,372 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-01 17:48:27,922 - -->{}
+[INFO] 2017-09-01 17:48:27,923 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/getItemCodeList
+[INFO] 2017-09-01 17:48:27,923 - sendHttp_Json >> REQ:{}
+[INFO] 2017-09-01 17:48:28,085 - sendHttp_Json >> RES size:1638
+[INFO] 2017-09-01 17:48:28,085 - <--{"list":[{"code_name":"Arts & Antiques","code_id":"01"},{"code_name":"Automobile Acc.","code_id":"02"},{"code_name":"AV Equipment","code_id":"03"},{"code_name":"Baby Prod.","code_id":"04"},{"code_name":"Beauty Prod.","code_id":"05"},{"code_name":"Books & Stationery","code_id":"06"},{"code_name":"Costume Jewellery","code_id":"07"},{"code_name":"Dept. Store Prod.","code_id":"08"},{"code_name":"Fashion & Clothing","code_id":"09"},{"code_name":"Fashion Acc.","code_id":"10"},{"code_name":"Footwear","code_id":"11"},{"code_name":"Furniture","code_id":"12"},{"code_name":"Games & Toys","code_id":"13"},{"code_name":"Glass & Crystal","code_id":"14"},{"code_name":"Handicraft","code_id":"15"},{"code_name":"Health Prod.","code_id":"16"},{"code_name":"Home Appliances","code_id":"17"},{"code_name":"IT Equipment","code_id":"18"},{"code_name":"Jewellery","code_id":"19"},{"code_name":"Leather Goods","code_id":"20"},{"code_name":"Lingerie Apparels","code_id":"21"},{"code_name":"Medical Equipment","code_id":"22"},{"code_name":"Medical Prod.","code_id":"23"},{"code_name":"Optical Prod.","code_id":"24"},{"code_name":"Other Retail Prod.","code_id":"25"},{"code_name":"Photographic Prod.","code_id":"26"},{"code_name":"Souvenirs & Gifts","code_id":"27"},{"code_name":"Spa Prod.","code_id":"28"},{"code_name":"Sports Equipment","code_id":"29"},{"code_name":"Teleco Equipment","code_id":"30"},{"code_name":"Textile & Carpets","code_id":"31"},{"code_name":"Tobacco & Wines","code_id":"32"},{"code_name":"Travel Accessories","code_id":"33"},{"code_name":"Video Music Prod.","code_id":"34"},{"code_name":"Watches & Clocks","code_id":"35"}],"rows":35}
+[INFO] 2017-09-01 17:48:30,373 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:48:30,373 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:48:30,536 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-01 17:48:30,717 - -->{
+  "keyword": "a",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:48:30,718 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-01 17:48:30,718 - sendHttp_Json >> REQ:{
+  "keyword": "a",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:48:30,892 - sendHttp_Json >> RES size:604
+[INFO] 2017-09-01 17:48:30,893 - <--{"list":[{"group_name":"ION","rec_digits":null,"company_id":"05037","gst_no":"198600490M","rec_prefix":null,"company_name":"Song Brothers Marketing","item_code2":"18","item_code1":"03","item_code4":null,"tid":"65130049","mid":"03071","item_code3":"26","store_name":"Song Brothers Marketing-SLS","item_code5":null},{"group_name":"ION","rec_digits":"10","company_id":"05035","gst_no":"200307218M","rec_prefix":"ALDO","company_name":"Montreal Pte Ltd","item_code2":"11","item_code1":"10","item_code4":null,"tid":"65130048","mid":"03066","item_code3":null,"store_name":"ALDO-CP","item_code5":null}],"rows":2}
+[INFO] 2017-09-01 17:48:31,098 - -->{
+  "keyword": "al",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:48:31,099 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-01 17:48:31,099 - sendHttp_Json >> REQ:{
+  "keyword": "al",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:48:31,272 - sendHttp_Json >> RES size:299
+[INFO] 2017-09-01 17:48:31,273 - <--{"list":[{"group_name":"ION","rec_digits":"10","company_id":"05035","gst_no":"200307218M","rec_prefix":"ALDO","company_name":"Montreal Pte Ltd","item_code2":"11","item_code1":"10","item_code4":null,"tid":"65130048","mid":"03066","item_code3":null,"store_name":"ALDO-CP","item_code5":null}],"rows":1}
+[INFO] 2017-09-01 17:48:34,667 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:48:34,668 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:51:14,426 - Start Application................
+[INFO] 2017-09-01 17:51:16,947 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/login
+[INFO] 2017-09-01 17:51:16,948 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1",
+  "password": "gtf12345"
+}
+[INFO] 2017-09-01 17:51:18,706 - sendHttp_Json >> RES size:85
+[INFO] 2017-09-01 17:51:18,779 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:51:18,781 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:51:18,950 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-01 17:51:21,703 - -->{}
+[INFO] 2017-09-01 17:51:21,703 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/getItemCodeList
+[INFO] 2017-09-01 17:51:21,704 - sendHttp_Json >> REQ:{}
+[INFO] 2017-09-01 17:51:21,871 - sendHttp_Json >> RES size:1638
+[INFO] 2017-09-01 17:51:21,871 - <--{"list":[{"code_name":"Arts & Antiques","code_id":"01"},{"code_name":"Automobile Acc.","code_id":"02"},{"code_name":"AV Equipment","code_id":"03"},{"code_name":"Baby Prod.","code_id":"04"},{"code_name":"Beauty Prod.","code_id":"05"},{"code_name":"Books & Stationery","code_id":"06"},{"code_name":"Costume Jewellery","code_id":"07"},{"code_name":"Dept. Store Prod.","code_id":"08"},{"code_name":"Fashion & Clothing","code_id":"09"},{"code_name":"Fashion Acc.","code_id":"10"},{"code_name":"Footwear","code_id":"11"},{"code_name":"Furniture","code_id":"12"},{"code_name":"Games & Toys","code_id":"13"},{"code_name":"Glass & Crystal","code_id":"14"},{"code_name":"Handicraft","code_id":"15"},{"code_name":"Health Prod.","code_id":"16"},{"code_name":"Home Appliances","code_id":"17"},{"code_name":"IT Equipment","code_id":"18"},{"code_name":"Jewellery","code_id":"19"},{"code_name":"Leather Goods","code_id":"20"},{"code_name":"Lingerie Apparels","code_id":"21"},{"code_name":"Medical Equipment","code_id":"22"},{"code_name":"Medical Prod.","code_id":"23"},{"code_name":"Optical Prod.","code_id":"24"},{"code_name":"Other Retail Prod.","code_id":"25"},{"code_name":"Photographic Prod.","code_id":"26"},{"code_name":"Souvenirs & Gifts","code_id":"27"},{"code_name":"Spa Prod.","code_id":"28"},{"code_name":"Sports Equipment","code_id":"29"},{"code_name":"Teleco Equipment","code_id":"30"},{"code_name":"Textile & Carpets","code_id":"31"},{"code_name":"Tobacco & Wines","code_id":"32"},{"code_name":"Travel Accessories","code_id":"33"},{"code_name":"Video Music Prod.","code_id":"34"},{"code_name":"Watches & Clocks","code_id":"35"}],"rows":35}
+[INFO] 2017-09-01 17:51:22,330 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:51:22,330 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:51:22,497 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-01 17:51:23,527 - -->{
+  "keyword": "a",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:51:23,528 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-01 17:51:23,528 - sendHttp_Json >> REQ:{
+  "keyword": "a",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:51:23,729 - sendHttp_Json >> RES size:631
+[INFO] 2017-09-01 17:51:23,730 - <--{"list":[{"group_name":"ION","rec_digits":null,"company_id":"05037","gst_no":"198600490M","dup_rc":null,"rec_prefix":null,"company_name":"Song Brothers Marketing","item_code2":"18","item_code1":"03","item_code4":null,"tid":"65130049","mid":"03071","item_code3":"26","store_name":"Song Brothers Marketing-SLS","item_code5":null},{"group_name":"ION","rec_digits":"10","company_id":"05035","gst_no":"200307218M","dup_rc":"N","rec_prefix":"ALDO","company_name":"Montreal Pte Ltd","item_code2":"11","item_code1":"10","item_code4":null,"tid":"65130048","mid":"03066","item_code3":null,"store_name":"ALDO-CP","item_code5":null}],"rows":2}
+[INFO] 2017-09-01 17:51:23,957 - -->{
+  "keyword": "al",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:51:23,957 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-01 17:51:23,958 - sendHttp_Json >> REQ:{
+  "keyword": "al",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:51:24,151 - sendHttp_Json >> RES size:312
+[INFO] 2017-09-01 17:51:24,151 - <--{"list":[{"group_name":"ION","rec_digits":"10","company_id":"05035","gst_no":"200307218M","dup_rc":"N","rec_prefix":"ALDO","company_name":"Montreal Pte Ltd","item_code2":"11","item_code1":"10","item_code4":null,"tid":"65130048","mid":"03066","item_code3":null,"store_name":"ALDO-CP","item_code5":null}],"rows":1}
+[INFO] 2017-09-01 17:51:25,109 - -->{
+  "keyword": "al",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:51:25,109 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-01 17:51:25,110 - sendHttp_Json >> REQ:{
+  "keyword": "al",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-01 17:51:25,299 - sendHttp_Json >> RES size:312
+[INFO] 2017-09-01 17:51:25,299 - <--{"list":[{"group_name":"ION","rec_digits":"10","company_id":"05035","gst_no":"200307218M","dup_rc":"N","rec_prefix":"ALDO","company_name":"Montreal Pte Ltd","item_code2":"11","item_code1":"10","item_code4":null,"tid":"65130048","mid":"03066","item_code3":null,"store_name":"ALDO-CP","item_code5":null}],"rows":1}
+[INFO] 2017-09-01 17:51:25,499 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:51:25,499 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:51:25,667 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-01 17:51:28,667 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:51:28,667 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:51:28,834 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-01 17:51:31,835 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:51:31,835 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:51:32,002 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-01 17:51:35,003 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:51:35,003 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:51:35,170 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-01 17:51:38,171 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:51:38,171 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:51:38,339 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-01 17:51:41,340 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:51:41,340 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:51:41,507 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-01 17:51:44,508 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:51:44,508 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:51:44,676 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-01 17:51:47,676 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:51:47,676 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:51:47,844 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-01 17:51:50,845 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:51:50,845 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:51:51,012 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-01 17:51:54,013 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-01 17:51:54,013 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-01 17:51:54,181 - sendHttp_Json >> RES size:52

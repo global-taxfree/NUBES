@@ -1,0 +1,39 @@
+[INFO] 2017-09-12 18:21:32,329 - sendHttp_Json >> RES size:53
+[INFO] 2017-09-12 18:21:35,333 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-12 18:21:35,333 - sendHttp_Json >> REQ:{
+  "userid": "ionuser01"
+}
+[INFO] 2017-09-12 18:21:35,493 - sendHttp_Json >> RES size:53
+[INFO] 2017-09-12 18:21:38,493 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-12 18:21:38,493 - sendHttp_Json >> REQ:{
+  "userid": "ionuser01"
+}
+[INFO] 2017-09-12 18:21:38,654 - sendHttp_Json >> RES size:53
+[INFO] 2017-09-12 18:21:41,654 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-12 18:21:41,654 - sendHttp_Json >> REQ:{
+  "userid": "ionuser01"
+}
+[INFO] 2017-09-12 18:21:41,815 - sendHttp_Json >> RES size:53
+[INFO] 2017-09-12 18:21:44,815 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-12 18:21:44,815 - sendHttp_Json >> REQ:{
+  "userid": "ionuser01"
+}
+[INFO] 2017-09-12 18:21:44,977 - sendHttp_Json >> RES size:53
+[INFO] 2017-09-12 18:21:47,979 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-12 18:21:47,979 - sendHttp_Json >> REQ:{
+  "userid": "ionuser01"
+}
+[ERROR] 2017-09-12 18:21:53,019 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-12 18:21:56,030 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-12 18:21:56,030 - sendHttp_Json >> REQ:{
+  "userid": "ionuser01"
+}
+[ERROR] 2017-09-12 18:22:01,047 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-12 18:22:04,050 - sendHttp_Json >> URI:https://ws.gtf.sg/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-12 18:22:04,050 - sendHttp_Json >> REQ:{
+  "userid": "ionuser01"
+}

@@ -1,0 +1,1984 @@
+[INFO] 2018-01-09 09:07:55,428 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/login
+[INFO] 2018-01-09 09:07:55,429 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3",
+  "password": "gtfsg12345",
+  "outlet": "GENERAL"
+}
+[ERROR] 2018-01-09 09:08:02,537 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2018-01-09 09:08:09,793 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/login
+[INFO] 2018-01-09 09:08:09,794 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3",
+  "password": "gtfsg12345",
+  "outlet": "GENERAL"
+}
+[INFO] 2018-01-09 09:08:10,801 - sendHttp_Json >> RES size:425
+[INFO] 2018-01-09 09:08:10,861 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:08:10,861 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:08:10,866 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 09:08:11,197 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchCountryCode
+[INFO] 2018-01-09 09:08:11,197 - sendHttp_Json >> REQ:{}
+[INFO] 2018-01-09 09:08:13,665 - sendHttp_Json >> RES size:8480
+[INFO] 2018-01-09 09:08:13,721 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getItemCodeList
+[INFO] 2018-01-09 09:08:13,721 - sendHttp_Json >> REQ:{}
+[INFO] 2018-01-09 09:08:13,867 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:08:13,867 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:08:13,871 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 09:08:14,454 - sendHttp_Json >> RES size:1539
+[INFO] 2018-01-09 09:08:18,026 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:08:18,026 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:08:18,037 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 09:08:24,255 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:08:24,255 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:08:24,259 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 09:08:27,262 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:08:27,262 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:08:27,264 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 09:08:30,265 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:08:30,265 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:08:30,267 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 09:08:31,309 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkRctCount
+[INFO] 2018-01-09 09:08:31,310 - sendHttp_Json >> REQ:{
+  "shop_id": "03960",
+  "receipt_no": "WGLEE20180109",
+  "userId": "gtf.it3",
+  "outlet": "GENERAL"
+}
+[INFO] 2018-01-09 09:08:31,834 - sendHttp_Json >> RES size:46
+[INFO] 2018-01-09 09:08:33,268 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:08:33,268 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:08:33,270 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 09:08:36,271 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:08:36,271 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:08:36,275 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 09:08:39,276 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:08:39,276 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:08:39,278 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 09:08:39,382 - sendHttp_Json >> URI:http://localhost:7005/service/json/etrs/issueTicket
+[INFO] 2018-01-09 09:08:39,384 - sendHttp_Json >> REQ:{
+  "status": "Issue",
+  "tid": "10001028",
+  "mid": "03960",
+  "userId": "gtf.it3",
+  "passport_number": "E9999999",
+  "country_code": "CHN",
+  "last_name": "GTFPASS",
+  "first_name": "TEST",
+  "expiry_date": "20300101",
+  "date_of_birth": "19100101",
+  "gender": "M",
+  "purchase_list": "[\r\n  {\r\n    \"description\": \"17:Jewellery\",\r\n    \"gross_amount\": \"1234.74\",\r\n    \"quantity\": \"1\",\r\n    \"receipt_date\": \"20180109\",\r\n    \"receipt_number\": \"WGLEE20180109\"\r\n  }\r\n]",
+  "outlet": "GENERAL"
+}
+[INFO] 2018-01-09 09:08:42,280 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:08:42,280 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:08:42,285 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 09:08:44,673 - sendHttp_Json >> RES size:967
+[INFO] 2018-01-09 09:08:44,673 - Start Print(Multiple) --> nIndex : 0
+[INFO] 2018-01-09 09:08:52,978 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:08:52,978 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:08:52,980 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 09:08:53,628 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchReceiptCount
+[INFO] 2018-01-09 09:08:53,628 - sendHttp_Json >> REQ:{
+  "group_id": "0000000002",
+  "start_date": "20180109",
+  "end_date": "20180109",
+  "shop_id": "03960",
+  "receipt_no": ""
+}
+[INFO] 2018-01-09 09:08:54,539 - sendHttp_Json >> RES size:46
+[INFO] 2018-01-09 09:08:54,550 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchReceiptList
+[INFO] 2018-01-09 09:08:54,551 - sendHttp_Json >> REQ:{
+  "display_num": 15,
+  "page_num": "1",
+  "group_id": "0000000002",
+  "start_date": "20180109",
+  "end_date": "20180109",
+  "shop_id": "03960",
+  "receipt_no": ""
+}
+[INFO] 2018-01-09 09:08:55,249 - sendHttp_Json >> RES size:474
+[INFO] 2018-01-09 09:08:55,980 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:08:55,980 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:08:55,983 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 09:08:56,062 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getDocIdDetails
+[INFO] 2018-01-09 09:08:56,062 - sendHttp_Json >> REQ:{
+  "doc_id": "20052503082180000116"
+}
+[INFO] 2018-01-09 09:08:56,555 - sendHttp_Json >> RES size:908
+[INFO] 2018-01-09 09:08:56,558 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getReceiptDetails
+[INFO] 2018-01-09 09:08:56,558 - sendHttp_Json >> REQ:{
+  "doc_id": "20052503082180000116"
+}
+[INFO] 2018-01-09 09:08:57,057 - sendHttp_Json >> RES size:159
+[INFO] 2018-01-09 09:09:00,164 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:09:00,164 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:09:00,166 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 09:09:01,752 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchDocIdCount
+[INFO] 2018-01-09 09:09:01,753 - sendHttp_Json >> REQ:{
+  "group_id": "0000000002",
+  "start_date": "",
+  "end_date": "",
+  "shop_id": "03960",
+  "doc_id": "20052503082180000116",
+  "receipt_no": "",
+  "receipt_amt": "",
+  "gst_no": "",
+  "company_name": "",
+  "shop_name": ""
+}
+[INFO] 2018-01-09 09:09:02,246 - sendHttp_Json >> RES size:46
+[INFO] 2018-01-09 09:09:02,250 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchDocIdList
+[INFO] 2018-01-09 09:09:02,250 - sendHttp_Json >> REQ:{
+  "display_num": 15,
+  "page_num": "1",
+  "group_id": "0000000002",
+  "start_date": "",
+  "end_date": "",
+  "doc_id": "20052503082180000116",
+  "receipt_no": "",
+  "receipt_amt": "",
+  "gst_no": "",
+  "company_name": "",
+  "shop_name": "",
+  "shop_id": "03960"
+}
+[INFO] 2018-01-09 09:09:02,755 - sendHttp_Json >> RES size:369
+[INFO] 2018-01-09 09:09:03,167 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:09:03,167 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:09:03,169 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 09:09:03,246 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getDocIdDetails
+[INFO] 2018-01-09 09:09:03,247 - sendHttp_Json >> REQ:{
+  "doc_id": "20052503082180000116"
+}
+[INFO] 2018-01-09 09:09:03,740 - sendHttp_Json >> RES size:908
+[INFO] 2018-01-09 09:09:03,744 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getReceiptDetails
+[INFO] 2018-01-09 09:09:03,744 - sendHttp_Json >> REQ:{
+  "doc_id": "20052503082180000116"
+}
+[INFO] 2018-01-09 09:09:04,235 - sendHttp_Json >> RES size:159
+[INFO] 2018-01-09 09:09:06,093 - sendHttp_Json >> URI:http://localhost:7005/service/json/etrs/voidTicket
+[INFO] 2018-01-09 09:09:06,093 - sendHttp_Json >> REQ:{
+  "status": "Void",
+  "tid": "10001028",
+  "mid": "03960",
+  "docid": "20052503082180000116",
+  "userId": "gtf.it3"
+}
+[INFO] 2018-01-09 09:09:06,170 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:09:06,170 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:09:06,173 - sendHttp_Json >> RES size:51
+[ERROR] 2018-01-09 09:09:13,111 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2018-01-09 09:09:16,150 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:09:16,150 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:09:16,153 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 09:09:19,154 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:09:19,154 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:09:19,157 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 09:09:22,157 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:09:22,157 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:09:22,159 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 09:09:25,161 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:09:25,161 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:09:25,164 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 09:09:28,164 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:09:28,164 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:09:28,166 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 09:09:31,167 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:09:31,167 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:09:31,170 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 09:09:31,958 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchDocIdCount
+[INFO] 2018-01-09 09:09:31,960 - sendHttp_Json >> REQ:{
+  "group_id": "0000000002",
+  "start_date": "",
+  "end_date": "",
+  "shop_id": "03960",
+  "doc_id": "20052503082180000116",
+  "receipt_no": "",
+  "receipt_amt": "",
+  "gst_no": "",
+  "company_name": "",
+  "shop_name": ""
+}
+[INFO] 2018-01-09 09:09:32,454 - sendHttp_Json >> RES size:46
+[INFO] 2018-01-09 09:09:32,456 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchDocIdList
+[INFO] 2018-01-09 09:09:32,456 - sendHttp_Json >> REQ:{
+  "display_num": 15,
+  "page_num": "1",
+  "group_id": "0000000002",
+  "start_date": "",
+  "end_date": "",
+  "doc_id": "20052503082180000116",
+  "receipt_no": "",
+  "receipt_amt": "",
+  "gst_no": "",
+  "company_name": "",
+  "shop_name": "",
+  "shop_id": "03960"
+}
+[INFO] 2018-01-09 09:09:32,950 - sendHttp_Json >> RES size:369
+[INFO] 2018-01-09 09:09:34,172 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 09:09:34,172 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 09:09:34,174 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:51:57,453 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/login
+[INFO] 2018-01-09 13:51:57,453 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3",
+  "password": "gtfsg12345",
+  "outlet": "GENERAL"
+}
+[INFO] 2018-01-09 13:51:58,523 - sendHttp_Json >> RES size:425
+[INFO] 2018-01-09 13:51:58,588 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:51:58,589 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:51:58,593 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:51:58,865 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchCountryCode
+[INFO] 2018-01-09 13:51:58,865 - sendHttp_Json >> REQ:{}
+[INFO] 2018-01-09 13:52:01,308 - sendHttp_Json >> RES size:8480
+[INFO] 2018-01-09 13:52:01,358 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getItemCodeList
+[INFO] 2018-01-09 13:52:01,358 - sendHttp_Json >> REQ:{}
+[INFO] 2018-01-09 13:52:02,397 - sendHttp_Json >> RES size:1539
+[INFO] 2018-01-09 13:52:05,875 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:52:05,875 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:52:05,877 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:52:08,878 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:52:08,878 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:52:08,880 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:52:13,866 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:52:13,866 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:52:13,868 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:52:16,868 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:52:16,868 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:52:16,870 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:52:19,871 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:52:19,871 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:52:19,874 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:52:21,370 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkRctCount
+[INFO] 2018-01-09 13:52:21,370 - sendHttp_Json >> REQ:{
+  "shop_id": "03960",
+  "receipt_no": "WGLEE201801090001",
+  "userId": "gtf.it3",
+  "outlet": "GENERAL"
+}
+[INFO] 2018-01-09 13:52:21,887 - sendHttp_Json >> RES size:46
+[INFO] 2018-01-09 13:52:22,875 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:52:22,875 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:52:22,877 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:52:25,878 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:52:25,878 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:52:25,879 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:52:28,881 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:52:28,881 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:52:28,882 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:52:31,886 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:52:31,886 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:52:31,888 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:52:34,888 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:52:34,888 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:52:34,890 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:52:37,892 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:52:37,892 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:52:37,894 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:52:40,895 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:52:40,895 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:52:40,897 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:52:43,898 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:52:43,898 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:52:43,900 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:52:46,902 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:52:46,902 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:52:46,904 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:52:49,905 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:52:49,905 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:52:49,907 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:52:52,907 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:52:52,907 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:52:52,909 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:52:55,910 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:52:55,910 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:52:55,912 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:52:58,912 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:52:58,912 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:52:58,914 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:53:01,915 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:53:01,915 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:53:01,917 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:53:04,919 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:53:04,919 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:53:04,921 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:53:07,921 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:53:07,921 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:53:07,923 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:53:10,924 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:53:10,924 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:53:10,926 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:53:13,927 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:53:13,927 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:53:13,929 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:53:16,930 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:53:16,930 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:53:16,932 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:53:19,933 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:53:19,933 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:53:19,936 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:53:22,938 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:53:22,938 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:53:22,941 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:53:25,941 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:53:25,941 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:53:25,943 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:53:28,943 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:53:28,943 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:53:28,945 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:53:31,946 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:53:31,946 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:53:31,948 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:53:34,949 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:53:34,949 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:53:34,950 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:53:37,951 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:53:37,952 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:53:37,955 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:53:40,960 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:53:40,960 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:53:40,962 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:53:43,963 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:53:43,963 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:53:43,965 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:53:46,965 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:53:46,965 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:53:46,967 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:53:49,969 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:53:49,969 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:53:49,971 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:53:52,972 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:53:52,972 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:53:52,974 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:53:55,976 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:53:55,976 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:53:55,978 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:53:58,979 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:53:58,979 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:53:58,980 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:54:01,982 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:54:01,982 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:54:01,984 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 13:54:04,985 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 13:54:04,985 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 13:54:04,986 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 14:19:59,574 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/login
+[INFO] 2018-01-09 14:19:59,575 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3",
+  "password": "gtfsg12345",
+  "outlet": "GENERAL"
+}
+[INFO] 2018-01-09 14:20:00,647 - sendHttp_Json >> RES size:425
+[INFO] 2018-01-09 14:20:00,701 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 14:20:00,702 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 14:20:00,704 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 14:20:00,969 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchCountryCode
+[INFO] 2018-01-09 14:20:00,969 - sendHttp_Json >> REQ:{}
+[INFO] 2018-01-09 14:20:03,436 - sendHttp_Json >> RES size:8480
+[INFO] 2018-01-09 14:20:03,478 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getItemCodeList
+[INFO] 2018-01-09 14:20:03,479 - sendHttp_Json >> REQ:{}
+[INFO] 2018-01-09 14:20:03,706 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 14:20:03,706 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 14:20:03,709 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 14:20:04,212 - sendHttp_Json >> RES size:1539
+[INFO] 2018-01-09 14:20:07,637 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 14:20:07,637 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 14:20:07,639 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 14:20:10,640 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 14:20:10,640 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 14:20:10,642 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 14:20:13,643 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 14:20:13,643 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 14:20:13,645 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 14:20:16,646 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 14:20:16,646 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 14:20:16,648 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 14:20:19,648 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 14:20:19,648 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 14:20:19,649 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 14:20:22,650 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 14:20:22,650 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 14:20:22,652 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 14:20:25,652 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 14:20:25,652 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 14:20:25,654 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 14:20:28,656 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 14:20:28,656 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 14:20:28,658 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 14:20:31,659 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 14:20:31,659 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 14:20:31,662 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 14:20:34,662 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 14:20:34,662 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 14:20:34,664 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 14:20:37,665 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 14:20:37,665 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 14:20:37,667 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 14:20:40,667 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 14:20:40,667 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 14:20:40,669 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 14:20:43,670 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 14:20:43,670 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 14:20:43,672 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 14:20:46,674 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 14:20:46,674 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 14:20:46,676 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 14:20:49,677 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 14:20:49,677 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 14:20:49,679 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 14:20:52,680 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 14:20:52,680 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 14:20:52,682 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 14:20:55,682 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 14:20:55,682 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 14:20:55,684 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:51:27,606 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/login
+[INFO] 2018-01-09 16:51:27,607 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3",
+  "password": "gtfsg12345",
+  "outlet": "GENERAL"
+}
+[INFO] 2018-01-09 16:51:28,674 - sendHttp_Json >> RES size:425
+[INFO] 2018-01-09 16:51:28,743 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:51:28,746 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:51:28,747 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:51:28,985 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchCountryCode
+[INFO] 2018-01-09 16:51:28,986 - sendHttp_Json >> REQ:{}
+[INFO] 2018-01-09 16:51:31,466 - sendHttp_Json >> RES size:8480
+[INFO] 2018-01-09 16:51:31,513 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getItemCodeList
+[INFO] 2018-01-09 16:51:31,514 - sendHttp_Json >> REQ:{}
+[INFO] 2018-01-09 16:51:32,250 - sendHttp_Json >> RES size:1539
+[INFO] 2018-01-09 16:51:35,644 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:51:35,644 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:51:35,645 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:51:38,648 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:51:38,648 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:51:38,650 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:51:41,652 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:51:41,652 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:51:41,653 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:51:44,654 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:51:44,654 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:51:44,656 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:51:47,656 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:51:47,656 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:51:47,658 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:51:53,793 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:51:53,793 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:51:53,794 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:51:56,795 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:51:56,795 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:51:56,797 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:51:59,798 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:51:59,798 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:51:59,800 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:52:02,800 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:52:02,800 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:52:02,802 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:52:07,416 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:52:07,416 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:52:07,418 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:52:13,279 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:52:13,279 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:52:13,281 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:52:16,282 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:52:16,282 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:52:16,284 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:52:22,035 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:52:22,035 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:52:22,037 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:52:25,037 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:52:25,037 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:52:25,039 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:52:28,623 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:52:28,623 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:52:28,625 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:52:34,213 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:52:34,213 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:52:34,215 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:52:39,707 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:52:39,707 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:52:39,709 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:52:42,710 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:52:42,710 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:52:42,711 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:52:45,712 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:52:45,712 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:52:45,713 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:52:48,714 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:52:48,714 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:52:48,716 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:52:51,717 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:52:51,717 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:52:51,719 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:52:54,719 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:52:54,719 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:52:54,720 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:52:57,721 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:52:57,721 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:52:57,722 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:53:00,723 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:53:00,723 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:53:00,724 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:53:07,208 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:53:07,208 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:53:07,210 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:53:10,211 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:53:10,211 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:53:10,213 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:53:13,214 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:53:13,214 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:53:13,215 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:53:16,215 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:53:16,215 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:53:16,217 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:53:22,592 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:53:22,592 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:53:22,594 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:53:25,594 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:53:25,594 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:53:25,596 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:53:28,597 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:53:28,597 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:53:28,598 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:53:31,599 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:53:31,599 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:53:31,603 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:53:38,071 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:53:38,071 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:53:38,073 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:53:41,073 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:53:41,073 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:53:41,075 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:53:47,002 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:53:47,002 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:53:47,003 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:53:50,004 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:53:50,004 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:53:50,006 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:53:53,006 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:53:53,006 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:53:53,008 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:53:53,228 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkRctCount
+[INFO] 2018-01-09 16:53:53,229 - sendHttp_Json >> REQ:{
+  "shop_id": "03960",
+  "receipt_no": "WGLEE201801090003",
+  "userId": "gtf.it3",
+  "outlet": "GENERAL"
+}
+[INFO] 2018-01-09 16:53:53,737 - sendHttp_Json >> RES size:46
+[INFO] 2018-01-09 16:53:55,002 - sendHttp_Json >> URI:http://localhost:7005/service/json/etrs/issueTicket
+[INFO] 2018-01-09 16:53:55,003 - sendHttp_Json >> REQ:{
+  "status": "Issue",
+  "tid": "10001028",
+  "mid": "03960",
+  "userId": "gtf.it3",
+  "passport_number": "E9999999",
+  "country_code": "CHN",
+  "last_name": "GTFPASS",
+  "first_name": "TEST",
+  "expiry_date": "20300101",
+  "date_of_birth": "19100101",
+  "gender": "M",
+  "purchase_list": "[\r\n  {\r\n    \"description\": \"17:Jewellery\",\r\n    \"gross_amount\": \"156.84\",\r\n    \"quantity\": \"1\",\r\n    \"receipt_date\": \"20180109\",\r\n    \"receipt_number\": \"WGLEE201801090003\"\r\n  }\r\n]",
+  "outlet": "GENERAL"
+}
+[INFO] 2018-01-09 16:53:56,008 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:53:56,009 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:53:56,027 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:53:58,720 - sendHttp_Json >> RES size:967
+[INFO] 2018-01-09 16:53:58,721 - Start Print(Multiple) --> nIndex : 0
+[INFO] 2018-01-09 16:54:02,316 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:54:02,316 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:54:02,318 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:54:05,318 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:54:05,318 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:54:05,320 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:54:08,320 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:54:08,320 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:54:08,321 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 16:54:11,322 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 16:54:11,322 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 16:54:11,323 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:00:53,056 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/login
+[INFO] 2018-01-09 17:00:53,057 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3",
+  "password": "gtfsg12345",
+  "outlet": "GENERAL"
+}
+[INFO] 2018-01-09 17:00:54,078 - sendHttp_Json >> RES size:425
+[INFO] 2018-01-09 17:00:54,143 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:00:54,144 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:00:54,146 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:00:54,414 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchCountryCode
+[INFO] 2018-01-09 17:00:54,415 - sendHttp_Json >> REQ:{}
+[INFO] 2018-01-09 17:00:56,864 - sendHttp_Json >> RES size:8480
+[INFO] 2018-01-09 17:00:56,900 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getItemCodeList
+[INFO] 2018-01-09 17:00:56,900 - sendHttp_Json >> REQ:{}
+[INFO] 2018-01-09 17:00:57,640 - sendHttp_Json >> RES size:1539
+[INFO] 2018-01-09 17:01:00,352 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchReceiptCount
+[INFO] 2018-01-09 17:01:00,352 - sendHttp_Json >> REQ:{
+  "group_id": "0000000002",
+  "start_date": "20180109",
+  "end_date": "20180109",
+  "shop_id": "03960",
+  "receipt_no": ""
+}
+[INFO] 2018-01-09 17:01:00,867 - sendHttp_Json >> RES size:46
+[INFO] 2018-01-09 17:01:00,872 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchReceiptList
+[INFO] 2018-01-09 17:01:00,872 - sendHttp_Json >> REQ:{
+  "display_num": 15,
+  "page_num": "1",
+  "group_id": "0000000002",
+  "start_date": "20180109",
+  "end_date": "20180109",
+  "shop_id": "03960",
+  "receipt_no": ""
+}
+[INFO] 2018-01-09 17:01:01,087 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:01:01,087 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:01:01,090 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:01:01,385 - sendHttp_Json >> RES size:1387
+[INFO] 2018-01-09 17:01:03,362 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getDocIdDetails
+[INFO] 2018-01-09 17:01:03,363 - sendHttp_Json >> REQ:{
+  "doc_id": "20052503082180000124"
+}
+[INFO] 2018-01-09 17:01:03,858 - sendHttp_Json >> RES size:914
+[INFO] 2018-01-09 17:01:04,422 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:01:04,422 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:01:04,424 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:01:07,424 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:01:07,424 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:01:07,425 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:01:10,426 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:01:10,426 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:01:10,428 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:01:13,428 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:01:13,428 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:01:13,430 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:01:14,589 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getDocIdDetails
+[INFO] 2018-01-09 17:01:14,590 - sendHttp_Json >> REQ:{
+  "doc_id": "20052503082180000116"
+}
+[INFO] 2018-01-09 17:01:15,084 - sendHttp_Json >> RES size:908
+[INFO] 2018-01-09 17:01:16,430 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:01:16,430 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:01:16,431 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:01:19,433 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:01:19,433 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:01:19,434 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:01:22,435 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:01:22,435 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:01:22,436 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:01:25,437 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:01:25,437 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:01:25,438 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:01:28,439 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:01:28,439 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:01:28,440 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:01:31,441 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:01:31,441 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:01:31,443 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:01:34,443 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:01:34,443 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:01:34,445 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:01:37,446 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:01:37,446 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:01:37,448 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:01:40,448 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:01:40,448 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:01:40,450 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:01:43,450 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:01:43,450 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:01:43,452 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:01:46,452 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:01:46,452 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:01:46,453 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:01:49,454 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:01:49,454 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:01:49,456 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:01:52,456 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:01:52,456 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:01:52,458 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:01:55,459 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:01:55,459 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:01:55,461 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:01:58,461 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:01:58,461 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:01:58,463 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:02:01,464 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:02:01,464 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:02:01,466 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:02:04,466 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:02:04,466 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:02:04,468 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:02:07,468 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:02:07,468 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:02:07,469 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:02:10,471 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:02:10,471 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:02:10,473 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:02:13,478 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:02:13,478 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:02:13,480 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:02:16,480 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:02:16,480 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:02:16,482 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:02:19,482 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:02:19,482 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:02:19,483 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:02:22,484 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:02:22,484 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:02:22,486 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:02:25,488 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:02:25,488 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:02:25,490 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:02:28,491 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:02:28,491 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:02:28,493 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:02:31,494 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:02:31,494 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:02:31,495 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:02:34,496 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:02:34,496 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:02:34,498 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:02:37,498 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:02:37,498 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:02:37,500 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:02:40,500 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:02:40,500 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:02:40,502 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:02:43,502 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:02:43,502 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:02:43,503 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:02:46,505 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:02:46,505 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:02:46,507 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:02:49,507 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:02:49,507 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:02:49,508 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:02:52,509 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:02:52,509 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:02:52,511 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:02:55,511 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:02:55,511 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:02:55,513 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:02:58,513 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:02:58,513 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:02:58,514 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:03:01,515 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:03:01,515 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:03:01,517 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:03:04,518 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:03:04,518 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:03:04,519 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:03:07,519 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:03:07,519 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:03:07,521 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:03:10,521 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:03:10,521 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:03:10,522 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:03:13,523 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:03:13,523 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:03:13,525 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:03:16,526 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:03:16,526 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:03:16,527 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:03:19,528 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:03:19,528 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:03:19,530 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:03:22,531 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:03:22,531 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:03:22,533 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:03:25,533 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:03:25,533 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:03:25,535 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:03:28,535 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:03:28,535 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:03:28,536 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:03:31,537 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:03:31,537 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:03:31,539 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:03:34,539 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:03:34,539 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:03:34,541 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:03:37,541 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:03:37,541 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:03:37,542 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:03:40,553 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:03:40,553 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:03:40,555 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:03:43,555 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:03:43,555 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:03:43,557 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:03:46,557 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:03:46,557 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:03:46,559 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:03:49,559 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:03:49,559 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:03:49,563 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:03:52,563 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:03:52,563 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:03:52,565 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:03:55,566 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:03:55,566 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:03:55,568 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:03:58,568 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:03:58,568 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:03:58,570 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:04:01,570 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:04:01,570 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:04:01,572 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:04:04,572 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:04:04,572 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:04:04,574 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:04:07,574 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:04:07,574 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:04:07,590 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:04:10,591 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:04:10,591 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:04:10,592 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:04:13,594 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:04:13,594 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:04:13,596 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:04:16,596 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:04:16,596 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:04:16,598 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:04:19,598 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:04:19,598 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:04:19,600 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:04:22,600 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:04:22,600 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:04:22,602 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:04:25,602 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:04:25,604 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:04:25,606 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:04:28,606 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:04:28,606 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:04:28,608 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:04:31,610 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:04:31,610 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:04:31,612 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:04:34,612 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:04:34,612 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:04:34,614 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:04:37,614 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:04:37,614 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:04:37,616 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:04:40,616 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:04:40,616 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:04:40,617 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:04:43,618 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:04:43,618 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:04:43,620 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:04:46,620 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:04:46,620 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:04:46,622 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:04:49,624 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:04:49,624 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:04:49,626 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:04:52,626 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:04:52,626 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:04:52,629 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:04:55,629 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:04:55,629 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:04:55,630 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:04:58,631 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:04:58,631 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:04:58,633 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:05:01,633 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:05:01,633 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:05:01,635 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:05:04,636 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:05:04,636 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:05:04,638 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:05:07,639 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:05:07,639 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:05:07,641 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:05:10,641 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:05:10,641 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:05:10,642 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:05:13,643 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:05:13,643 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:05:13,645 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:05:16,645 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:05:16,645 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:05:16,647 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:05:19,647 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:05:19,647 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:05:19,648 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:05:22,652 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:05:22,652 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:05:22,654 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:05:25,654 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:05:25,654 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:05:25,655 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:05:28,656 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:05:28,656 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:05:28,658 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:05:31,658 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:05:31,658 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:05:31,659 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:05:34,660 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:05:34,660 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:05:34,661 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:05:37,662 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:05:37,662 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:05:37,664 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:05:40,665 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:05:40,665 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:05:40,676 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:05:43,676 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:05:43,676 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:05:43,677 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:05:46,681 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:05:46,681 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:05:46,686 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:05:49,688 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:05:49,688 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:05:49,690 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:05:52,691 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:05:52,691 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:05:52,692 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:05:55,693 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:05:55,693 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:05:55,694 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:05:58,696 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:05:58,696 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:05:58,704 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:06:01,705 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:06:01,705 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:06:01,707 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:06:04,707 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:06:04,707 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:06:04,709 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:06:07,710 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:06:07,710 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:06:07,712 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:06:10,712 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:06:10,713 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:06:10,715 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:06:13,715 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:06:13,715 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:06:13,717 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:06:16,718 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:06:16,718 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:06:16,720 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:06:19,720 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:06:19,720 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:06:19,722 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:06:22,722 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:06:22,722 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:06:22,724 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:06:25,725 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:06:25,725 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:06:25,726 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:06:28,727 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:06:28,727 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:06:28,728 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:06:31,729 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:06:31,729 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:06:31,731 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:06:34,732 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:06:34,732 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:06:34,733 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:06:37,734 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:06:37,734 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:06:37,736 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:06:40,736 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:06:40,736 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:06:40,738 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:06:43,739 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:06:43,739 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:06:43,741 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:06:46,742 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:06:46,742 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:06:46,743 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:06:49,744 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:06:49,744 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:06:49,746 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:06:52,748 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:06:52,748 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:06:52,749 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:06:55,750 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:06:55,750 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:06:55,752 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:06:58,752 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:06:58,752 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:06:58,754 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:07:01,754 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:07:01,754 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:07:01,756 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:07:04,757 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:07:04,757 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:07:04,767 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:07:07,769 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:07:07,769 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:07:07,771 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:07:10,771 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:07:10,771 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:07:10,772 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:07:13,773 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:07:13,773 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:07:13,774 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:07:16,775 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:07:16,775 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:07:16,776 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:07:19,777 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:07:19,777 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:07:19,779 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:07:22,779 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:07:22,779 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:07:22,780 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:07:25,782 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:07:25,782 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:07:25,783 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:07:28,784 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:07:28,785 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:07:28,786 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:07:31,787 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:07:31,787 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:07:31,788 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:07:34,789 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:07:34,789 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:07:34,792 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:07:37,792 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:07:37,792 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:07:37,793 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:07:40,794 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:07:40,794 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:07:40,796 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:07:43,797 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:07:43,797 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:07:43,798 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:07:46,798 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:07:46,798 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:07:46,799 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:07:49,799 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:07:49,799 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:07:49,801 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:07:52,802 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:07:52,802 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:07:52,803 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:07:55,804 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:07:55,804 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:07:55,806 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:07:58,806 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:07:58,806 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:07:58,807 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:08:01,809 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:08:01,809 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:08:01,810 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:08:04,811 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:08:04,811 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:08:04,813 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:08:07,813 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:08:07,813 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:08:07,815 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:08:10,815 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:08:10,815 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:08:10,817 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:08:13,817 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:08:13,817 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:08:13,819 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:08:16,819 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:08:16,819 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:08:16,820 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:08:19,822 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:08:19,822 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:08:19,824 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:08:22,824 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:08:22,824 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:08:22,826 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:08:25,826 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:08:25,826 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:08:25,828 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:08:28,829 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:08:28,829 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:08:28,831 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:08:31,831 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:08:31,831 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:08:31,832 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:08:34,833 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:08:34,833 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:08:34,835 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:08:37,837 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:08:37,837 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:08:37,838 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:08:40,839 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:08:40,839 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:08:40,841 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:08:43,841 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:08:43,841 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:08:43,843 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:08:46,844 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:08:46,844 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:08:46,846 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:08:49,846 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:08:49,846 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:08:49,847 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:08:52,849 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:08:52,849 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:08:52,851 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:08:55,851 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:08:55,851 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:08:55,853 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:08:58,854 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:08:58,854 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:08:58,856 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:09:01,856 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:09:01,856 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:09:01,858 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:09:04,858 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:09:04,858 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:09:04,860 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:09:07,860 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:09:07,860 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:09:07,862 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:09:10,863 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:09:10,863 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:09:10,865 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:09:13,865 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:09:13,865 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:09:13,867 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:09:16,867 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:09:16,867 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:09:16,869 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:09:19,869 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:09:19,869 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:09:19,889 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:09:22,891 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:09:22,891 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:09:22,893 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:09:23,178 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/login
+[INFO] 2018-01-09 17:09:23,178 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3",
+  "password": "gtfsg12345",
+  "outlet": "GENERAL"
+}
+[INFO] 2018-01-09 17:09:25,893 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:09:25,893 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:09:25,902 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:09:26,659 - sendHttp_Json >> RES size:425
+[INFO] 2018-01-09 17:09:29,740 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:09:29,740 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:09:29,742 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:09:32,742 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:09:32,742 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:09:32,743 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:09:35,745 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:09:35,745 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:09:35,747 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:09:36,286 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchReceiptCount
+[INFO] 2018-01-09 17:09:36,287 - sendHttp_Json >> REQ:{
+  "group_id": "0000000002",
+  "start_date": "20180109",
+  "end_date": "20180109",
+  "shop_id": "03960",
+  "receipt_no": ""
+}
+[INFO] 2018-01-09 17:09:36,901 - sendHttp_Json >> RES size:46
+[INFO] 2018-01-09 17:09:36,902 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchReceiptList
+[INFO] 2018-01-09 17:09:36,903 - sendHttp_Json >> REQ:{
+  "display_num": 15,
+  "page_num": "1",
+  "group_id": "0000000002",
+  "start_date": "20180109",
+  "end_date": "20180109",
+  "shop_id": "03960",
+  "receipt_no": ""
+}
+[INFO] 2018-01-09 17:09:37,476 - sendHttp_Json >> RES size:1387
+[INFO] 2018-01-09 17:09:38,707 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getDocIdDetails
+[INFO] 2018-01-09 17:09:38,707 - sendHttp_Json >> REQ:{
+  "doc_id": "20052503082180000116"
+}
+[INFO] 2018-01-09 17:09:38,747 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:09:38,747 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:09:38,749 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:09:39,200 - sendHttp_Json >> RES size:908
+[INFO] 2018-01-09 17:09:42,246 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:09:42,246 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:09:42,247 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:09:45,249 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:09:45,249 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:09:45,250 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:09:48,251 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:09:48,251 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:09:48,253 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:09:51,253 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:09:51,253 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:09:51,254 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:09:54,255 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:09:54,255 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:09:54,256 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:09:57,257 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:09:57,257 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:09:57,258 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:10:00,258 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:10:00,258 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:10:00,260 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:10:03,261 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:10:03,261 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:10:03,263 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:10:06,263 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:10:06,263 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:10:06,265 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:10:09,265 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:10:09,265 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:10:09,266 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:10:12,266 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:10:12,266 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:10:12,267 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:10:15,268 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:10:15,268 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:10:15,270 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:10:18,270 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:10:18,270 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:10:18,271 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:10:21,273 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:10:21,273 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:10:21,275 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:10:24,276 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:10:24,276 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:10:24,278 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:10:27,278 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:10:27,278 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:10:27,280 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:10:30,280 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:10:30,280 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:10:30,281 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:10:33,282 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:10:33,282 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:10:33,284 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:10:35,861 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getDocIdDetails
+[INFO] 2018-01-09 17:10:35,861 - sendHttp_Json >> REQ:{
+  "doc_id": "20052503082180000124"
+}
+[INFO] 2018-01-09 17:10:36,284 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:10:36,284 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:10:36,287 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:10:36,413 - sendHttp_Json >> RES size:914
+[INFO] 2018-01-09 17:11:03,349 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:11:03,350 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:11:03,351 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:11:06,352 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:11:06,365 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:11:06,367 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:11:08,267 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getDocIdDetails
+[INFO] 2018-01-09 17:11:08,267 - sendHttp_Json >> REQ:{
+  "doc_id": "20052503082180000116"
+}
+[INFO] 2018-01-09 17:11:08,760 - sendHttp_Json >> RES size:908
+[INFO] 2018-01-09 17:11:09,447 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:11:09,452 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:11:09,639 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:11:47,959 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/login
+[INFO] 2018-01-09 17:11:47,960 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3",
+  "password": "gtfsg12345",
+  "outlet": "GENERAL"
+}
+[INFO] 2018-01-09 17:11:49,442 - sendHttp_Json >> RES size:425
+[INFO] 2018-01-09 17:11:49,504 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:11:49,504 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:11:49,506 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:11:49,749 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchCountryCode
+[INFO] 2018-01-09 17:11:49,749 - sendHttp_Json >> REQ:{}
+[INFO] 2018-01-09 17:11:52,181 - sendHttp_Json >> RES size:8480
+[INFO] 2018-01-09 17:11:52,219 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getItemCodeList
+[INFO] 2018-01-09 17:11:52,219 - sendHttp_Json >> REQ:{}
+[INFO] 2018-01-09 17:11:52,956 - sendHttp_Json >> RES size:1539
+[INFO] 2018-01-09 17:11:56,411 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:11:56,411 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:11:56,413 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:12:03,404 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchReceiptCount
+[INFO] 2018-01-09 17:12:03,406 - sendHttp_Json >> REQ:{
+  "group_id": "0000000002",
+  "start_date": "20180109",
+  "end_date": "20180109",
+  "shop_id": "03960",
+  "receipt_no": ""
+}
+[INFO] 2018-01-09 17:12:03,897 - sendHttp_Json >> RES size:46
+[INFO] 2018-01-09 17:12:03,903 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchReceiptList
+[INFO] 2018-01-09 17:12:03,904 - sendHttp_Json >> REQ:{
+  "display_num": 15,
+  "page_num": "1",
+  "group_id": "0000000002",
+  "start_date": "20180109",
+  "end_date": "20180109",
+  "shop_id": "03960",
+  "receipt_no": ""
+}
+[INFO] 2018-01-09 17:12:04,149 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:12:04,149 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:12:04,152 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:12:04,402 - sendHttp_Json >> RES size:1387
+[INFO] 2018-01-09 17:12:05,284 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getDocIdDetails
+[INFO] 2018-01-09 17:12:05,284 - sendHttp_Json >> REQ:{
+  "doc_id": "20052503082180000124"
+}
+[INFO] 2018-01-09 17:12:05,776 - sendHttp_Json >> RES size:914
+[INFO] 2018-01-09 17:12:11,518 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:12:11,518 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}
+[INFO] 2018-01-09 17:12:11,521 - sendHttp_Json >> RES size:51
+[INFO] 2018-01-09 17:12:14,568 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2018-01-09 17:12:14,568 - sendHttp_Json >> REQ:{
+  "userid": "gtf.it3"
+}

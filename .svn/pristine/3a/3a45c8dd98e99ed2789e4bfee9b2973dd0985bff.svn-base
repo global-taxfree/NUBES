@@ -1,0 +1,1164 @@
+[ERROR] 2017-09-21 13:36:01,353 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:36:01,357 - --> network status check error
+[INFO] 2017-09-21 13:36:04,358 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:36:04,358 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:36:06,365 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:36:06,366 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:36:06,366 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:36:06,367 - --> network status check error
+[INFO] 2017-09-21 13:36:09,367 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:36:09,367 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:36:11,381 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:36:11,382 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:36:11,383 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:36:11,383 - --> network status check error
+[INFO] 2017-09-21 13:36:14,384 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:36:14,384 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:36:16,395 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:36:16,396 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:36:16,397 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:36:16,397 - --> network status check error
+[INFO] 2017-09-21 13:36:19,399 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:36:19,399 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:36:21,423 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:36:21,424 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:36:21,424 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:36:21,425 - --> network status check error
+[INFO] 2017-09-21 13:36:24,425 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:36:24,425 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:36:26,419 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:36:26,420 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:36:26,420 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:36:26,420 - --> network status check error
+[INFO] 2017-09-21 13:36:29,421 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:36:29,421 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:36:31,421 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:36:31,422 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:36:31,422 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:36:31,422 - --> network status check error
+[INFO] 2017-09-21 13:36:34,423 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:36:34,423 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:36:36,425 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:36:36,426 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:36:36,427 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:36:36,427 - --> network status check error
+[INFO] 2017-09-21 13:36:39,428 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:36:39,428 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:36:41,429 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:36:41,430 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:36:41,431 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:36:41,431 - --> network status check error
+[INFO] 2017-09-21 13:36:44,432 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:36:44,432 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:36:46,427 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:36:46,427 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:36:46,428 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:36:46,428 - --> network status check error
+[INFO] 2017-09-21 13:36:49,429 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:36:49,429 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:36:51,426 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:36:51,427 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:36:51,428 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:36:51,428 - --> network status check error
+[INFO] 2017-09-21 13:36:54,430 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:36:54,430 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:36:56,428 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:36:56,429 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:36:56,430 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:36:56,430 - --> network status check error
+[INFO] 2017-09-21 13:36:59,430 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:36:59,430 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:37:01,431 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:37:01,432 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:37:01,433 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:37:01,433 - --> network status check error
+[INFO] 2017-09-21 13:37:04,433 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:37:04,433 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:37:06,435 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:37:06,435 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:37:06,436 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:37:06,436 - --> network status check error
+[INFO] 2017-09-21 13:37:09,437 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:37:09,437 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:37:11,439 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:37:11,440 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:37:11,440 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:37:11,441 - --> network status check error
+[INFO] 2017-09-21 13:37:14,441 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:37:14,441 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:37:16,440 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:37:16,441 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:37:16,442 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:37:16,442 - --> network status check error
+[INFO] 2017-09-21 13:37:19,443 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:37:19,443 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:37:21,454 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:37:21,455 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:37:21,456 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:37:21,456 - --> network status check error
+[INFO] 2017-09-21 13:37:24,456 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:37:24,456 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:37:26,456 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:37:26,457 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:37:26,457 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:37:26,458 - --> network status check error
+[INFO] 2017-09-21 13:37:29,460 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:37:29,460 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:37:31,461 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:37:31,462 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:37:31,463 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:37:31,463 - --> network status check error
+[INFO] 2017-09-21 13:37:34,463 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:37:34,463 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:37:36,462 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:37:36,462 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:37:36,462 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:37:36,463 - --> network status check error
+[INFO] 2017-09-21 13:37:39,463 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:37:39,463 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:37:41,460 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:37:41,461 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:37:41,462 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:37:41,462 - --> network status check error
+[INFO] 2017-09-21 13:37:44,463 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:37:44,463 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:37:46,485 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:37:46,486 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:37:46,487 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:37:46,487 - --> network status check error
+[INFO] 2017-09-21 13:37:49,488 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:37:49,488 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:37:51,490 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:37:51,491 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:37:51,492 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:37:51,492 - --> network status check error
+[INFO] 2017-09-21 13:37:54,492 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:37:54,492 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:37:56,501 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:37:56,502 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:37:56,502 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:37:56,502 - --> network status check error
+[INFO] 2017-09-21 13:37:59,503 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:37:59,503 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:38:01,508 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:38:01,509 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:38:01,509 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:38:01,510 - --> network status check error
+[INFO] 2017-09-21 13:38:04,511 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:38:04,512 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:38:06,512 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:38:06,513 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:38:06,513 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:38:06,514 - --> network status check error
+[INFO] 2017-09-21 13:38:09,514 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:38:09,514 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:38:11,528 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:38:11,529 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:38:11,530 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:38:11,530 - --> network status check error
+[INFO] 2017-09-21 13:38:14,531 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:38:14,531 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:38:16,527 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:38:16,527 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:38:16,528 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:38:16,528 - --> network status check error
+[INFO] 2017-09-21 13:38:19,529 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:38:19,529 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:38:21,532 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:38:21,533 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:38:21,533 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:38:21,533 - --> network status check error
+[INFO] 2017-09-21 13:38:24,534 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:38:24,534 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:38:26,536 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:38:26,537 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:38:26,538 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:38:26,538 - --> network status check error
+[INFO] 2017-09-21 13:38:29,539 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:38:29,539 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:38:31,534 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:38:31,535 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:38:31,536 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:38:31,536 - --> network status check error
+[INFO] 2017-09-21 13:38:34,537 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:38:34,537 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:38:36,536 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:38:36,537 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:38:36,538 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:38:36,538 - --> network status check error
+[INFO] 2017-09-21 13:38:39,540 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:38:39,540 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:38:41,539 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:38:41,540 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:38:41,541 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:38:41,541 - --> network status check error
+[INFO] 2017-09-21 13:38:44,542 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:38:44,542 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:38:46,554 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:38:46,555 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:38:46,556 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:38:46,556 - --> network status check error
+[INFO] 2017-09-21 13:38:49,557 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:38:49,557 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:38:51,559 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:38:51,560 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:38:51,561 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:38:51,561 - --> network status check error
+[INFO] 2017-09-21 13:38:54,562 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:38:54,562 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:38:56,567 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:38:56,568 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:38:56,569 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:38:56,569 - --> network status check error
+[INFO] 2017-09-21 13:38:59,570 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:38:59,570 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:39:01,569 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:39:01,570 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:39:01,571 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:39:01,571 - --> network status check error
+[INFO] 2017-09-21 13:39:04,571 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:39:04,571 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:39:06,574 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:39:06,574 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:39:06,575 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:39:06,575 - --> network status check error
+[INFO] 2017-09-21 13:39:09,575 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:39:09,581 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:39:11,585 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:39:11,586 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:39:11,586 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:39:11,586 - --> network status check error
+[INFO] 2017-09-21 13:39:14,588 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:39:14,588 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:39:16,589 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:39:16,590 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:39:16,591 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:39:16,591 - --> network status check error
+[INFO] 2017-09-21 13:39:19,592 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:39:19,592 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:39:21,596 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:39:21,597 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:39:21,598 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:39:21,598 - --> network status check error
+[INFO] 2017-09-21 13:39:24,599 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:39:24,599 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:39:26,598 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:39:26,599 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:39:26,600 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:39:26,600 - --> network status check error
+[INFO] 2017-09-21 13:39:29,601 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:39:29,601 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:39:31,605 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:39:31,606 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:39:31,607 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:39:31,607 - --> network status check error
+[INFO] 2017-09-21 13:39:34,608 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:39:34,608 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:39:36,607 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:39:36,608 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:39:36,609 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:39:36,609 - --> network status check error
+[INFO] 2017-09-21 13:39:39,610 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:39:39,610 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:39:41,611 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:39:41,612 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:39:41,613 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:39:41,613 - --> network status check error
+[INFO] 2017-09-21 13:39:44,614 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:39:44,614 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:39:46,615 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:39:46,616 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:39:46,617 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:39:46,617 - --> network status check error
+[INFO] 2017-09-21 13:39:49,619 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:39:49,619 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:39:51,619 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:39:51,620 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:39:51,621 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:39:51,621 - --> network status check error
+[INFO] 2017-09-21 13:39:54,622 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:39:54,622 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:39:56,620 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:39:56,621 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:39:56,622 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:39:56,622 - --> network status check error
+[INFO] 2017-09-21 13:39:59,623 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:39:59,623 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:40:01,627 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:40:01,628 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:40:01,628 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:40:01,629 - --> network status check error
+[INFO] 2017-09-21 13:40:04,629 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:40:04,629 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:40:06,631 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:40:06,632 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:40:06,633 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:40:06,633 - --> network status check error
+[INFO] 2017-09-21 13:40:09,634 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:40:09,634 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:40:11,648 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:40:11,649 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:40:11,650 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:40:11,650 - --> network status check error
+[INFO] 2017-09-21 13:40:14,651 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:40:14,651 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:40:16,654 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:40:16,655 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:40:16,655 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:40:16,655 - --> network status check error
+[INFO] 2017-09-21 13:40:19,656 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:40:19,656 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:40:21,654 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:40:21,655 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:40:21,656 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:40:21,656 - --> network status check error
+[INFO] 2017-09-21 13:40:24,658 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:40:24,658 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:40:26,657 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:40:26,658 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:40:26,658 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:40:26,658 - --> network status check error
+[INFO] 2017-09-21 13:40:29,659 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:40:29,659 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:40:31,680 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:40:31,681 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:40:31,682 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:40:31,682 - --> network status check error
+[INFO] 2017-09-21 13:40:34,683 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:40:34,683 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:40:36,691 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:40:36,692 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:40:36,692 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:40:36,692 - --> network status check error
+[INFO] 2017-09-21 13:40:39,693 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:40:39,693 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:40:41,698 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:40:41,699 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:40:41,700 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:40:41,700 - --> network status check error
+[INFO] 2017-09-21 13:40:44,701 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:40:44,701 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:40:46,711 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:40:46,711 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:40:46,712 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:40:46,712 - --> network status check error
+[INFO] 2017-09-21 13:40:49,713 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:40:49,713 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:40:51,717 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:40:51,718 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:40:51,719 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:40:51,719 - --> network status check error
+[INFO] 2017-09-21 13:40:54,719 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:40:54,719 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:40:56,723 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:40:56,724 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:40:56,724 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:40:56,725 - --> network status check error
+[INFO] 2017-09-21 13:40:59,726 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:40:59,726 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:41:01,732 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:41:01,732 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:41:01,732 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:41:01,734 - --> network status check error
+[INFO] 2017-09-21 13:41:04,735 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:41:04,735 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:41:06,732 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:41:06,733 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:41:06,734 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:41:06,734 - --> network status check error
+[INFO] 2017-09-21 13:41:09,735 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:41:09,735 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:41:11,736 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:41:11,737 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:41:11,738 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:41:11,738 - --> network status check error
+[INFO] 2017-09-21 13:41:14,739 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:41:14,739 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:41:16,763 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:41:16,764 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:41:16,765 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:41:16,765 - --> network status check error
+[INFO] 2017-09-21 13:41:19,766 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:41:19,766 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:41:21,764 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:41:21,765 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:41:21,765 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:41:21,766 - --> network status check error
+[INFO] 2017-09-21 13:41:24,766 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:41:24,766 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:41:26,765 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:41:26,766 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:41:26,767 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:41:26,768 - --> network status check error
+[INFO] 2017-09-21 13:41:29,782 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:41:29,782 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:41:31,783 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:41:31,784 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:41:31,785 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:41:31,785 - --> network status check error
+[INFO] 2017-09-21 13:41:34,787 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:41:34,787 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:41:36,780 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:41:36,781 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:41:36,781 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:41:36,782 - --> network status check error
+[INFO] 2017-09-21 13:41:39,782 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:41:39,782 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:41:41,784 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:41:41,785 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:41:41,786 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:41:41,786 - --> network status check error
+[INFO] 2017-09-21 13:41:44,787 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:41:44,787 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:41:46,788 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:41:46,789 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:41:46,790 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:41:46,790 - --> network status check error
+[INFO] 2017-09-21 13:41:49,791 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:41:49,791 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:41:51,797 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:41:51,798 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:41:51,798 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:41:51,798 - --> network status check error
+[INFO] 2017-09-21 13:41:54,799 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:41:54,799 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:41:56,802 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:41:56,802 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:41:56,803 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:41:56,803 - --> network status check error
+[INFO] 2017-09-21 13:41:59,804 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:41:59,804 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:42:01,804 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:42:01,805 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:42:01,806 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:42:01,807 - --> network status check error
+[INFO] 2017-09-21 13:42:04,807 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:42:04,807 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:42:06,814 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:42:06,814 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:42:06,815 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:42:06,815 - --> network status check error
+[INFO] 2017-09-21 13:42:09,816 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:42:09,817 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:42:11,837 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:42:11,838 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:42:11,838 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:42:11,838 - --> network status check error
+[INFO] 2017-09-21 13:42:14,839 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:42:14,839 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:42:16,841 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:42:16,842 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:42:16,843 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:42:16,843 - --> network status check error
+[INFO] 2017-09-21 13:42:19,844 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:42:19,844 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:42:21,846 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:42:21,847 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:42:21,847 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:42:21,848 - --> network status check error
+[INFO] 2017-09-21 13:42:24,848 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:42:24,848 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:42:26,856 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:42:26,857 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:42:26,858 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:42:26,858 - --> network status check error
+[INFO] 2017-09-21 13:42:29,858 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:42:29,858 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:42:31,865 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:42:31,866 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:42:31,867 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:42:31,867 - --> network status check error
+[INFO] 2017-09-21 13:42:34,868 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:42:34,868 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:42:36,884 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:42:36,885 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:42:36,886 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:42:36,886 - --> network status check error
+[INFO] 2017-09-21 13:42:39,887 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:42:39,887 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:42:41,893 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:42:41,894 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:42:41,895 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:42:41,895 - --> network status check error
+[INFO] 2017-09-21 13:42:44,897 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:42:44,897 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:42:46,907 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:42:46,908 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:42:46,909 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:42:46,909 - --> network status check error
+[INFO] 2017-09-21 13:42:49,910 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:42:49,910 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:42:51,914 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:42:51,915 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:42:51,915 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:42:51,916 - --> network status check error
+[INFO] 2017-09-21 13:42:54,916 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:42:54,916 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:42:56,921 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:42:56,922 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:42:56,923 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:42:56,923 - --> network status check error
+[INFO] 2017-09-21 13:42:59,924 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:42:59,924 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:43:01,928 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:43:01,929 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:43:01,929 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:43:01,929 - --> network status check error
+[INFO] 2017-09-21 13:43:04,930 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:43:04,930 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:43:06,931 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:43:06,932 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:43:06,933 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:43:06,933 - --> network status check error
+[INFO] 2017-09-21 13:43:09,934 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:43:09,935 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:43:11,932 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:43:11,933 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:43:11,933 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:43:11,933 - --> network status check error
+[INFO] 2017-09-21 13:43:14,933 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:43:14,933 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:43:16,933 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:43:16,934 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:43:16,935 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:43:16,936 - --> network status check error
+[INFO] 2017-09-21 13:43:19,938 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:43:19,938 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:43:21,942 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:43:21,943 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:43:21,943 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:43:21,943 - --> network status check error
+[INFO] 2017-09-21 13:43:24,949 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:43:24,949 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:43:26,953 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:43:26,954 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:43:26,955 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:43:26,955 - --> network status check error
+[INFO] 2017-09-21 13:43:29,956 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:43:29,956 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:43:31,972 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:43:31,972 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:43:31,972 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:43:31,973 - --> network status check error
+[INFO] 2017-09-21 13:43:34,973 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:43:34,973 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:43:36,977 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:43:36,977 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:43:36,977 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:43:36,978 - --> network status check error
+[INFO] 2017-09-21 13:43:39,978 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:43:39,978 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:43:41,980 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:43:41,981 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:43:41,982 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:43:41,982 - --> network status check error
+[INFO] 2017-09-21 13:43:44,982 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:43:44,982 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:43:46,977 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:43:46,978 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:43:46,979 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:43:46,979 - --> network status check error
+[INFO] 2017-09-21 13:43:49,979 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:43:49,979 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:43:51,986 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:43:51,987 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:43:51,987 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:43:51,988 - --> network status check error
+[INFO] 2017-09-21 13:43:54,989 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:43:54,989 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:43:56,987 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:43:56,988 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:43:56,989 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:43:56,989 - --> network status check error
+[INFO] 2017-09-21 13:43:59,990 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:43:59,990 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:44:01,993 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:44:01,993 - Error reading JObject from JsonReader. Path '', line 0, position 0.
+[ERROR] 2017-09-21 13:44:01,994 -    위치: Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   위치: Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   위치: GTF_STFM.Tran.Transaction.checkNetworkStatus() 파일 C:\SVN\GTF_GRIM_SG\GTF_ION_GRIM\GTF_GRIM_SG\Tran\Transaction.cs:줄 480
+[ERROR] 2017-09-21 13:44:01,994 - --> network status check error
+[INFO] 2017-09-21 13:44:04,995 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-21 13:44:04,995 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[ERROR] 2017-09-21 13:44:06,997 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-21 13:44:06,998 - Error reading JObject from JsonReader. Path '', line 0, position 0.

@@ -1,0 +1,1552 @@
+[INFO] 2017-09-22 10:12:14,546 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/login
+[INFO] 2017-09-22 10:12:14,547 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1",
+  "password": "gtf12345"
+}
+[INFO] 2017-09-22 10:12:15,379 - sendHttp_Json >> RES size:85
+[INFO] 2017-09-22 10:12:15,441 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:12:15,445 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:12:15,452 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:12:15,645 - -->{}
+[INFO] 2017-09-22 10:12:15,646 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchCountryCode
+[INFO] 2017-09-22 10:12:15,646 - sendHttp_Json >> REQ:{}
+[INFO] 2017-09-22 10:12:15,684 - sendHttp_Json >> RES size:8440
+[INFO] 2017-09-22 10:12:15,689 - <--{"rows":248,"list":[{"country_code":"ABW-Aruba"},{"country_code":"AFG-Afghanistan"},{"country_code":"AGO-Angola"},{"country_code":"AIA-Anguilla"},{"country_code":"ALA-Aland Islands"},{"country_code":"ALB-Albania"},{"country_code":"AND-Andorra"},{"country_code":"ARE-United Arab Emirates"},{"country_code":"ARG-Argentina"},{"country_code":"ARM-Armenia"},{"country_code":"ASM-American Samoa"},{"country_code":"ATA-Antarctica"},{"country_code":"ATF-French Southern Territories"},{"country_code":"ATG-Antigua and Barbuda"},{"country_code":"AUS-Australia"},{"country_code":"AUT-Austria"},{"country_code":"AZE-Azerbaijan"},{"country_code":"BDI-Burundi"},{"country_code":"BEL-Belgium"},{"country_code":"BEN-Benin"},{"country_code":"BES-Bonaire"},{"country_code":"BFA-Burkina Faso"},{"country_code":"BGD-Bangladesh"},{"country_code":"BGR-Bulgaria"},{"country_code":"BHR-Bahrain"},{"country_code":"BHS-Bahamas"},{"country_code":"BIH-Bosnia and Herzegovina"},{"country_code":"BLM-Saint Barthelemy"},{"country_code":"BLR-Belarus"},{"country_code":"BLZ-Belize"},{"country_code":"BMU-Bermuda"},{"country_code":"BOL-Bolivia"},{"country_code":"BRA-Brazil"},{"country_code":"BRB-Barbados"},{"country_code":"BRN-Brunei Darussalam"},{"country_code":"BTN-Bhutan"},{"country_code":"BVT-Bouvet Island"},{"country_code":"BWA-Botswana"},{"country_code":"CAF-Central African Republic"},{"country_code":"CAN-Canada"},{"country_code":"CCK-Cocos Islands"},{"country_code":"CHE-Switzerland"},{"country_code":"CHL-Chile"},{"country_code":"CHN-China"},{"country_code":"CIV-Ivory Coast"},{"country_code":"CMR-Cameroon"},{"country_code":"COD-Congo"},{"country_code":"COG-Congo"},{"country_code":"COK-Cook Islands"},{"country_code":"COL-Colombia"},{"country_code":"COM-Comoros"},{"country_code":"CPV-Cape Verde"},{"country_code":"CRI-Costa Rica"},{"country_code":"CUB-Cuba"},{"country_code":"CUW-Curacao"},{"country_code":"CXR-Christmas Island"},{"country_code":"CYM-Cayman Islands"},{"country_code":"CYP-Cyprus"},{"country_code":"CZE-Czech Republic"},{"country_code":"DEU-Germany"},{"country_code":"DJI-Djibouti"},{"country_code":"DMA-Dominica"},{"country_code":"DNK-Denmark"},{"country_code":"DOM-Dominican Republic"},{"country_code":"DZA-Algeria"},{"country_code":"ECU-Ecuador"},{"country_code":"EGY-Egypt"},{"country_code":"ERI-Eritrea"},{"country_code":"ESH-Western Sahara"},{"country_code":"ESP-Spain"},{"country_code":"EST-Estonia"},{"country_code":"ETH-Ethiopia"},{"country_code":"FIN-Finland"},{"country_code":"FJI-Fiji"},{"country_code":"FLK-Falkland Islands"},{"country_code":"FRA-France"},{"country_code":"FRO-Faeroe Islands"},{"country_code":"FSM-Micronesia"},{"country_code":"GAB-Gabon"},{"country_code":"GBR-United Kingdom"},{"country_code":"GEO-Georgia"},{"country_code":"GGY-Guernsey"},{"country_code":"GHA-Ghana"},{"country_code":"GIB-Gibraltar"},{"country_code":"GIN-Guinea"},{"country_code":"GLP-Guadaloupe"},{"country_code":"GMB-Gambia"},{"country_code":"GNB-Guinea-Bissau"},{"country_code":"GNQ-Equatorial Guinea"},{"country_code":"GRC-Greece"},{"country_code":"GRD-Grenada"},{"country_code":"GRL-Greenland"},{"country_code":"GTM-Guatemala"},{"country_code":"GUF-French Guiana"},{"country_code":"GUM-Guam"},{"country_code":"GUY-Guyana"},{"country_code":"HKG-Hong Kong"},{"country_code":"HMD-Heard and McDonald Islands"},{"country_code":"HND-Honduras"},{"country_code":"HRV-Hrvatska"},{"country_code":"HTI-Haiti"},{"country_code":"HUN-Hungary"},{"country_code":"IDN-Indonesia"},{"country_code":"IMN-Isle of Man"},{"country_code":"IND-India"},{"country_code":"IOT-British Indian Ocean Territory"},{"country_code":"IRL-Ireland"},{"country_code":"IRN-Iran"},{"country_code":"IRQ-Iraq"},{"country_code":"ISL-Iceland"},{"country_code":"ISR-Israel"},{"country_code":"ITA-Italy"},{"country_code":"JAM-Jamaica"},{"country_code":"JEY-Jersey"},{"country_code":"JOR-Jordan"},{"country_code":"JPN-Japan"},{"country_code":"KAZ-Kazakhstan"},{"country_code":"KEN-Kenya"},{"country_code":"KGZ-Kyrgyz Republic"},{"country_code":"KHM-Cambodia"},{"country_code":"KIR-Kiribati"},{"country_code":"KNA-St. Kitts and Nevis"},{"country_code":"KOR-South Korea"},{"country_code":"KWT-Kuwait"},{"country_code":"LAO-Lao"},{"country_code":"LBN-Lebanon"},{"country_code":"LBR-Liberia"},{"country_code":"LBY-Libyan Arab Jamahiriya"},{"country_code":"LCA-St. Lucia"},{"country_code":"LIE-Liechtenstein"},{"country_code":"LKA-Sri Lanka"},{"country_code":"LSO-Lesotho"},{"country_code":"LTU-Lithuania"},{"country_code":"LUX-Luxembourg"},{"country_code":"LVA-Latvia"},{"country_code":"MAC-Macao"},{"country_code":"MAF-Saint Martin"},{"country_code":"MAR-Morocco"},{"country_code":"MCO-Monaco"},{"country_code":"MDA-Moldova"},{"country_code":"MDG-Madagascar"},{"country_code":"MDV-Maldives"},{"country_code":"MEX-Mexico"},{"country_code":"MHL-Marshall Islands"},{"country_code":"MKD-Macedonia"},{"country_code":"MLI-Mali"},{"country_code":"MLT-Malta"},{"country_code":"MMR-Myanmar"},{"country_code":"MNE-Montenegro"},{"country_code":"MNG-Mongolia"},{"country_code":"MNP-Northern Mariana Islands"},{"country_code":"MOZ-Mozambique"},{"country_code":"MRT-Mauritania"},{"country_code":"MSR-Montserrat"},{"country_code":"MTQ-Martinique"},{"country_code":"MUS-Mauritius"},{"country_code":"MWI-Malawi"},{"country_code":"MYS-Malaysia"},{"country_code":"MYT-Mayotte"},{"country_code":"NAM-Namibia"},{"country_code":"NCL-New Caledonia"},{"country_code":"NER-Niger"},{"country_code":"NFK-Norfolk Island"},{"country_code":"NGA-Nigeria"},{"country_code":"NIC-Nicaragua"},{"country_code":"NIU-Niue"},{"country_code":"NLD-Netherlands"},{"country_code":"NOR-Norway"},{"country_code":"NPL-Nepal"},{"country_code":"NRU-Nauru"},{"country_code":"NZL-New Zealand"},{"country_code":"OMN-Oman"},{"country_code":"PAK-Pakistan"},{"country_code":"PAN-Panama"},{"country_code":"PCN-Pitcairn Island"},{"country_code":"PER-Peru"},{"country_code":"PHL-Philippines"},{"country_code":"PLW-Palau"},{"country_code":"PNG-Papua New Guinea"},{"country_code":"POL-Poland"},{"country_code":"PRI-Puerto Rico"},{"country_code":"PRK-North Korea"},{"country_code":"PRT-Portugal"},{"country_code":"PRY-Paraguay"},{"country_code":"PSE-Palestinian Territory"},{"country_code":"PYF-French Polynesia"},{"country_code":"QAT-Qatar"},{"country_code":"REU-Reunion"},{"country_code":"ROU-Romania"},{"country_code":"RUS-Russian Federation"},{"country_code":"RWA-Rwanda"},{"country_code":"SAU-Saudi Arabia"},{"country_code":"SDN-Sudan"},{"country_code":"SEN-Senegal"},{"country_code":"SGP-Singapore"},{"country_code":"SGS-South Georgia and the South Sandwich Islands"},{"country_code":"SHN-Saint Helena"},{"country_code":"SJM-Svalbard & Jan Mayen Islands"},{"country_code":"SLB-Solomon Islands"},{"country_code":"SLE-Sierra Leone"},{"country_code":"SLV-El Salvador"},{"country_code":"SMR-San Marino"},{"country_code":"SOM-Somalia"},{"country_code":"SPM-St. Pierre and Miquelon"},{"country_code":"SRB-Serbia"},{"country_code":"STP-Sao Tome and Principe"},{"country_code":"SUR-Suriname"},{"country_code":"SVK-Slovakia"},{"country_code":"SVN-Slovenia"},{"country_code":"SWE-Sweden"},{"country_code":"SWZ-Swaziland"},{"country_code":"SXM-Sint Maarten"},{"country_code":"SYC-Seychelles"},{"country_code":"SYR-Syrian Arab Republic"},{"country_code":"TCA-Turks and Caicos Islands"},{"country_code":"TCD-Chad"},{"country_code":"TGO-Togo"},{"country_code":"THA-Thailand"},{"country_code":"TJK-Tajikistan"},{"country_code":"TKL-Tokelau"},{"country_code":"TKM-Turkmenistan"},{"country_code":"TLS-Timor-Leste"},{"country_code":"TON-Tonga"},{"country_code":"TTO-Trinidad and Tobago"},{"country_code":"TUN-Tunisia"},{"country_code":"TUR-Turkey"},{"country_code":"TUV-Tuvalu"},{"country_code":"TWN-Taiwan"},{"country_code":"TZA-Tanzania"},{"country_code":"UGA-Uganda"},{"country_code":"UKR-Ukraine"},{"country_code":"UMI-United States Minor Outlying Islands"},{"country_code":"URY-Uruguay"},{"country_code":"USA-United States of America"},{"country_code":"UZB-Uzbekistan"},{"country_code":"VAT-Vatican City State"},{"country_code":"VCT-St. Vincent and the Grenadines"},{"country_code":"VEN-Venezuela"},{"country_code":"VGB-British Virgin Islands"},{"country_code":"VIR-US Virgin Islands"},{"country_code":"VNM-Viet Nam"},{"country_code":"VUT-Vanuatu"},{"country_code":"WLF-Wallis and Futuna Islands"},{"country_code":"WSM-Samoa"},{"country_code":"YEM-Yemen"},{"country_code":"ZAF-South Africa"},{"country_code":"ZMB-Zambia"},{"country_code":"ZWE-Zimbabwe"}]}
+[INFO] 2017-09-22 10:12:17,308 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-22 10:12:17,308 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-22 10:12:17,309 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-22 10:12:17,323 - sendHttp_Json >> RES size:1595
+[INFO] 2017-09-22 10:12:17,324 - <--{"rows":5,"list":[{"rec_digits":null,"company_id":"05147","group_name":"ION","mid":"03260","rec_prefix":null,"tid":"65130248","gst_no":"201503402K","company_name":"JNA Networks Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"OBBA & LLang","item_code3":null,"item_code2":"09","item_code1":"05","item_code5":null},{"rec_digits":"7","company_id":"05018","group_name":"ION","mid":"03030","rec_prefix":"GTF","tid":"65130246","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","item_code4":"11","dup_rc":"N","store_name":"Global Tax Free Pte Ltd","item_code3":"09","item_code2":"04","item_code1":"06","item_code5":"13"},{"rec_digits":null,"company_id":"05101","group_name":"ION","mid":"03172","rec_prefix":null,"tid":"65130247","gst_no":"201405244D","company_name":"SV Global Enterprise Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"SV Global Enterprise Pte. Ltd. ","item_code3":null,"item_code2":null,"item_code1":"28","item_code5":null},{"rec_digits":null,"company_id":"05133","group_name":"ION","mid":"03229","rec_prefix":null,"tid":"65130249","gst_no":"200722074E","company_name":"Elush (T3) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"iStudio - Changi Airport T3","item_code3":null,"item_code2":"28","item_code1":"03","item_code5":null},{"rec_digits":null,"company_id":"05144","group_name":"ION","mid":"03257","rec_prefix":null,"tid":"65130250","gst_no":"200413885M","company_name":"Eadeco (Singapore) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"Akemi Uchi - Jem","item_code3":null,"item_code2":null,"item_code1":"23","item_code5":null}]}
+[INFO] 2017-09-22 10:12:17,658 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-22 10:12:17,659 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchAutoCompanyName
+[INFO] 2017-09-22 10:12:17,660 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-22 10:12:17,675 - sendHttp_Json >> RES size:351
+[INFO] 2017-09-22 10:12:17,676 - <--{"rows":5,"list":[{"company_id":"05144","company_name":"Eadeco (Singapore) Pte. Ltd. "},{"company_id":"05101","company_name":"SV Global Enterprise Pte. Ltd. "},{"company_id":"05133","company_name":"Elush (T3) Pte. Ltd. "},{"company_id":"05018","company_name":"Global Tax Free Pte Ltd"},{"company_id":"05147","company_name":"JNA Networks Pte. Ltd. "}]}
+[INFO] 2017-09-22 10:12:17,794 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-22 10:12:17,794 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-22 10:12:17,794 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-22 10:12:17,813 - sendHttp_Json >> RES size:1595
+[INFO] 2017-09-22 10:12:17,814 - <--{"rows":5,"list":[{"rec_digits":null,"company_id":"05147","group_name":"ION","mid":"03260","rec_prefix":null,"tid":"65130248","gst_no":"201503402K","company_name":"JNA Networks Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"OBBA & LLang","item_code3":null,"item_code2":"09","item_code1":"05","item_code5":null},{"rec_digits":"7","company_id":"05018","group_name":"ION","mid":"03030","rec_prefix":"GTF","tid":"65130246","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","item_code4":"11","dup_rc":"N","store_name":"Global Tax Free Pte Ltd","item_code3":"09","item_code2":"04","item_code1":"06","item_code5":"13"},{"rec_digits":null,"company_id":"05101","group_name":"ION","mid":"03172","rec_prefix":null,"tid":"65130247","gst_no":"201405244D","company_name":"SV Global Enterprise Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"SV Global Enterprise Pte. Ltd. ","item_code3":null,"item_code2":null,"item_code1":"28","item_code5":null},{"rec_digits":null,"company_id":"05133","group_name":"ION","mid":"03229","rec_prefix":null,"tid":"65130249","gst_no":"200722074E","company_name":"Elush (T3) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"iStudio - Changi Airport T3","item_code3":null,"item_code2":"28","item_code1":"03","item_code5":null},{"rec_digits":null,"company_id":"05144","group_name":"ION","mid":"03257","rec_prefix":null,"tid":"65130250","gst_no":"200413885M","company_name":"Eadeco (Singapore) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"Akemi Uchi - Jem","item_code3":null,"item_code2":null,"item_code1":"23","item_code5":null}]}
+[INFO] 2017-09-22 10:12:21,450 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:12:21,450 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:12:21,453 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:12:23,059 - -->{}
+[INFO] 2017-09-22 10:12:23,060 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getItemCodeList
+[INFO] 2017-09-22 10:12:23,061 - sendHttp_Json >> REQ:{}
+[INFO] 2017-09-22 10:12:23,076 - sendHttp_Json >> RES size:1539
+[INFO] 2017-09-22 10:12:23,077 - <--{"rows":33,"list":[{"code_name":"Arts & Antiques","code_id":"01"},{"code_name":"Automobile Acc.","code_id":"02"},{"code_name":"AV & IT","code_id":"03"},{"code_name":"Baby Products","code_id":"04"},{"code_name":"Cosmetic & Essence","code_id":"05"},{"code_name":"Dept. Store","code_id":"06"},{"code_name":"Eyewear & Optics","code_id":"07"},{"code_name":"Fashion & Clothing","code_id":"08"},{"code_name":"Fashion Acc.","code_id":"09"},{"code_name":"Footwear","code_id":"10"},{"code_name":"Furniture","code_id":"11"},{"code_name":"Games and Toys","code_id":"12"},{"code_name":"Glass & Crystal","code_id":"13"},{"code_name":"Handicraft","code_id":"14"},{"code_name":"Health & Beauty","code_id":"15"},{"code_name":"Home Appliances","code_id":"16"},{"code_name":"Jewellery","code_id":"17"},{"code_name":"Leather Goods","code_id":"18"},{"code_name":"Lingerie Apparels","code_id":"19"},{"code_name":"Mag & Stationery","code_id":"20"},{"code_name":"Medical Clinics","code_id":"21"},{"code_name":"Medical Equipment","code_id":"22"},{"code_name":"Other retailing","code_id":"23"},{"code_name":"Pharmaceutical","code_id":"24"},{"code_name":"Photo equipment","code_id":"25"},{"code_name":"Souvenirs & Gifts","code_id":"26"},{"code_name":"Sports equipment","code_id":"27"},{"code_name":"Telecommunications","code_id":"28"},{"code_name":"Textile & Carpets","code_id":"29"},{"code_name":"Tobacco & Wines","code_id":"30"},{"code_name":"Travel Accessories","code_id":"31"},{"code_name":"Video & Music","code_id":"32"},{"code_name":"Watches","code_id":"33"}]}
+[INFO] 2017-09-22 10:12:23,816 - -->{
+  "keyword": "f",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-22 10:12:23,817 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-22 10:12:23,817 - sendHttp_Json >> REQ:{
+  "keyword": "f",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-22 10:12:23,837 - sendHttp_Json >> RES size:333
+[INFO] 2017-09-22 10:12:23,837 - <--{"rows":1,"list":[{"rec_digits":"7","company_id":"05018","group_name":"ION","mid":"03030","rec_prefix":"GTF","tid":"65130246","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","item_code4":"11","dup_rc":"N","store_name":"Global Tax Free Pte Ltd","item_code3":"09","item_code2":"04","item_code1":"06","item_code5":"13"}]}
+[INFO] 2017-09-22 10:12:25,414 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:12:25,414 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:12:25,416 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:12:28,418 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:12:28,418 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:12:28,420 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:12:31,421 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:12:31,421 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:12:31,424 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:12:31,814 - -->{
+  "shop_id": "03030",
+  "receipt_no": "GTF0001",
+  "userId": "TFMUSER1",
+  "outlet": "ION"
+}
+[INFO] 2017-09-22 10:12:31,814 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkRctCount
+[INFO] 2017-09-22 10:12:31,815 - sendHttp_Json >> REQ:{
+  "shop_id": "03030",
+  "receipt_no": "GTF0001",
+  "userId": "TFMUSER1",
+  "outlet": "ION"
+}
+[INFO] 2017-09-22 10:12:31,831 - sendHttp_Json >> RES size:46
+[INFO] 2017-09-22 10:12:31,831 - <--{"total_cnt":7,"code":"1","message":"Success"}
+[INFO] 2017-09-22 10:12:34,424 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:12:34,424 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:12:34,427 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:12:35,895 - -->{
+  "keyword": "g",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-22 10:12:35,895 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-22 10:12:35,896 - sendHttp_Json >> REQ:{
+  "keyword": "g",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-22 10:12:35,910 - sendHttp_Json >> RES size:1282
+[INFO] 2017-09-22 10:12:35,911 - <--{"rows":4,"list":[{"rec_digits":null,"company_id":"05147","group_name":"ION","mid":"03260","rec_prefix":null,"tid":"65130248","gst_no":"201503402K","company_name":"JNA Networks Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"OBBA & LLang","item_code3":null,"item_code2":"09","item_code1":"05","item_code5":null},{"rec_digits":"7","company_id":"05018","group_name":"ION","mid":"03030","rec_prefix":"GTF","tid":"65130246","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","item_code4":"11","dup_rc":"N","store_name":"Global Tax Free Pte Ltd","item_code3":"09","item_code2":"04","item_code1":"06","item_code5":"13"},{"rec_digits":null,"company_id":"05101","group_name":"ION","mid":"03172","rec_prefix":null,"tid":"65130247","gst_no":"201405244D","company_name":"SV Global Enterprise Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"SV Global Enterprise Pte. Ltd. ","item_code3":null,"item_code2":null,"item_code1":"28","item_code5":null},{"rec_digits":null,"company_id":"05133","group_name":"ION","mid":"03229","rec_prefix":null,"tid":"65130249","gst_no":"200722074E","company_name":"Elush (T3) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"iStudio - Changi Airport T3","item_code3":null,"item_code2":"28","item_code1":"03","item_code5":null}]}
+[INFO] 2017-09-22 10:12:37,428 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:12:37,428 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:12:37,430 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:12:40,431 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:12:40,431 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:12:40,433 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:12:43,434 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:12:43,434 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:12:43,436 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:12:46,438 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:12:46,438 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:12:46,440 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:12:49,441 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:12:49,441 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:12:49,443 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:12:50,261 - -->{
+  "shop_id": "03260",
+  "receipt_no": "WGLEE201709220001",
+  "userId": "TFMUSER1",
+  "outlet": "ION"
+}
+[INFO] 2017-09-22 10:12:50,261 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkRctCount
+[INFO] 2017-09-22 10:12:50,262 - sendHttp_Json >> REQ:{
+  "shop_id": "03260",
+  "receipt_no": "WGLEE201709220001",
+  "userId": "TFMUSER1",
+  "outlet": "ION"
+}
+[INFO] 2017-09-22 10:12:50,276 - sendHttp_Json >> RES size:46
+[INFO] 2017-09-22 10:12:50,277 - <--{"total_cnt":0,"code":"0","message":"Failure"}
+[INFO] 2017-09-22 10:12:51,684 - -->{
+  "status": "Issue",
+  "tid": "65130248",
+  "mid": "03260",
+  "userId": "TFMUSER1",
+  "passport_number": "M71293013",
+  "country_code": "KOR",
+  "last_name": "LEE",
+  "first_name": "WONGYU",
+  "expiry_date": "20220723",
+  "date_of_birth": "19840902",
+  "gender": "M",
+  "purchase_list": "[\r\n  {\r\n    \"description\": \"05:Cosmetic & Essence\",\r\n    \"gross_amount\": \"123.45\",\r\n    \"quantity\": \"1\",\r\n    \"receipt_date\": \"20170922\",\r\n    \"receipt_number\": \"WGLEE201709220001\"\r\n  }\r\n]",
+  "outlet": "ION"
+}
+[INFO] 2017-09-22 10:12:51,685 - sendHttp_Json >> URI:http://localhost:7005/service/json/etrs/issueTicket
+[INFO] 2017-09-22 10:12:51,685 - sendHttp_Json >> REQ:{
+  "status": "Issue",
+  "tid": "65130248",
+  "mid": "03260",
+  "userId": "TFMUSER1",
+  "passport_number": "M71293013",
+  "country_code": "KOR",
+  "last_name": "LEE",
+  "first_name": "WONGYU",
+  "expiry_date": "20220723",
+  "date_of_birth": "19840902",
+  "gender": "M",
+  "purchase_list": "[\r\n  {\r\n    \"description\": \"05:Cosmetic & Essence\",\r\n    \"gross_amount\": \"123.45\",\r\n    \"quantity\": \"1\",\r\n    \"receipt_date\": \"20170922\",\r\n    \"receipt_number\": \"WGLEE201709220001\"\r\n  }\r\n]",
+  "outlet": "ION"
+}
+[INFO] 2017-09-22 10:12:52,444 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:12:52,454 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:12:52,646 - sendHttp_Json >> RES size:52
+[ERROR] 2017-09-22 10:12:58,846 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:12:58,846 - <--
+[INFO] 2017-09-22 10:13:01,872 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:13:01,872 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:13:01,874 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:13:04,875 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:13:04,875 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:13:04,877 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:13:07,879 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:13:07,879 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:13:07,882 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:13:10,883 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:13:10,883 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:13:10,885 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:13:13,886 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:13:13,886 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:13:13,888 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:13:16,889 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:13:16,889 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:13:16,891 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:13:19,893 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:13:19,893 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:13:19,895 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:13:22,896 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:13:22,896 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:13:22,898 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:13:25,899 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:13:25,899 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:13:25,901 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:13:28,902 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:13:28,902 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:13:28,904 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:13:31,905 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:13:31,905 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:13:31,907 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:13:34,908 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:13:34,908 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:13:34,916 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:13:37,918 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:13:37,918 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:13:37,920 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:13:40,921 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:13:40,921 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:13:40,923 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:13:43,924 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:13:43,924 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:13:43,926 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:13:46,927 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:13:46,927 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:13:46,929 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:13:49,930 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:13:49,930 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:13:49,933 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:13:52,934 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:13:52,934 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:13:52,936 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:13:55,938 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:13:55,938 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:13:55,941 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:13:58,942 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:13:58,942 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:14:02,961 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:14:05,971 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:14:05,971 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:14:07,978 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:14:10,980 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:14:10,980 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:14:12,985 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:14:15,987 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:14:15,987 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:14:17,992 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:14:20,994 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:14:20,994 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:14:23,003 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:14:26,005 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:14:26,005 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:14:28,008 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:14:31,011 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:14:31,011 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:14:33,012 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:14:36,014 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:14:36,014 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:14:38,010 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:14:41,015 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:14:41,015 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:14:43,022 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:14:46,025 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:14:46,025 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:14:48,042 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:14:51,044 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:14:51,044 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:14:53,041 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:14:56,043 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:14:56,043 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:14:58,050 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:15:01,052 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:15:01,052 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:15:03,054 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:15:06,057 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:15:06,057 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:15:08,059 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:15:11,061 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:15:11,061 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:15:13,056 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:15:16,058 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:15:16,058 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:15:18,064 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:15:21,066 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:15:21,066 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:15:23,068 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:15:26,070 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:15:26,070 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:15:28,072 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:15:31,074 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:15:31,074 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:15:33,076 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:15:36,078 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:15:36,078 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:15:38,084 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:15:41,087 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:15:41,087 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:15:43,089 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:15:46,091 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:15:46,091 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:15:48,098 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:15:51,102 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:15:51,102 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:15:53,093 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:15:56,096 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:15:56,096 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:15:58,094 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:16:01,096 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:16:01,096 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:16:03,092 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:16:06,094 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:16:06,094 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:16:08,115 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:16:11,117 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:16:11,117 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:16:13,119 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:16:16,122 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:16:16,122 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:16:18,128 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:16:21,130 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:16:21,130 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:16:23,136 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:16:26,138 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:16:26,138 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:16:28,135 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:16:31,138 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:16:31,138 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:16:33,132 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:16:36,134 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:16:36,134 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:16:43,150 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:16:46,152 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:16:46,152 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:16:52,431 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:16:55,435 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:16:55,435 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:16:55,439 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:16:58,440 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:16:58,440 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:16:58,443 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:17:00,255 - -->{
+  "status": "Issue",
+  "tid": "65130248",
+  "mid": "03260",
+  "userId": "TFMUSER1",
+  "passport_number": "M71293013",
+  "country_code": "KOR",
+  "last_name": "LEE",
+  "first_name": "WONGYU",
+  "expiry_date": "20220723",
+  "date_of_birth": "19840902",
+  "gender": "M",
+  "purchase_list": "[\r\n  {\r\n    \"description\": \"05:Cosmetic & Essence\",\r\n    \"gross_amount\": \"123.45\",\r\n    \"quantity\": \"1\",\r\n    \"receipt_date\": \"20170922\",\r\n    \"receipt_number\": \"WGLEE201709220001\"\r\n  }\r\n]",
+  "outlet": "ION"
+}
+[INFO] 2017-09-22 10:17:00,256 - sendHttp_Json >> URI:http://localhost:7005/service/json/etrs/issueTicket
+[INFO] 2017-09-22 10:17:00,256 - sendHttp_Json >> REQ:{
+  "status": "Issue",
+  "tid": "65130248",
+  "mid": "03260",
+  "userId": "TFMUSER1",
+  "passport_number": "M71293013",
+  "country_code": "KOR",
+  "last_name": "LEE",
+  "first_name": "WONGYU",
+  "expiry_date": "20220723",
+  "date_of_birth": "19840902",
+  "gender": "M",
+  "purchase_list": "[\r\n  {\r\n    \"description\": \"05:Cosmetic & Essence\",\r\n    \"gross_amount\": \"123.45\",\r\n    \"quantity\": \"1\",\r\n    \"receipt_date\": \"20170922\",\r\n    \"receipt_number\": \"WGLEE201709220001\"\r\n  }\r\n]",
+  "outlet": "ION"
+}
+[INFO] 2017-09-22 10:17:01,451 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:17:01,452 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:17:01,460 - sendHttp_Json >> RES size:52
+[ERROR] 2017-09-22 10:17:07,288 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:17:07,289 - <--
+[INFO] 2017-09-22 10:17:10,297 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:17:10,297 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:17:10,300 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:17:13,301 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:17:13,301 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:17:13,303 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:17:16,304 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:17:16,304 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:17:16,307 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:17:19,307 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:17:19,307 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:17:19,311 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:17:22,312 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:17:22,312 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:17:22,314 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:17:25,316 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:17:25,316 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:17:25,319 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:17:28,319 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:17:28,319 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:17:28,322 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:17:31,323 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:17:31,323 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:17:31,326 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:17:34,326 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:17:34,326 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:17:34,329 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:17:37,329 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:17:37,329 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:17:37,332 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:17:40,332 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:17:40,332 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:17:40,335 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:17:43,337 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:17:43,337 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:17:43,340 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:17:46,340 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:17:46,340 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:17:46,343 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:17:49,343 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:17:49,343 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:17:49,346 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:17:52,346 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:17:52,346 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:17:52,348 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:17:55,349 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:17:55,349 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:17:55,351 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:17:58,353 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:17:58,353 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:17:58,355 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:18:01,356 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:18:01,356 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:18:01,359 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:18:04,360 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:18:04,360 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:18:04,362 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:18:07,363 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:18:07,363 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:18:07,366 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:18:10,366 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:18:10,366 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:18:10,368 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:18:13,369 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:18:13,369 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:18:13,371 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:18:16,373 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:18:16,373 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:18:16,376 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:18:19,376 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:18:19,376 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:18:19,379 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:18:22,379 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:18:22,379 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:18:22,382 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:18:25,383 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:18:25,383 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:18:25,386 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:18:28,387 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:18:28,387 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:18:28,389 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:18:31,390 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:18:31,390 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:18:31,392 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:18:34,394 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:18:34,394 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:18:34,397 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:18:37,398 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:18:37,398 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:18:37,401 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:18:40,401 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:18:40,401 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:18:40,403 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:18:43,404 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:18:43,404 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:18:43,406 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:18:46,407 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:18:46,407 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:18:46,409 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:18:49,410 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:18:49,410 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:18:49,412 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:18:52,414 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:18:52,414 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:18:52,416 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:18:55,417 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:18:55,417 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:18:55,420 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:18:58,421 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:18:58,421 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:18:58,423 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:19:01,424 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:19:01,424 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:19:01,426 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:19:04,427 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:19:04,427 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:19:04,429 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:19:07,430 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:19:07,430 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:19:07,432 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:19:10,434 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:19:10,434 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:19:10,436 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:19:13,437 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:19:13,437 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:19:13,440 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:19:16,440 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:19:16,440 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:19:16,443 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:19:19,443 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:19:19,443 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:19:19,445 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:19:22,446 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:19:22,446 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:19:22,448 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:19:25,448 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:19:25,448 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:19:25,450 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:19:28,452 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:19:28,452 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:19:28,454 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:19:31,455 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:19:31,455 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:19:31,457 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:19:34,458 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:19:34,458 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:19:34,460 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:19:37,461 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:19:37,461 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:19:37,463 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:19:40,464 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:19:40,464 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:19:40,466 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:19:43,468 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:19:43,468 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:19:43,470 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:19:46,470 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:19:46,470 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:19:46,472 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:19:49,473 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:19:49,473 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:19:49,475 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:19:52,476 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:19:52,476 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:19:52,478 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:19:55,479 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:19:55,479 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:19:55,481 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:19:58,482 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:19:58,482 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:19:58,486 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:20:01,488 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:20:01,488 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:20:01,490 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:20:04,491 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:20:04,491 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:20:04,494 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:20:07,494 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:20:07,494 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:20:07,496 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:20:10,497 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:20:10,497 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:20:10,499 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:20:13,501 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:20:13,502 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:20:15,525 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:20:18,529 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:20:18,529 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:20:20,532 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:20:23,540 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:20:23,540 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:20:30,563 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:20:33,567 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:20:33,609 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:20:39,978 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:20:42,980 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:20:42,980 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:20:42,982 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:20:45,983 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:20:45,983 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:20:45,986 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:20:48,986 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:20:48,986 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:20:48,988 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:20:51,989 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:20:51,989 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:20:51,992 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:20:54,994 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:20:54,994 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:20:54,997 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:20:57,998 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:20:57,998 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:20:58,001 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:21:01,001 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:21:01,001 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:21:01,004 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:21:04,005 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:21:04,005 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:21:04,007 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:21:07,008 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:21:07,008 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:21:07,010 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:21:10,011 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:21:10,011 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:21:10,013 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:21:13,015 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:21:13,015 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:21:13,018 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:21:16,019 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:21:16,019 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:21:16,022 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:21:19,022 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:21:19,022 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:21:19,025 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:21:22,026 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:21:22,026 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:21:22,029 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:21:25,030 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:21:25,030 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:21:25,034 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:21:28,035 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:21:28,035 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:21:28,038 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:21:31,038 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:21:31,038 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:21:31,040 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:21:34,041 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:21:34,041 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:21:34,043 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:21:37,044 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:21:37,044 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:21:37,047 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:21:40,048 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:21:40,048 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:21:40,050 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:21:43,051 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:21:43,051 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:21:43,054 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:21:46,055 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:21:46,055 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:21:46,057 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:21:49,057 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:21:49,057 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:21:49,061 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:21:52,062 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:21:52,063 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:21:52,065 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:21:55,066 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:21:55,066 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:21:55,068 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:21:58,069 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:21:58,069 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:21:58,071 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:22:01,072 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:22:01,073 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:22:01,076 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:22:04,077 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:22:04,077 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:22:04,079 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:22:07,080 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:22:07,080 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:22:07,082 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:22:10,084 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:22:10,084 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:22:10,086 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:22:13,088 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:22:13,089 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:22:13,092 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:22:16,093 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:22:16,093 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:22:16,096 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:22:19,096 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:22:19,096 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:22:19,098 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:22:22,100 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:22:22,100 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:22:22,102 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:22:25,103 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:22:25,103 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:22:25,106 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:22:28,106 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:22:28,107 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:22:28,109 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:22:31,110 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:22:31,110 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:22:31,112 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:22:34,113 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:22:34,113 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:22:34,115 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:22:37,116 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:22:37,116 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:22:37,120 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:22:40,131 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:22:40,131 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:22:40,134 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:22:43,135 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:22:43,135 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:22:43,137 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:22:46,138 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:22:46,138 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:22:46,141 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:22:49,142 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:22:49,151 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:22:49,153 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:22:52,153 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:22:52,153 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:22:52,155 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:22:55,156 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:22:55,156 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:22:55,158 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:22:58,160 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:22:58,160 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:22:58,164 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:23:01,165 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:23:01,166 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:23:01,168 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:23:04,169 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:23:04,169 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:23:04,171 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:23:07,172 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:23:07,172 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:23:07,175 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:23:10,176 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:23:10,176 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:23:10,178 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:23:13,180 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:23:13,180 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:23:13,182 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:23:16,183 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:23:16,183 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:23:16,185 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:23:19,186 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:23:19,186 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:23:19,188 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:23:22,189 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:23:22,189 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:23:22,191 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:23:25,191 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:23:25,191 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:23:25,193 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:23:28,194 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:23:28,194 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:23:28,196 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:23:31,198 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:23:31,198 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:23:31,200 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:23:34,201 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:23:34,201 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:23:34,203 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:23:37,204 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:23:37,204 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:23:37,207 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:23:40,208 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:23:40,208 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:23:40,210 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:23:43,211 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:23:43,211 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:23:43,222 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:23:46,223 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:23:46,223 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:23:46,226 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:23:49,240 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:23:49,240 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:23:49,243 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:23:52,244 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:23:52,244 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:23:52,246 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:23:55,247 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:23:55,247 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:23:55,249 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:23:58,250 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:23:58,250 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:23:58,252 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:24:01,253 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:24:01,253 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:24:01,255 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:24:04,255 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:24:04,255 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:24:04,257 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:24:07,259 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:24:07,259 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:24:07,264 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:24:10,265 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:24:10,265 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:24:10,267 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:24:13,267 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:24:13,267 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:24:13,269 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:24:16,269 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:24:16,269 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:24:16,273 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:24:19,274 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:24:19,274 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:24:19,276 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:24:22,277 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:24:22,277 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:24:22,280 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:24:25,282 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:24:25,282 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:24:25,284 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:24:28,285 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:24:28,285 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:24:28,288 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:24:31,289 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:24:31,289 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:24:31,291 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:24:32,142 - -->{
+  "status": "Issue",
+  "tid": "65130248",
+  "mid": "03260",
+  "userId": "TFMUSER1",
+  "passport_number": "M71293013",
+  "country_code": "KOR",
+  "last_name": "LEE",
+  "first_name": "WONGYU",
+  "expiry_date": "20220723",
+  "date_of_birth": "19840902",
+  "gender": "M",
+  "purchase_list": "[\r\n  {\r\n    \"description\": \"05:Cosmetic & Essence\",\r\n    \"gross_amount\": \"123.45\",\r\n    \"quantity\": \"1\",\r\n    \"receipt_date\": \"20170922\",\r\n    \"receipt_number\": \"WGLEE201709220001\"\r\n  }\r\n]",
+  "outlet": "ION"
+}
+[INFO] 2017-09-22 10:24:32,143 - sendHttp_Json >> URI:http://localhost:7005/service/json/etrs/issueTicket
+[INFO] 2017-09-22 10:24:32,144 - sendHttp_Json >> REQ:{
+  "status": "Issue",
+  "tid": "65130248",
+  "mid": "03260",
+  "userId": "TFMUSER1",
+  "passport_number": "M71293013",
+  "country_code": "KOR",
+  "last_name": "LEE",
+  "first_name": "WONGYU",
+  "expiry_date": "20220723",
+  "date_of_birth": "19840902",
+  "gender": "M",
+  "purchase_list": "[\r\n  {\r\n    \"description\": \"05:Cosmetic & Essence\",\r\n    \"gross_amount\": \"123.45\",\r\n    \"quantity\": \"1\",\r\n    \"receipt_date\": \"20170922\",\r\n    \"receipt_number\": \"WGLEE201709220001\"\r\n  }\r\n]",
+  "outlet": "ION"
+}
+[INFO] 2017-09-22 10:24:34,292 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:24:34,292 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:24:34,310 - sendHttp_Json >> RES size:52
+[ERROR] 2017-09-22 10:24:39,188 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:24:39,188 - <--
+[INFO] 2017-09-22 10:24:42,197 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:24:42,197 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:24:42,199 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:24:45,200 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:24:45,200 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:24:45,202 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:24:48,203 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:24:48,203 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:24:48,206 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:24:51,207 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:24:51,207 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:24:51,209 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:24:54,210 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:24:54,210 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:24:58,226 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:25:01,229 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:25:01,229 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:25:03,239 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:25:06,241 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:25:06,241 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:25:08,251 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:25:11,253 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:25:11,253 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:25:13,256 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:25:16,259 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:25:16,259 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:25:18,260 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:25:21,262 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:25:21,262 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:25:23,266 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:25:26,268 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:25:26,268 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:25:28,271 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:25:31,273 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:25:31,273 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:25:33,276 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:25:36,280 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:25:36,281 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[ERROR] 2017-09-22 10:25:43,297 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:25:46,300 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:25:46,300 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:25:51,871 - -->{
+  "status": "Issue",
+  "tid": "65130248",
+  "mid": "03260",
+  "userId": "TFMUSER1",
+  "passport_number": "M71293013",
+  "country_code": "KOR",
+  "last_name": "LEE",
+  "first_name": "WONGYU",
+  "expiry_date": "20220723",
+  "date_of_birth": "19840902",
+  "gender": "M",
+  "purchase_list": "[\r\n  {\r\n    \"description\": \"05:Cosmetic & Essence\",\r\n    \"gross_amount\": \"123.45\",\r\n    \"quantity\": \"1\",\r\n    \"receipt_date\": \"20170922\",\r\n    \"receipt_number\": \"WGLEE201709220001\"\r\n  }\r\n]",
+  "outlet": "ION"
+}
+[INFO] 2017-09-22 10:25:51,873 - sendHttp_Json >> URI:http://localhost:7005/service/json/etrs/issueTicket
+[INFO] 2017-09-22 10:25:51,873 - sendHttp_Json >> REQ:{
+  "status": "Issue",
+  "tid": "65130248",
+  "mid": "03260",
+  "userId": "TFMUSER1",
+  "passport_number": "M71293013",
+  "country_code": "KOR",
+  "last_name": "LEE",
+  "first_name": "WONGYU",
+  "expiry_date": "20220723",
+  "date_of_birth": "19840902",
+  "gender": "M",
+  "purchase_list": "[\r\n  {\r\n    \"description\": \"05:Cosmetic & Essence\",\r\n    \"gross_amount\": \"123.45\",\r\n    \"quantity\": \"1\",\r\n    \"receipt_date\": \"20170922\",\r\n    \"receipt_number\": \"WGLEE201709220001\"\r\n  }\r\n]",
+  "outlet": "ION"
+}
+[ERROR] 2017-09-22 10:25:53,318 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[ERROR] 2017-09-22 10:25:53,960 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:25:53,967 - <--
+[INFO] 2017-09-22 10:25:56,982 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:25:56,982 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:25:57,042 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:25:58,657 - -->{
+  "status": "Issue",
+  "tid": "65130248",
+  "mid": "03260",
+  "userId": "TFMUSER1",
+  "passport_number": "M71293013",
+  "country_code": "KOR",
+  "last_name": "LEE",
+  "first_name": "WONGYU",
+  "expiry_date": "20220723",
+  "date_of_birth": "19840902",
+  "gender": "M",
+  "purchase_list": "[\r\n  {\r\n    \"description\": \"05:Cosmetic & Essence\",\r\n    \"gross_amount\": \"123.45\",\r\n    \"quantity\": \"1\",\r\n    \"receipt_date\": \"20170922\",\r\n    \"receipt_number\": \"WGLEE201709220001\"\r\n  }\r\n]",
+  "outlet": "ION"
+}
+[INFO] 2017-09-22 10:25:58,658 - sendHttp_Json >> URI:http://localhost:7005/service/json/etrs/issueTicket
+[INFO] 2017-09-22 10:25:58,659 - sendHttp_Json >> REQ:{
+  "status": "Issue",
+  "tid": "65130248",
+  "mid": "03260",
+  "userId": "TFMUSER1",
+  "passport_number": "M71293013",
+  "country_code": "KOR",
+  "last_name": "LEE",
+  "first_name": "WONGYU",
+  "expiry_date": "20220723",
+  "date_of_birth": "19840902",
+  "gender": "M",
+  "purchase_list": "[\r\n  {\r\n    \"description\": \"05:Cosmetic & Essence\",\r\n    \"gross_amount\": \"123.45\",\r\n    \"quantity\": \"1\",\r\n    \"receipt_date\": \"20170922\",\r\n    \"receipt_number\": \"WGLEE201709220001\"\r\n  }\r\n]",
+  "outlet": "ION"
+}
+[INFO] 2017-09-22 10:26:00,044 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:26:00,044 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:26:00,051 - sendHttp_Json >> RES size:52
+[ERROR] 2017-09-22 10:26:05,682 -    위치: System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   위치: System.Net.WebClient.UploadString(Uri address, String method, String data)
+   위치: GTF_Comm.GTF_CommManager.sendHttp_Json(String url, String strJsondata, Boolean bhttps, Int32 nTimeout)
+[INFO] 2017-09-22 10:26:05,682 - <--
+[INFO] 2017-09-22 10:26:08,692 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:26:08,693 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:26:08,696 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:26:11,697 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:26:11,697 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:26:11,699 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:26:14,700 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:26:14,700 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:26:14,703 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:26:17,703 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:26:17,703 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:26:17,706 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:26:20,707 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-22 10:26:20,707 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-22 10:26:20,711 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-22 10:26:23,411 - -->{
+  "status": "Issue",
+  "tid": "65130248",
+  "mid": "03260",
+  "userId": "TFMUSER1",
+  "passport_number": "M71293013",
+  "country_code": "KOR",
+  "last_name": "LEE",
+  "first_name": "WONGYU",
+  "expiry_date": "20220723",
+  "date_of_birth": "19840902",
+  "gender": "M",
+  "purchase_list": "[\r\n  {\r\n    \"description\": \"05:Cosmetic & Essence\",\r\n    \"gross_amount\": \"123.45\",\r\n    \"quantity\": \"1\",\r\n    \"receipt_date\": \"20170922\",\r\n    \"receipt_number\": \"WGLEE201709220001\"\r\n  }\r\n]",
+  "outlet": "ION"
+}
+[INFO] 2017-09-22 10:26:23,412 - sendHttp_Json >> URI:http://localhost:7005/service/json/etrs/issueTicket
+[INFO] 2017-09-22 10:26:23,412 - sendHttp_Json >> REQ:{
+  "status": "Issue",
+  "tid": "65130248",
+  "mid": "03260",
+  "userId": "TFMUSER1",
+  "passport_number": "M71293013",
+  "country_code": "KOR",
+  "last_name": "LEE",
+  "first_name": "WONGYU",
+  "expiry_date": "20220723",
+  "date_of_birth": "19840902",
+  "gender": "M",
+  "purchase_list": "[\r\n  {\r\n    \"description\": \"05:Cosmetic & Essence\",\r\n    \"gross_amount\": \"123.45\",\r\n    \"quantity\": \"1\",\r\n    \"receipt_date\": \"20170922\",\r\n    \"receipt_number\": \"WGLEE201709220001\"\r\n  }\r\n]",
+  "outlet": "ION"
+}

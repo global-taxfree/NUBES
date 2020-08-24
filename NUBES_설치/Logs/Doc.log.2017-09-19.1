@@ -1,0 +1,1141 @@
+[INFO] 2017-09-19 17:21:08,962 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchReceiptCount
+[INFO] 2017-09-19 17:21:08,967 - sendHttp_Json >> REQ:{
+  "group_id": "0000000002",
+  "start_date": "20170919",
+  "end_date": "20170919",
+  "receipt_no": "",
+  "gst_no": ""
+}
+[INFO] 2017-09-19 17:21:08,976 - sendHttp_Json >> RES size:46
+[INFO] 2017-09-19 17:21:08,977 - <--{"total_cnt":1,"code":"1","message":"Success"}
+[INFO] 2017-09-19 17:21:08,985 - -->{
+  "display_num": 15,
+  "page_num": "1",
+  "group_id": "0000000002",
+  "start_date": "20170919",
+  "end_date": "20170919",
+  "receipt_no": "",
+  "gst_no": ""
+}
+[INFO] 2017-09-19 17:21:08,986 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchReceiptList
+[INFO] 2017-09-19 17:21:08,987 - sendHttp_Json >> REQ:{
+  "display_num": 15,
+  "page_num": "1",
+  "group_id": "0000000002",
+  "start_date": "20170919",
+  "end_date": "20170919",
+  "receipt_no": "",
+  "gst_no": ""
+}
+[INFO] 2017-09-19 17:21:08,997 - sendHttp_Json >> RES size:454
+[INFO] 2017-09-19 17:21:08,999 - <--{"rows":1,"list":[{"purchase_item":"Dept. Store","receipt_no":"GTF9988","group_name":"ION","status_name":"Issued","refund_amt":5,"service_amt":"3.08","doc_id":"20052599999170001900","refund_date":null,"purchase_amt":"123.45","issue_date":"19-09-2017 16:18:04","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","store_name":"Global Tax Free Pte Ltd","row_no":1,"purchase_date":"20170919","sales_amt":"123.45","gst_amt":"8.08","status":"01"}]}
+[INFO] 2017-09-19 17:21:09,112 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:21:09,171 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:21:09,172 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:21:12,197 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:21:12,197 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:21:12,198 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:21:15,199 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:21:15,199 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:21:15,200 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:21:18,201 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:21:18,201 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:21:18,202 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:21:21,203 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:21:21,203 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:21:21,204 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:21:24,205 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:21:24,206 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:21:24,207 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:21:27,210 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:21:27,210 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:21:27,211 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:21:27,472 - -->{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:21:27,473 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getDocIdDetails
+[INFO] 2017-09-19 17:21:27,473 - sendHttp_Json >> REQ:{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:21:27,482 - sendHttp_Json >> RES size:830
+[INFO] 2017-09-19 17:21:27,482 - <--{"rows":1,"list":[{"status_code":"01","gender":"M","agent_name":null,"refund_reversal":null,"date_of_birth":"19840902","refund_amt":"5.00","mid":"03030","crc_seq_no":null,"token_type":" ","tid":"65130246","invoice_date":null,"statement_date":null,"statement_no":null,"issue_date":"19-09-2017 16:18:04","gtf_id":"02296","gst_no":"201136344W","tel_no":"62217058","country_name":"South Korea","statement_content":null,"store_name":"Global Tax Free Pte Ltd","first_name":"WONGYU","sales_amt":"123.45","company_id":"05018","invoice_no":null,"passport_no":"M71293013","last_name":"LEE","service_amt":"3.08","agent_no":null,"doc_id":"20052599999170001900","token_display":" ","refund_date":null,"country_code":"KOR","company_name":"Global Tax Free Pte Ltd","refund_method":null,"crc_refund_amt":null,"gst_amt":"8.08","status":"Issued"}]}
+[INFO] 2017-09-19 17:21:27,500 - -->{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:21:27,501 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getReceiptDetails
+[INFO] 2017-09-19 17:21:27,501 - sendHttp_Json >> REQ:{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:21:27,510 - sendHttp_Json >> RES size:153
+[INFO] 2017-09-19 17:21:27,510 - <--{"rows":1,"list":[{"number":"1","purchase_item":"Dept. Store","receipt_no":"GTF9988","purchase_amt":"123.45","quantity":1,"purchase_date":"19-09-2017"}]}
+[INFO] 2017-09-19 17:21:30,212 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:21:30,212 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:21:30,213 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:21:33,214 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:21:33,214 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:21:33,215 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:21:36,216 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:21:36,216 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:21:36,217 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:21:39,218 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:21:39,218 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:21:39,220 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:21:40,026 - -->{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:21:40,027 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getDocIdDetails
+[INFO] 2017-09-19 17:21:40,027 - sendHttp_Json >> REQ:{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:21:40,037 - sendHttp_Json >> RES size:830
+[INFO] 2017-09-19 17:21:40,037 - <--{"rows":1,"list":[{"status_code":"01","gender":"M","agent_name":null,"refund_reversal":null,"date_of_birth":"19840902","refund_amt":"5.00","mid":"03030","crc_seq_no":null,"token_type":" ","tid":"65130246","invoice_date":null,"statement_date":null,"statement_no":null,"issue_date":"19-09-2017 16:18:04","gtf_id":"02296","gst_no":"201136344W","tel_no":"62217058","country_name":"South Korea","statement_content":null,"store_name":"Global Tax Free Pte Ltd","first_name":"WONGYU","sales_amt":"123.45","company_id":"05018","invoice_no":null,"passport_no":"M71293013","last_name":"LEE","service_amt":"3.08","agent_no":null,"doc_id":"20052599999170001900","token_display":" ","refund_date":null,"country_code":"KOR","company_name":"Global Tax Free Pte Ltd","refund_method":null,"crc_refund_amt":null,"gst_amt":"8.08","status":"Issued"}]}
+[INFO] 2017-09-19 17:21:40,039 - -->{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:21:40,039 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getReceiptDetails
+[INFO] 2017-09-19 17:21:40,229 - sendHttp_Json >> REQ:{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:21:40,245 - sendHttp_Json >> RES size:153
+[INFO] 2017-09-19 17:21:40,246 - <--{"rows":1,"list":[{"number":"1","purchase_item":"Dept. Store","receipt_no":"GTF9988","purchase_amt":"123.45","quantity":1,"purchase_date":"19-09-2017"}]}
+[INFO] 2017-09-19 17:21:42,221 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:21:42,221 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:21:42,222 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:21:43,573 - -->{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:21:43,573 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getDocIdDetails
+[INFO] 2017-09-19 17:21:43,574 - sendHttp_Json >> REQ:{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:21:43,582 - sendHttp_Json >> RES size:830
+[INFO] 2017-09-19 17:21:43,583 - <--{"rows":1,"list":[{"status_code":"01","gender":"M","agent_name":null,"refund_reversal":null,"date_of_birth":"19840902","refund_amt":"5.00","mid":"03030","crc_seq_no":null,"token_type":" ","tid":"65130246","invoice_date":null,"statement_date":null,"statement_no":null,"issue_date":"19-09-2017 16:18:04","gtf_id":"02296","gst_no":"201136344W","tel_no":"62217058","country_name":"South Korea","statement_content":null,"store_name":"Global Tax Free Pte Ltd","first_name":"WONGYU","sales_amt":"123.45","company_id":"05018","invoice_no":null,"passport_no":"M71293013","last_name":"LEE","service_amt":"3.08","agent_no":null,"doc_id":"20052599999170001900","token_display":" ","refund_date":null,"country_code":"KOR","company_name":"Global Tax Free Pte Ltd","refund_method":null,"crc_refund_amt":null,"gst_amt":"8.08","status":"Issued"}]}
+[INFO] 2017-09-19 17:21:43,593 - -->{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:21:43,594 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getReceiptDetails
+[INFO] 2017-09-19 17:21:43,594 - sendHttp_Json >> REQ:{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:21:43,602 - sendHttp_Json >> RES size:153
+[INFO] 2017-09-19 17:21:43,602 - <--{"rows":1,"list":[{"number":"1","purchase_item":"Dept. Store","receipt_no":"GTF9988","purchase_amt":"123.45","quantity":1,"purchase_date":"19-09-2017"}]}
+[INFO] 2017-09-19 17:21:45,224 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:21:45,224 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:21:45,225 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:21:48,226 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:21:48,226 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:21:48,227 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:21:51,228 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:21:51,228 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:21:51,229 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:21:54,230 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:21:54,230 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:21:54,231 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:23:38,255 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/login
+[INFO] 2017-09-19 17:23:38,255 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1",
+  "password": "gtf12345"
+}
+[INFO] 2017-09-19 17:23:38,341 - sendHttp_Json >> RES size:85
+[INFO] 2017-09-19 17:23:38,411 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:23:38,412 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:23:38,413 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:23:38,600 - -->{}
+[INFO] 2017-09-19 17:23:38,601 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchCountryCode
+[INFO] 2017-09-19 17:23:38,601 - sendHttp_Json >> REQ:{}
+[INFO] 2017-09-19 17:23:38,630 - sendHttp_Json >> RES size:8440
+[INFO] 2017-09-19 17:23:38,631 - <--{"rows":248,"list":[{"country_code":"ABW-Aruba"},{"country_code":"AFG-Afghanistan"},{"country_code":"AGO-Angola"},{"country_code":"AIA-Anguilla"},{"country_code":"ALA-Aland Islands"},{"country_code":"ALB-Albania"},{"country_code":"AND-Andorra"},{"country_code":"ARE-United Arab Emirates"},{"country_code":"ARG-Argentina"},{"country_code":"ARM-Armenia"},{"country_code":"ASM-American Samoa"},{"country_code":"ATA-Antarctica"},{"country_code":"ATF-French Southern Territories"},{"country_code":"ATG-Antigua and Barbuda"},{"country_code":"AUS-Australia"},{"country_code":"AUT-Austria"},{"country_code":"AZE-Azerbaijan"},{"country_code":"BDI-Burundi"},{"country_code":"BEL-Belgium"},{"country_code":"BEN-Benin"},{"country_code":"BES-Bonaire"},{"country_code":"BFA-Burkina Faso"},{"country_code":"BGD-Bangladesh"},{"country_code":"BGR-Bulgaria"},{"country_code":"BHR-Bahrain"},{"country_code":"BHS-Bahamas"},{"country_code":"BIH-Bosnia and Herzegovina"},{"country_code":"BLM-Saint Barthelemy"},{"country_code":"BLR-Belarus"},{"country_code":"BLZ-Belize"},{"country_code":"BMU-Bermuda"},{"country_code":"BOL-Bolivia"},{"country_code":"BRA-Brazil"},{"country_code":"BRB-Barbados"},{"country_code":"BRN-Brunei Darussalam"},{"country_code":"BTN-Bhutan"},{"country_code":"BVT-Bouvet Island"},{"country_code":"BWA-Botswana"},{"country_code":"CAF-Central African Republic"},{"country_code":"CAN-Canada"},{"country_code":"CCK-Cocos Islands"},{"country_code":"CHE-Switzerland"},{"country_code":"CHL-Chile"},{"country_code":"CHN-China"},{"country_code":"CIV-Ivory Coast"},{"country_code":"CMR-Cameroon"},{"country_code":"COD-Congo"},{"country_code":"COG-Congo"},{"country_code":"COK-Cook Islands"},{"country_code":"COL-Colombia"},{"country_code":"COM-Comoros"},{"country_code":"CPV-Cape Verde"},{"country_code":"CRI-Costa Rica"},{"country_code":"CUB-Cuba"},{"country_code":"CUW-Curacao"},{"country_code":"CXR-Christmas Island"},{"country_code":"CYM-Cayman Islands"},{"country_code":"CYP-Cyprus"},{"country_code":"CZE-Czech Republic"},{"country_code":"DEU-Germany"},{"country_code":"DJI-Djibouti"},{"country_code":"DMA-Dominica"},{"country_code":"DNK-Denmark"},{"country_code":"DOM-Dominican Republic"},{"country_code":"DZA-Algeria"},{"country_code":"ECU-Ecuador"},{"country_code":"EGY-Egypt"},{"country_code":"ERI-Eritrea"},{"country_code":"ESH-Western Sahara"},{"country_code":"ESP-Spain"},{"country_code":"EST-Estonia"},{"country_code":"ETH-Ethiopia"},{"country_code":"FIN-Finland"},{"country_code":"FJI-Fiji"},{"country_code":"FLK-Falkland Islands"},{"country_code":"FRA-France"},{"country_code":"FRO-Faeroe Islands"},{"country_code":"FSM-Micronesia"},{"country_code":"GAB-Gabon"},{"country_code":"GBR-United Kingdom"},{"country_code":"GEO-Georgia"},{"country_code":"GGY-Guernsey"},{"country_code":"GHA-Ghana"},{"country_code":"GIB-Gibraltar"},{"country_code":"GIN-Guinea"},{"country_code":"GLP-Guadaloupe"},{"country_code":"GMB-Gambia"},{"country_code":"GNB-Guinea-Bissau"},{"country_code":"GNQ-Equatorial Guinea"},{"country_code":"GRC-Greece"},{"country_code":"GRD-Grenada"},{"country_code":"GRL-Greenland"},{"country_code":"GTM-Guatemala"},{"country_code":"GUF-French Guiana"},{"country_code":"GUM-Guam"},{"country_code":"GUY-Guyana"},{"country_code":"HKG-Hong Kong"},{"country_code":"HMD-Heard and McDonald Islands"},{"country_code":"HND-Honduras"},{"country_code":"HRV-Hrvatska"},{"country_code":"HTI-Haiti"},{"country_code":"HUN-Hungary"},{"country_code":"IDN-Indonesia"},{"country_code":"IMN-Isle of Man"},{"country_code":"IND-India"},{"country_code":"IOT-British Indian Ocean Territory"},{"country_code":"IRL-Ireland"},{"country_code":"IRN-Iran"},{"country_code":"IRQ-Iraq"},{"country_code":"ISL-Iceland"},{"country_code":"ISR-Israel"},{"country_code":"ITA-Italy"},{"country_code":"JAM-Jamaica"},{"country_code":"JEY-Jersey"},{"country_code":"JOR-Jordan"},{"country_code":"JPN-Japan"},{"country_code":"KAZ-Kazakhstan"},{"country_code":"KEN-Kenya"},{"country_code":"KGZ-Kyrgyz Republic"},{"country_code":"KHM-Cambodia"},{"country_code":"KIR-Kiribati"},{"country_code":"KNA-St. Kitts and Nevis"},{"country_code":"KOR-South Korea"},{"country_code":"KWT-Kuwait"},{"country_code":"LAO-Lao"},{"country_code":"LBN-Lebanon"},{"country_code":"LBR-Liberia"},{"country_code":"LBY-Libyan Arab Jamahiriya"},{"country_code":"LCA-St. Lucia"},{"country_code":"LIE-Liechtenstein"},{"country_code":"LKA-Sri Lanka"},{"country_code":"LSO-Lesotho"},{"country_code":"LTU-Lithuania"},{"country_code":"LUX-Luxembourg"},{"country_code":"LVA-Latvia"},{"country_code":"MAC-Macao"},{"country_code":"MAF-Saint Martin"},{"country_code":"MAR-Morocco"},{"country_code":"MCO-Monaco"},{"country_code":"MDA-Moldova"},{"country_code":"MDG-Madagascar"},{"country_code":"MDV-Maldives"},{"country_code":"MEX-Mexico"},{"country_code":"MHL-Marshall Islands"},{"country_code":"MKD-Macedonia"},{"country_code":"MLI-Mali"},{"country_code":"MLT-Malta"},{"country_code":"MMR-Myanmar"},{"country_code":"MNE-Montenegro"},{"country_code":"MNG-Mongolia"},{"country_code":"MNP-Northern Mariana Islands"},{"country_code":"MOZ-Mozambique"},{"country_code":"MRT-Mauritania"},{"country_code":"MSR-Montserrat"},{"country_code":"MTQ-Martinique"},{"country_code":"MUS-Mauritius"},{"country_code":"MWI-Malawi"},{"country_code":"MYS-Malaysia"},{"country_code":"MYT-Mayotte"},{"country_code":"NAM-Namibia"},{"country_code":"NCL-New Caledonia"},{"country_code":"NER-Niger"},{"country_code":"NFK-Norfolk Island"},{"country_code":"NGA-Nigeria"},{"country_code":"NIC-Nicaragua"},{"country_code":"NIU-Niue"},{"country_code":"NLD-Netherlands"},{"country_code":"NOR-Norway"},{"country_code":"NPL-Nepal"},{"country_code":"NRU-Nauru"},{"country_code":"NZL-New Zealand"},{"country_code":"OMN-Oman"},{"country_code":"PAK-Pakistan"},{"country_code":"PAN-Panama"},{"country_code":"PCN-Pitcairn Island"},{"country_code":"PER-Peru"},{"country_code":"PHL-Philippines"},{"country_code":"PLW-Palau"},{"country_code":"PNG-Papua New Guinea"},{"country_code":"POL-Poland"},{"country_code":"PRI-Puerto Rico"},{"country_code":"PRK-North Korea"},{"country_code":"PRT-Portugal"},{"country_code":"PRY-Paraguay"},{"country_code":"PSE-Palestinian Territory"},{"country_code":"PYF-French Polynesia"},{"country_code":"QAT-Qatar"},{"country_code":"REU-Reunion"},{"country_code":"ROU-Romania"},{"country_code":"RUS-Russian Federation"},{"country_code":"RWA-Rwanda"},{"country_code":"SAU-Saudi Arabia"},{"country_code":"SDN-Sudan"},{"country_code":"SEN-Senegal"},{"country_code":"SGP-Singapore"},{"country_code":"SGS-South Georgia and the South Sandwich Islands"},{"country_code":"SHN-Saint Helena"},{"country_code":"SJM-Svalbard & Jan Mayen Islands"},{"country_code":"SLB-Solomon Islands"},{"country_code":"SLE-Sierra Leone"},{"country_code":"SLV-El Salvador"},{"country_code":"SMR-San Marino"},{"country_code":"SOM-Somalia"},{"country_code":"SPM-St. Pierre and Miquelon"},{"country_code":"SRB-Serbia"},{"country_code":"STP-Sao Tome and Principe"},{"country_code":"SUR-Suriname"},{"country_code":"SVK-Slovakia"},{"country_code":"SVN-Slovenia"},{"country_code":"SWE-Sweden"},{"country_code":"SWZ-Swaziland"},{"country_code":"SXM-Sint Maarten"},{"country_code":"SYC-Seychelles"},{"country_code":"SYR-Syrian Arab Republic"},{"country_code":"TCA-Turks and Caicos Islands"},{"country_code":"TCD-Chad"},{"country_code":"TGO-Togo"},{"country_code":"THA-Thailand"},{"country_code":"TJK-Tajikistan"},{"country_code":"TKL-Tokelau"},{"country_code":"TKM-Turkmenistan"},{"country_code":"TLS-Timor-Leste"},{"country_code":"TON-Tonga"},{"country_code":"TTO-Trinidad and Tobago"},{"country_code":"TUN-Tunisia"},{"country_code":"TUR-Turkey"},{"country_code":"TUV-Tuvalu"},{"country_code":"TWN-Taiwan"},{"country_code":"TZA-Tanzania"},{"country_code":"UGA-Uganda"},{"country_code":"UKR-Ukraine"},{"country_code":"UMI-United States Minor Outlying Islands"},{"country_code":"URY-Uruguay"},{"country_code":"USA-United States of America"},{"country_code":"UZB-Uzbekistan"},{"country_code":"VAT-Vatican City State"},{"country_code":"VCT-St. Vincent and the Grenadines"},{"country_code":"VEN-Venezuela"},{"country_code":"VGB-British Virgin Islands"},{"country_code":"VIR-US Virgin Islands"},{"country_code":"VNM-Viet Nam"},{"country_code":"VUT-Vanuatu"},{"country_code":"WLF-Wallis and Futuna Islands"},{"country_code":"WSM-Samoa"},{"country_code":"YEM-Yemen"},{"country_code":"ZAF-South Africa"},{"country_code":"ZMB-Zambia"},{"country_code":"ZWE-Zimbabwe"}]}
+[INFO] 2017-09-19 17:23:40,217 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:23:40,218 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchAutoCompanyName
+[INFO] 2017-09-19 17:23:40,219 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:23:40,227 - sendHttp_Json >> RES size:351
+[INFO] 2017-09-19 17:23:40,228 - <--{"rows":5,"list":[{"company_id":"05144","company_name":"Eadeco (Singapore) Pte. Ltd. "},{"company_id":"05101","company_name":"SV Global Enterprise Pte. Ltd. "},{"company_id":"05133","company_name":"Elush (T3) Pte. Ltd. "},{"company_id":"05018","company_name":"Global Tax Free Pte Ltd"},{"company_id":"05147","company_name":"JNA Networks Pte. Ltd. "}]}
+[INFO] 2017-09-19 17:23:40,280 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:23:40,281 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-19 17:23:40,281 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:23:40,291 - sendHttp_Json >> RES size:1595
+[INFO] 2017-09-19 17:23:40,292 - <--{"rows":5,"list":[{"rec_digits":null,"company_id":"05147","group_name":"ION","mid":"03260","rec_prefix":null,"tid":"65130248","gst_no":"201503402K","company_name":"JNA Networks Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"OBBA & LLang","item_code3":null,"item_code2":"09","item_code1":"05","item_code5":null},{"rec_digits":"7","company_id":"05018","group_name":"ION","mid":"03030","rec_prefix":"GTF","tid":"65130246","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","item_code4":"11","dup_rc":"N","store_name":"Global Tax Free Pte Ltd","item_code3":"09","item_code2":"04","item_code1":"06","item_code5":"13"},{"rec_digits":null,"company_id":"05101","group_name":"ION","mid":"03172","rec_prefix":null,"tid":"65130247","gst_no":"201405244D","company_name":"SV Global Enterprise Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"SV Global Enterprise Pte. Ltd. ","item_code3":null,"item_code2":null,"item_code1":"28","item_code5":null},{"rec_digits":null,"company_id":"05133","group_name":"ION","mid":"03229","rec_prefix":null,"tid":"65130249","gst_no":"200722074E","company_name":"Elush (T3) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"iStudio - Changi Airport T3","item_code3":null,"item_code2":"28","item_code1":"03","item_code5":null},{"rec_digits":null,"company_id":"05144","group_name":"ION","mid":"03257","rec_prefix":null,"tid":"65130250","gst_no":"200413885M","company_name":"Eadeco (Singapore) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"Akemi Uchi - Jem","item_code3":null,"item_code2":null,"item_code1":"23","item_code5":null}]}
+[INFO] 2017-09-19 17:23:40,774 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:23:40,775 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchAutoCompanyName
+[INFO] 2017-09-19 17:23:40,775 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:23:40,782 - sendHttp_Json >> RES size:351
+[INFO] 2017-09-19 17:23:40,783 - <--{"rows":5,"list":[{"company_id":"05144","company_name":"Eadeco (Singapore) Pte. Ltd. "},{"company_id":"05101","company_name":"SV Global Enterprise Pte. Ltd. "},{"company_id":"05133","company_name":"Elush (T3) Pte. Ltd. "},{"company_id":"05018","company_name":"Global Tax Free Pte Ltd"},{"company_id":"05147","company_name":"JNA Networks Pte. Ltd. "}]}
+[INFO] 2017-09-19 17:23:40,784 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:23:40,879 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-19 17:23:40,879 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:23:40,889 - sendHttp_Json >> RES size:1595
+[INFO] 2017-09-19 17:23:40,889 - <--{"rows":5,"list":[{"rec_digits":null,"company_id":"05147","group_name":"ION","mid":"03260","rec_prefix":null,"tid":"65130248","gst_no":"201503402K","company_name":"JNA Networks Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"OBBA & LLang","item_code3":null,"item_code2":"09","item_code1":"05","item_code5":null},{"rec_digits":"7","company_id":"05018","group_name":"ION","mid":"03030","rec_prefix":"GTF","tid":"65130246","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","item_code4":"11","dup_rc":"N","store_name":"Global Tax Free Pte Ltd","item_code3":"09","item_code2":"04","item_code1":"06","item_code5":"13"},{"rec_digits":null,"company_id":"05101","group_name":"ION","mid":"03172","rec_prefix":null,"tid":"65130247","gst_no":"201405244D","company_name":"SV Global Enterprise Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"SV Global Enterprise Pte. Ltd. ","item_code3":null,"item_code2":null,"item_code1":"28","item_code5":null},{"rec_digits":null,"company_id":"05133","group_name":"ION","mid":"03229","rec_prefix":null,"tid":"65130249","gst_no":"200722074E","company_name":"Elush (T3) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"iStudio - Changi Airport T3","item_code3":null,"item_code2":"28","item_code1":"03","item_code5":null},{"rec_digits":null,"company_id":"05144","group_name":"ION","mid":"03257","rec_prefix":null,"tid":"65130250","gst_no":"200413885M","company_name":"Eadeco (Singapore) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"Akemi Uchi - Jem","item_code3":null,"item_code2":null,"item_code1":"23","item_code5":null}]}
+[INFO] 2017-09-19 17:23:44,349 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:23:44,349 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:23:44,350 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:23:44,592 - -->{
+  "group_id": "0000000002",
+  "start_date": "20170919",
+  "end_date": "20170919",
+  "receipt_no": "",
+  "gst_no": ""
+}
+[INFO] 2017-09-19 17:23:44,592 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchReceiptCount
+[INFO] 2017-09-19 17:23:44,593 - sendHttp_Json >> REQ:{
+  "group_id": "0000000002",
+  "start_date": "20170919",
+  "end_date": "20170919",
+  "receipt_no": "",
+  "gst_no": ""
+}
+[INFO] 2017-09-19 17:23:44,601 - sendHttp_Json >> RES size:46
+[INFO] 2017-09-19 17:23:44,602 - <--{"total_cnt":1,"code":"1","message":"Success"}
+[INFO] 2017-09-19 17:23:44,608 - -->{
+  "display_num": 15,
+  "page_num": "1",
+  "group_id": "0000000002",
+  "start_date": "20170919",
+  "end_date": "20170919",
+  "receipt_no": "",
+  "gst_no": ""
+}
+[INFO] 2017-09-19 17:23:44,609 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchReceiptList
+[INFO] 2017-09-19 17:23:44,609 - sendHttp_Json >> REQ:{
+  "display_num": 15,
+  "page_num": "1",
+  "group_id": "0000000002",
+  "start_date": "20170919",
+  "end_date": "20170919",
+  "receipt_no": "",
+  "gst_no": ""
+}
+[INFO] 2017-09-19 17:23:44,628 - sendHttp_Json >> RES size:454
+[INFO] 2017-09-19 17:23:44,629 - <--{"rows":1,"list":[{"purchase_item":"Dept. Store","receipt_no":"GTF9988","group_name":"ION","status_name":"Issued","refund_amt":5,"service_amt":"3.08","doc_id":"20052599999170001900","refund_date":null,"purchase_amt":"123.45","issue_date":"19-09-2017 16:18:04","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","store_name":"Global Tax Free Pte Ltd","row_no":1,"purchase_date":"20170919","sales_amt":"123.45","gst_amt":"8.08","status":"01"}]}
+[INFO] 2017-09-19 17:23:45,366 - -->{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:23:45,367 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getDocIdDetails
+[INFO] 2017-09-19 17:23:45,367 - sendHttp_Json >> REQ:{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:23:45,378 - sendHttp_Json >> RES size:830
+[INFO] 2017-09-19 17:23:45,379 - <--{"rows":1,"list":[{"status_code":"01","gender":"M","agent_name":null,"refund_reversal":null,"date_of_birth":"19840902","refund_amt":"5.00","mid":"03030","crc_seq_no":null,"token_type":" ","tid":"65130246","invoice_date":null,"statement_date":null,"statement_no":null,"issue_date":"19-09-2017 16:18:04","gtf_id":"02296","gst_no":"201136344W","tel_no":"62217058","country_name":"South Korea","statement_content":null,"store_name":"Global Tax Free Pte Ltd","first_name":"WONGYU","sales_amt":"123.45","company_id":"05018","invoice_no":null,"passport_no":"M71293013","last_name":"LEE","service_amt":"3.08","agent_no":null,"doc_id":"20052599999170001900","token_display":" ","refund_date":null,"country_code":"KOR","company_name":"Global Tax Free Pte Ltd","refund_method":null,"crc_refund_amt":null,"gst_amt":"8.08","status":"Issued"}]}
+[INFO] 2017-09-19 17:23:45,383 - -->{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:23:45,384 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getReceiptDetails
+[INFO] 2017-09-19 17:23:45,580 - sendHttp_Json >> REQ:{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:23:45,587 - sendHttp_Json >> RES size:153
+[INFO] 2017-09-19 17:23:45,587 - <--{"rows":1,"list":[{"number":"1","purchase_item":"Dept. Store","receipt_no":"GTF9988","purchase_amt":"123.45","quantity":1,"purchase_date":"19-09-2017"}]}
+[INFO] 2017-09-19 17:23:47,352 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:23:47,352 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:23:47,353 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:23:50,354 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:23:50,354 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:23:50,355 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:23:53,356 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:23:53,356 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:23:53,357 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:23:56,358 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:23:56,358 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:23:56,359 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:23:59,359 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:23:59,359 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:23:59,360 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:24:02,361 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:24:02,364 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:24:02,365 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:24:05,367 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:24:05,367 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:24:05,368 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:24:08,369 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:24:08,369 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:24:08,370 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:24:11,370 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:24:11,370 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:24:11,372 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:24:14,372 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:24:14,372 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:24:14,374 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:24:28,137 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/login
+[INFO] 2017-09-19 17:24:28,137 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1",
+  "password": "gtf12345"
+}
+[INFO] 2017-09-19 17:24:28,203 - sendHttp_Json >> RES size:85
+[INFO] 2017-09-19 17:24:28,259 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:24:28,259 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:24:28,260 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:24:28,409 - -->{}
+[INFO] 2017-09-19 17:24:28,410 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchCountryCode
+[INFO] 2017-09-19 17:24:28,410 - sendHttp_Json >> REQ:{}
+[INFO] 2017-09-19 17:24:28,437 - sendHttp_Json >> RES size:8440
+[INFO] 2017-09-19 17:24:28,437 - <--{"rows":248,"list":[{"country_code":"ABW-Aruba"},{"country_code":"AFG-Afghanistan"},{"country_code":"AGO-Angola"},{"country_code":"AIA-Anguilla"},{"country_code":"ALA-Aland Islands"},{"country_code":"ALB-Albania"},{"country_code":"AND-Andorra"},{"country_code":"ARE-United Arab Emirates"},{"country_code":"ARG-Argentina"},{"country_code":"ARM-Armenia"},{"country_code":"ASM-American Samoa"},{"country_code":"ATA-Antarctica"},{"country_code":"ATF-French Southern Territories"},{"country_code":"ATG-Antigua and Barbuda"},{"country_code":"AUS-Australia"},{"country_code":"AUT-Austria"},{"country_code":"AZE-Azerbaijan"},{"country_code":"BDI-Burundi"},{"country_code":"BEL-Belgium"},{"country_code":"BEN-Benin"},{"country_code":"BES-Bonaire"},{"country_code":"BFA-Burkina Faso"},{"country_code":"BGD-Bangladesh"},{"country_code":"BGR-Bulgaria"},{"country_code":"BHR-Bahrain"},{"country_code":"BHS-Bahamas"},{"country_code":"BIH-Bosnia and Herzegovina"},{"country_code":"BLM-Saint Barthelemy"},{"country_code":"BLR-Belarus"},{"country_code":"BLZ-Belize"},{"country_code":"BMU-Bermuda"},{"country_code":"BOL-Bolivia"},{"country_code":"BRA-Brazil"},{"country_code":"BRB-Barbados"},{"country_code":"BRN-Brunei Darussalam"},{"country_code":"BTN-Bhutan"},{"country_code":"BVT-Bouvet Island"},{"country_code":"BWA-Botswana"},{"country_code":"CAF-Central African Republic"},{"country_code":"CAN-Canada"},{"country_code":"CCK-Cocos Islands"},{"country_code":"CHE-Switzerland"},{"country_code":"CHL-Chile"},{"country_code":"CHN-China"},{"country_code":"CIV-Ivory Coast"},{"country_code":"CMR-Cameroon"},{"country_code":"COD-Congo"},{"country_code":"COG-Congo"},{"country_code":"COK-Cook Islands"},{"country_code":"COL-Colombia"},{"country_code":"COM-Comoros"},{"country_code":"CPV-Cape Verde"},{"country_code":"CRI-Costa Rica"},{"country_code":"CUB-Cuba"},{"country_code":"CUW-Curacao"},{"country_code":"CXR-Christmas Island"},{"country_code":"CYM-Cayman Islands"},{"country_code":"CYP-Cyprus"},{"country_code":"CZE-Czech Republic"},{"country_code":"DEU-Germany"},{"country_code":"DJI-Djibouti"},{"country_code":"DMA-Dominica"},{"country_code":"DNK-Denmark"},{"country_code":"DOM-Dominican Republic"},{"country_code":"DZA-Algeria"},{"country_code":"ECU-Ecuador"},{"country_code":"EGY-Egypt"},{"country_code":"ERI-Eritrea"},{"country_code":"ESH-Western Sahara"},{"country_code":"ESP-Spain"},{"country_code":"EST-Estonia"},{"country_code":"ETH-Ethiopia"},{"country_code":"FIN-Finland"},{"country_code":"FJI-Fiji"},{"country_code":"FLK-Falkland Islands"},{"country_code":"FRA-France"},{"country_code":"FRO-Faeroe Islands"},{"country_code":"FSM-Micronesia"},{"country_code":"GAB-Gabon"},{"country_code":"GBR-United Kingdom"},{"country_code":"GEO-Georgia"},{"country_code":"GGY-Guernsey"},{"country_code":"GHA-Ghana"},{"country_code":"GIB-Gibraltar"},{"country_code":"GIN-Guinea"},{"country_code":"GLP-Guadaloupe"},{"country_code":"GMB-Gambia"},{"country_code":"GNB-Guinea-Bissau"},{"country_code":"GNQ-Equatorial Guinea"},{"country_code":"GRC-Greece"},{"country_code":"GRD-Grenada"},{"country_code":"GRL-Greenland"},{"country_code":"GTM-Guatemala"},{"country_code":"GUF-French Guiana"},{"country_code":"GUM-Guam"},{"country_code":"GUY-Guyana"},{"country_code":"HKG-Hong Kong"},{"country_code":"HMD-Heard and McDonald Islands"},{"country_code":"HND-Honduras"},{"country_code":"HRV-Hrvatska"},{"country_code":"HTI-Haiti"},{"country_code":"HUN-Hungary"},{"country_code":"IDN-Indonesia"},{"country_code":"IMN-Isle of Man"},{"country_code":"IND-India"},{"country_code":"IOT-British Indian Ocean Territory"},{"country_code":"IRL-Ireland"},{"country_code":"IRN-Iran"},{"country_code":"IRQ-Iraq"},{"country_code":"ISL-Iceland"},{"country_code":"ISR-Israel"},{"country_code":"ITA-Italy"},{"country_code":"JAM-Jamaica"},{"country_code":"JEY-Jersey"},{"country_code":"JOR-Jordan"},{"country_code":"JPN-Japan"},{"country_code":"KAZ-Kazakhstan"},{"country_code":"KEN-Kenya"},{"country_code":"KGZ-Kyrgyz Republic"},{"country_code":"KHM-Cambodia"},{"country_code":"KIR-Kiribati"},{"country_code":"KNA-St. Kitts and Nevis"},{"country_code":"KOR-South Korea"},{"country_code":"KWT-Kuwait"},{"country_code":"LAO-Lao"},{"country_code":"LBN-Lebanon"},{"country_code":"LBR-Liberia"},{"country_code":"LBY-Libyan Arab Jamahiriya"},{"country_code":"LCA-St. Lucia"},{"country_code":"LIE-Liechtenstein"},{"country_code":"LKA-Sri Lanka"},{"country_code":"LSO-Lesotho"},{"country_code":"LTU-Lithuania"},{"country_code":"LUX-Luxembourg"},{"country_code":"LVA-Latvia"},{"country_code":"MAC-Macao"},{"country_code":"MAF-Saint Martin"},{"country_code":"MAR-Morocco"},{"country_code":"MCO-Monaco"},{"country_code":"MDA-Moldova"},{"country_code":"MDG-Madagascar"},{"country_code":"MDV-Maldives"},{"country_code":"MEX-Mexico"},{"country_code":"MHL-Marshall Islands"},{"country_code":"MKD-Macedonia"},{"country_code":"MLI-Mali"},{"country_code":"MLT-Malta"},{"country_code":"MMR-Myanmar"},{"country_code":"MNE-Montenegro"},{"country_code":"MNG-Mongolia"},{"country_code":"MNP-Northern Mariana Islands"},{"country_code":"MOZ-Mozambique"},{"country_code":"MRT-Mauritania"},{"country_code":"MSR-Montserrat"},{"country_code":"MTQ-Martinique"},{"country_code":"MUS-Mauritius"},{"country_code":"MWI-Malawi"},{"country_code":"MYS-Malaysia"},{"country_code":"MYT-Mayotte"},{"country_code":"NAM-Namibia"},{"country_code":"NCL-New Caledonia"},{"country_code":"NER-Niger"},{"country_code":"NFK-Norfolk Island"},{"country_code":"NGA-Nigeria"},{"country_code":"NIC-Nicaragua"},{"country_code":"NIU-Niue"},{"country_code":"NLD-Netherlands"},{"country_code":"NOR-Norway"},{"country_code":"NPL-Nepal"},{"country_code":"NRU-Nauru"},{"country_code":"NZL-New Zealand"},{"country_code":"OMN-Oman"},{"country_code":"PAK-Pakistan"},{"country_code":"PAN-Panama"},{"country_code":"PCN-Pitcairn Island"},{"country_code":"PER-Peru"},{"country_code":"PHL-Philippines"},{"country_code":"PLW-Palau"},{"country_code":"PNG-Papua New Guinea"},{"country_code":"POL-Poland"},{"country_code":"PRI-Puerto Rico"},{"country_code":"PRK-North Korea"},{"country_code":"PRT-Portugal"},{"country_code":"PRY-Paraguay"},{"country_code":"PSE-Palestinian Territory"},{"country_code":"PYF-French Polynesia"},{"country_code":"QAT-Qatar"},{"country_code":"REU-Reunion"},{"country_code":"ROU-Romania"},{"country_code":"RUS-Russian Federation"},{"country_code":"RWA-Rwanda"},{"country_code":"SAU-Saudi Arabia"},{"country_code":"SDN-Sudan"},{"country_code":"SEN-Senegal"},{"country_code":"SGP-Singapore"},{"country_code":"SGS-South Georgia and the South Sandwich Islands"},{"country_code":"SHN-Saint Helena"},{"country_code":"SJM-Svalbard & Jan Mayen Islands"},{"country_code":"SLB-Solomon Islands"},{"country_code":"SLE-Sierra Leone"},{"country_code":"SLV-El Salvador"},{"country_code":"SMR-San Marino"},{"country_code":"SOM-Somalia"},{"country_code":"SPM-St. Pierre and Miquelon"},{"country_code":"SRB-Serbia"},{"country_code":"STP-Sao Tome and Principe"},{"country_code":"SUR-Suriname"},{"country_code":"SVK-Slovakia"},{"country_code":"SVN-Slovenia"},{"country_code":"SWE-Sweden"},{"country_code":"SWZ-Swaziland"},{"country_code":"SXM-Sint Maarten"},{"country_code":"SYC-Seychelles"},{"country_code":"SYR-Syrian Arab Republic"},{"country_code":"TCA-Turks and Caicos Islands"},{"country_code":"TCD-Chad"},{"country_code":"TGO-Togo"},{"country_code":"THA-Thailand"},{"country_code":"TJK-Tajikistan"},{"country_code":"TKL-Tokelau"},{"country_code":"TKM-Turkmenistan"},{"country_code":"TLS-Timor-Leste"},{"country_code":"TON-Tonga"},{"country_code":"TTO-Trinidad and Tobago"},{"country_code":"TUN-Tunisia"},{"country_code":"TUR-Turkey"},{"country_code":"TUV-Tuvalu"},{"country_code":"TWN-Taiwan"},{"country_code":"TZA-Tanzania"},{"country_code":"UGA-Uganda"},{"country_code":"UKR-Ukraine"},{"country_code":"UMI-United States Minor Outlying Islands"},{"country_code":"URY-Uruguay"},{"country_code":"USA-United States of America"},{"country_code":"UZB-Uzbekistan"},{"country_code":"VAT-Vatican City State"},{"country_code":"VCT-St. Vincent and the Grenadines"},{"country_code":"VEN-Venezuela"},{"country_code":"VGB-British Virgin Islands"},{"country_code":"VIR-US Virgin Islands"},{"country_code":"VNM-Viet Nam"},{"country_code":"VUT-Vanuatu"},{"country_code":"WLF-Wallis and Futuna Islands"},{"country_code":"WSM-Samoa"},{"country_code":"YEM-Yemen"},{"country_code":"ZAF-South Africa"},{"country_code":"ZMB-Zambia"},{"country_code":"ZWE-Zimbabwe"}]}
+[INFO] 2017-09-19 17:24:30,086 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:24:30,087 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchAutoCompanyName
+[INFO] 2017-09-19 17:24:30,087 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:24:30,094 - sendHttp_Json >> RES size:351
+[INFO] 2017-09-19 17:24:30,094 - <--{"rows":5,"list":[{"company_id":"05144","company_name":"Eadeco (Singapore) Pte. Ltd. "},{"company_id":"05101","company_name":"SV Global Enterprise Pte. Ltd. "},{"company_id":"05133","company_name":"Elush (T3) Pte. Ltd. "},{"company_id":"05018","company_name":"Global Tax Free Pte Ltd"},{"company_id":"05147","company_name":"JNA Networks Pte. Ltd. "}]}
+[INFO] 2017-09-19 17:24:30,139 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:24:30,140 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-19 17:24:30,140 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:24:30,148 - sendHttp_Json >> RES size:1595
+[INFO] 2017-09-19 17:24:30,149 - <--{"rows":5,"list":[{"rec_digits":null,"company_id":"05147","group_name":"ION","mid":"03260","rec_prefix":null,"tid":"65130248","gst_no":"201503402K","company_name":"JNA Networks Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"OBBA & LLang","item_code3":null,"item_code2":"09","item_code1":"05","item_code5":null},{"rec_digits":"7","company_id":"05018","group_name":"ION","mid":"03030","rec_prefix":"GTF","tid":"65130246","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","item_code4":"11","dup_rc":"N","store_name":"Global Tax Free Pte Ltd","item_code3":"09","item_code2":"04","item_code1":"06","item_code5":"13"},{"rec_digits":null,"company_id":"05101","group_name":"ION","mid":"03172","rec_prefix":null,"tid":"65130247","gst_no":"201405244D","company_name":"SV Global Enterprise Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"SV Global Enterprise Pte. Ltd. ","item_code3":null,"item_code2":null,"item_code1":"28","item_code5":null},{"rec_digits":null,"company_id":"05133","group_name":"ION","mid":"03229","rec_prefix":null,"tid":"65130249","gst_no":"200722074E","company_name":"Elush (T3) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"iStudio - Changi Airport T3","item_code3":null,"item_code2":"28","item_code1":"03","item_code5":null},{"rec_digits":null,"company_id":"05144","group_name":"ION","mid":"03257","rec_prefix":null,"tid":"65130250","gst_no":"200413885M","company_name":"Eadeco (Singapore) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"Akemi Uchi - Jem","item_code3":null,"item_code2":null,"item_code1":"23","item_code5":null}]}
+[INFO] 2017-09-19 17:24:30,627 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:24:30,628 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchAutoCompanyName
+[INFO] 2017-09-19 17:24:30,628 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:24:30,637 - sendHttp_Json >> RES size:351
+[INFO] 2017-09-19 17:24:30,637 - <--{"rows":5,"list":[{"company_id":"05144","company_name":"Eadeco (Singapore) Pte. Ltd. "},{"company_id":"05101","company_name":"SV Global Enterprise Pte. Ltd. "},{"company_id":"05133","company_name":"Elush (T3) Pte. Ltd. "},{"company_id":"05018","company_name":"Global Tax Free Pte Ltd"},{"company_id":"05147","company_name":"JNA Networks Pte. Ltd. "}]}
+[INFO] 2017-09-19 17:24:30,639 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:24:30,739 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-19 17:24:30,739 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:24:30,748 - sendHttp_Json >> RES size:1595
+[INFO] 2017-09-19 17:24:30,748 - <--{"rows":5,"list":[{"rec_digits":null,"company_id":"05147","group_name":"ION","mid":"03260","rec_prefix":null,"tid":"65130248","gst_no":"201503402K","company_name":"JNA Networks Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"OBBA & LLang","item_code3":null,"item_code2":"09","item_code1":"05","item_code5":null},{"rec_digits":"7","company_id":"05018","group_name":"ION","mid":"03030","rec_prefix":"GTF","tid":"65130246","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","item_code4":"11","dup_rc":"N","store_name":"Global Tax Free Pte Ltd","item_code3":"09","item_code2":"04","item_code1":"06","item_code5":"13"},{"rec_digits":null,"company_id":"05101","group_name":"ION","mid":"03172","rec_prefix":null,"tid":"65130247","gst_no":"201405244D","company_name":"SV Global Enterprise Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"SV Global Enterprise Pte. Ltd. ","item_code3":null,"item_code2":null,"item_code1":"28","item_code5":null},{"rec_digits":null,"company_id":"05133","group_name":"ION","mid":"03229","rec_prefix":null,"tid":"65130249","gst_no":"200722074E","company_name":"Elush (T3) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"iStudio - Changi Airport T3","item_code3":null,"item_code2":"28","item_code1":"03","item_code5":null},{"rec_digits":null,"company_id":"05144","group_name":"ION","mid":"03257","rec_prefix":null,"tid":"65130250","gst_no":"200413885M","company_name":"Eadeco (Singapore) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"Akemi Uchi - Jem","item_code3":null,"item_code2":null,"item_code1":"23","item_code5":null}]}
+[INFO] 2017-09-19 17:24:34,234 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:24:34,234 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:24:34,236 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:24:35,205 - -->{
+  "group_id": "0000000002",
+  "start_date": "20170919",
+  "end_date": "20170919",
+  "receipt_no": "",
+  "gst_no": ""
+}
+[INFO] 2017-09-19 17:24:35,206 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchReceiptCount
+[INFO] 2017-09-19 17:24:35,206 - sendHttp_Json >> REQ:{
+  "group_id": "0000000002",
+  "start_date": "20170919",
+  "end_date": "20170919",
+  "receipt_no": "",
+  "gst_no": ""
+}
+[INFO] 2017-09-19 17:24:35,215 - sendHttp_Json >> RES size:46
+[INFO] 2017-09-19 17:24:35,216 - <--{"total_cnt":1,"code":"1","message":"Success"}
+[INFO] 2017-09-19 17:24:35,221 - -->{
+  "display_num": 15,
+  "page_num": "1",
+  "group_id": "0000000002",
+  "start_date": "20170919",
+  "end_date": "20170919",
+  "receipt_no": "",
+  "gst_no": ""
+}
+[INFO] 2017-09-19 17:24:35,222 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchReceiptList
+[INFO] 2017-09-19 17:24:35,222 - sendHttp_Json >> REQ:{
+  "display_num": 15,
+  "page_num": "1",
+  "group_id": "0000000002",
+  "start_date": "20170919",
+  "end_date": "20170919",
+  "receipt_no": "",
+  "gst_no": ""
+}
+[INFO] 2017-09-19 17:24:35,239 - sendHttp_Json >> RES size:454
+[INFO] 2017-09-19 17:24:35,240 - <--{"rows":1,"list":[{"purchase_item":"Dept. Store","receipt_no":"GTF9988","group_name":"ION","status_name":"Issued","refund_amt":5,"service_amt":"3.08","doc_id":"20052599999170001900","refund_date":null,"purchase_amt":"123.45","issue_date":"19-09-2017 16:18:04","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","store_name":"Global Tax Free Pte Ltd","row_no":1,"purchase_date":"20170919","sales_amt":"123.45","gst_amt":"8.08","status":"01"}]}
+[INFO] 2017-09-19 17:24:42,597 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:24:42,598 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:24:42,599 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:24:42,604 - -->{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:24:42,604 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getDocIdDetails
+[INFO] 2017-09-19 17:24:42,605 - sendHttp_Json >> REQ:{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:24:42,614 - sendHttp_Json >> RES size:830
+[INFO] 2017-09-19 17:24:42,614 - <--{"rows":1,"list":[{"status_code":"01","gender":"M","agent_name":null,"refund_reversal":null,"date_of_birth":"19840902","refund_amt":"5.00","mid":"03030","crc_seq_no":null,"token_type":" ","tid":"65130246","invoice_date":null,"statement_date":null,"statement_no":null,"issue_date":"19-09-2017 16:18:04","gtf_id":"02296","gst_no":"201136344W","tel_no":"62217058","country_name":"South Korea","statement_content":null,"store_name":"Global Tax Free Pte Ltd","first_name":"WONGYU","sales_amt":"123.45","company_id":"05018","invoice_no":null,"passport_no":"M71293013","last_name":"LEE","service_amt":"3.08","agent_no":null,"doc_id":"20052599999170001900","token_display":" ","refund_date":null,"country_code":"KOR","company_name":"Global Tax Free Pte Ltd","refund_method":null,"crc_refund_amt":null,"gst_amt":"8.08","status":"Issued"}]}
+[INFO] 2017-09-19 17:24:50,163 - -->{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:24:50,163 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getReceiptDetails
+[INFO] 2017-09-19 17:24:50,164 - sendHttp_Json >> REQ:{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:24:50,172 - sendHttp_Json >> RES size:153
+[INFO] 2017-09-19 17:24:50,172 - <--{"rows":1,"list":[{"number":"1","purchase_item":"Dept. Store","receipt_no":"GTF9988","purchase_amt":"123.45","quantity":1,"purchase_date":"19-09-2017"}]}
+[INFO] 2017-09-19 17:25:48,888 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/login
+[INFO] 2017-09-19 17:25:48,888 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1",
+  "password": "gtf12345"
+}
+[INFO] 2017-09-19 17:25:48,957 - sendHttp_Json >> RES size:85
+[INFO] 2017-09-19 17:25:49,013 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:25:49,014 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:25:49,016 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:25:49,165 - -->{}
+[INFO] 2017-09-19 17:25:49,166 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchCountryCode
+[INFO] 2017-09-19 17:25:49,166 - sendHttp_Json >> REQ:{}
+[INFO] 2017-09-19 17:25:49,192 - sendHttp_Json >> RES size:8440
+[INFO] 2017-09-19 17:25:49,193 - <--{"rows":248,"list":[{"country_code":"ABW-Aruba"},{"country_code":"AFG-Afghanistan"},{"country_code":"AGO-Angola"},{"country_code":"AIA-Anguilla"},{"country_code":"ALA-Aland Islands"},{"country_code":"ALB-Albania"},{"country_code":"AND-Andorra"},{"country_code":"ARE-United Arab Emirates"},{"country_code":"ARG-Argentina"},{"country_code":"ARM-Armenia"},{"country_code":"ASM-American Samoa"},{"country_code":"ATA-Antarctica"},{"country_code":"ATF-French Southern Territories"},{"country_code":"ATG-Antigua and Barbuda"},{"country_code":"AUS-Australia"},{"country_code":"AUT-Austria"},{"country_code":"AZE-Azerbaijan"},{"country_code":"BDI-Burundi"},{"country_code":"BEL-Belgium"},{"country_code":"BEN-Benin"},{"country_code":"BES-Bonaire"},{"country_code":"BFA-Burkina Faso"},{"country_code":"BGD-Bangladesh"},{"country_code":"BGR-Bulgaria"},{"country_code":"BHR-Bahrain"},{"country_code":"BHS-Bahamas"},{"country_code":"BIH-Bosnia and Herzegovina"},{"country_code":"BLM-Saint Barthelemy"},{"country_code":"BLR-Belarus"},{"country_code":"BLZ-Belize"},{"country_code":"BMU-Bermuda"},{"country_code":"BOL-Bolivia"},{"country_code":"BRA-Brazil"},{"country_code":"BRB-Barbados"},{"country_code":"BRN-Brunei Darussalam"},{"country_code":"BTN-Bhutan"},{"country_code":"BVT-Bouvet Island"},{"country_code":"BWA-Botswana"},{"country_code":"CAF-Central African Republic"},{"country_code":"CAN-Canada"},{"country_code":"CCK-Cocos Islands"},{"country_code":"CHE-Switzerland"},{"country_code":"CHL-Chile"},{"country_code":"CHN-China"},{"country_code":"CIV-Ivory Coast"},{"country_code":"CMR-Cameroon"},{"country_code":"COD-Congo"},{"country_code":"COG-Congo"},{"country_code":"COK-Cook Islands"},{"country_code":"COL-Colombia"},{"country_code":"COM-Comoros"},{"country_code":"CPV-Cape Verde"},{"country_code":"CRI-Costa Rica"},{"country_code":"CUB-Cuba"},{"country_code":"CUW-Curacao"},{"country_code":"CXR-Christmas Island"},{"country_code":"CYM-Cayman Islands"},{"country_code":"CYP-Cyprus"},{"country_code":"CZE-Czech Republic"},{"country_code":"DEU-Germany"},{"country_code":"DJI-Djibouti"},{"country_code":"DMA-Dominica"},{"country_code":"DNK-Denmark"},{"country_code":"DOM-Dominican Republic"},{"country_code":"DZA-Algeria"},{"country_code":"ECU-Ecuador"},{"country_code":"EGY-Egypt"},{"country_code":"ERI-Eritrea"},{"country_code":"ESH-Western Sahara"},{"country_code":"ESP-Spain"},{"country_code":"EST-Estonia"},{"country_code":"ETH-Ethiopia"},{"country_code":"FIN-Finland"},{"country_code":"FJI-Fiji"},{"country_code":"FLK-Falkland Islands"},{"country_code":"FRA-France"},{"country_code":"FRO-Faeroe Islands"},{"country_code":"FSM-Micronesia"},{"country_code":"GAB-Gabon"},{"country_code":"GBR-United Kingdom"},{"country_code":"GEO-Georgia"},{"country_code":"GGY-Guernsey"},{"country_code":"GHA-Ghana"},{"country_code":"GIB-Gibraltar"},{"country_code":"GIN-Guinea"},{"country_code":"GLP-Guadaloupe"},{"country_code":"GMB-Gambia"},{"country_code":"GNB-Guinea-Bissau"},{"country_code":"GNQ-Equatorial Guinea"},{"country_code":"GRC-Greece"},{"country_code":"GRD-Grenada"},{"country_code":"GRL-Greenland"},{"country_code":"GTM-Guatemala"},{"country_code":"GUF-French Guiana"},{"country_code":"GUM-Guam"},{"country_code":"GUY-Guyana"},{"country_code":"HKG-Hong Kong"},{"country_code":"HMD-Heard and McDonald Islands"},{"country_code":"HND-Honduras"},{"country_code":"HRV-Hrvatska"},{"country_code":"HTI-Haiti"},{"country_code":"HUN-Hungary"},{"country_code":"IDN-Indonesia"},{"country_code":"IMN-Isle of Man"},{"country_code":"IND-India"},{"country_code":"IOT-British Indian Ocean Territory"},{"country_code":"IRL-Ireland"},{"country_code":"IRN-Iran"},{"country_code":"IRQ-Iraq"},{"country_code":"ISL-Iceland"},{"country_code":"ISR-Israel"},{"country_code":"ITA-Italy"},{"country_code":"JAM-Jamaica"},{"country_code":"JEY-Jersey"},{"country_code":"JOR-Jordan"},{"country_code":"JPN-Japan"},{"country_code":"KAZ-Kazakhstan"},{"country_code":"KEN-Kenya"},{"country_code":"KGZ-Kyrgyz Republic"},{"country_code":"KHM-Cambodia"},{"country_code":"KIR-Kiribati"},{"country_code":"KNA-St. Kitts and Nevis"},{"country_code":"KOR-South Korea"},{"country_code":"KWT-Kuwait"},{"country_code":"LAO-Lao"},{"country_code":"LBN-Lebanon"},{"country_code":"LBR-Liberia"},{"country_code":"LBY-Libyan Arab Jamahiriya"},{"country_code":"LCA-St. Lucia"},{"country_code":"LIE-Liechtenstein"},{"country_code":"LKA-Sri Lanka"},{"country_code":"LSO-Lesotho"},{"country_code":"LTU-Lithuania"},{"country_code":"LUX-Luxembourg"},{"country_code":"LVA-Latvia"},{"country_code":"MAC-Macao"},{"country_code":"MAF-Saint Martin"},{"country_code":"MAR-Morocco"},{"country_code":"MCO-Monaco"},{"country_code":"MDA-Moldova"},{"country_code":"MDG-Madagascar"},{"country_code":"MDV-Maldives"},{"country_code":"MEX-Mexico"},{"country_code":"MHL-Marshall Islands"},{"country_code":"MKD-Macedonia"},{"country_code":"MLI-Mali"},{"country_code":"MLT-Malta"},{"country_code":"MMR-Myanmar"},{"country_code":"MNE-Montenegro"},{"country_code":"MNG-Mongolia"},{"country_code":"MNP-Northern Mariana Islands"},{"country_code":"MOZ-Mozambique"},{"country_code":"MRT-Mauritania"},{"country_code":"MSR-Montserrat"},{"country_code":"MTQ-Martinique"},{"country_code":"MUS-Mauritius"},{"country_code":"MWI-Malawi"},{"country_code":"MYS-Malaysia"},{"country_code":"MYT-Mayotte"},{"country_code":"NAM-Namibia"},{"country_code":"NCL-New Caledonia"},{"country_code":"NER-Niger"},{"country_code":"NFK-Norfolk Island"},{"country_code":"NGA-Nigeria"},{"country_code":"NIC-Nicaragua"},{"country_code":"NIU-Niue"},{"country_code":"NLD-Netherlands"},{"country_code":"NOR-Norway"},{"country_code":"NPL-Nepal"},{"country_code":"NRU-Nauru"},{"country_code":"NZL-New Zealand"},{"country_code":"OMN-Oman"},{"country_code":"PAK-Pakistan"},{"country_code":"PAN-Panama"},{"country_code":"PCN-Pitcairn Island"},{"country_code":"PER-Peru"},{"country_code":"PHL-Philippines"},{"country_code":"PLW-Palau"},{"country_code":"PNG-Papua New Guinea"},{"country_code":"POL-Poland"},{"country_code":"PRI-Puerto Rico"},{"country_code":"PRK-North Korea"},{"country_code":"PRT-Portugal"},{"country_code":"PRY-Paraguay"},{"country_code":"PSE-Palestinian Territory"},{"country_code":"PYF-French Polynesia"},{"country_code":"QAT-Qatar"},{"country_code":"REU-Reunion"},{"country_code":"ROU-Romania"},{"country_code":"RUS-Russian Federation"},{"country_code":"RWA-Rwanda"},{"country_code":"SAU-Saudi Arabia"},{"country_code":"SDN-Sudan"},{"country_code":"SEN-Senegal"},{"country_code":"SGP-Singapore"},{"country_code":"SGS-South Georgia and the South Sandwich Islands"},{"country_code":"SHN-Saint Helena"},{"country_code":"SJM-Svalbard & Jan Mayen Islands"},{"country_code":"SLB-Solomon Islands"},{"country_code":"SLE-Sierra Leone"},{"country_code":"SLV-El Salvador"},{"country_code":"SMR-San Marino"},{"country_code":"SOM-Somalia"},{"country_code":"SPM-St. Pierre and Miquelon"},{"country_code":"SRB-Serbia"},{"country_code":"STP-Sao Tome and Principe"},{"country_code":"SUR-Suriname"},{"country_code":"SVK-Slovakia"},{"country_code":"SVN-Slovenia"},{"country_code":"SWE-Sweden"},{"country_code":"SWZ-Swaziland"},{"country_code":"SXM-Sint Maarten"},{"country_code":"SYC-Seychelles"},{"country_code":"SYR-Syrian Arab Republic"},{"country_code":"TCA-Turks and Caicos Islands"},{"country_code":"TCD-Chad"},{"country_code":"TGO-Togo"},{"country_code":"THA-Thailand"},{"country_code":"TJK-Tajikistan"},{"country_code":"TKL-Tokelau"},{"country_code":"TKM-Turkmenistan"},{"country_code":"TLS-Timor-Leste"},{"country_code":"TON-Tonga"},{"country_code":"TTO-Trinidad and Tobago"},{"country_code":"TUN-Tunisia"},{"country_code":"TUR-Turkey"},{"country_code":"TUV-Tuvalu"},{"country_code":"TWN-Taiwan"},{"country_code":"TZA-Tanzania"},{"country_code":"UGA-Uganda"},{"country_code":"UKR-Ukraine"},{"country_code":"UMI-United States Minor Outlying Islands"},{"country_code":"URY-Uruguay"},{"country_code":"USA-United States of America"},{"country_code":"UZB-Uzbekistan"},{"country_code":"VAT-Vatican City State"},{"country_code":"VCT-St. Vincent and the Grenadines"},{"country_code":"VEN-Venezuela"},{"country_code":"VGB-British Virgin Islands"},{"country_code":"VIR-US Virgin Islands"},{"country_code":"VNM-Viet Nam"},{"country_code":"VUT-Vanuatu"},{"country_code":"WLF-Wallis and Futuna Islands"},{"country_code":"WSM-Samoa"},{"country_code":"YEM-Yemen"},{"country_code":"ZAF-South Africa"},{"country_code":"ZMB-Zambia"},{"country_code":"ZWE-Zimbabwe"}]}
+[INFO] 2017-09-19 17:25:50,817 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:25:50,818 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchAutoCompanyName
+[INFO] 2017-09-19 17:25:50,818 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:25:50,826 - sendHttp_Json >> RES size:351
+[INFO] 2017-09-19 17:25:50,826 - <--{"rows":5,"list":[{"company_id":"05144","company_name":"Eadeco (Singapore) Pte. Ltd. "},{"company_id":"05101","company_name":"SV Global Enterprise Pte. Ltd. "},{"company_id":"05133","company_name":"Elush (T3) Pte. Ltd. "},{"company_id":"05018","company_name":"Global Tax Free Pte Ltd"},{"company_id":"05147","company_name":"JNA Networks Pte. Ltd. "}]}
+[INFO] 2017-09-19 17:25:50,898 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:25:50,898 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-19 17:25:50,898 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:25:50,906 - sendHttp_Json >> RES size:1595
+[INFO] 2017-09-19 17:25:50,907 - <--{"rows":5,"list":[{"rec_digits":null,"company_id":"05147","group_name":"ION","mid":"03260","rec_prefix":null,"tid":"65130248","gst_no":"201503402K","company_name":"JNA Networks Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"OBBA & LLang","item_code3":null,"item_code2":"09","item_code1":"05","item_code5":null},{"rec_digits":"7","company_id":"05018","group_name":"ION","mid":"03030","rec_prefix":"GTF","tid":"65130246","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","item_code4":"11","dup_rc":"N","store_name":"Global Tax Free Pte Ltd","item_code3":"09","item_code2":"04","item_code1":"06","item_code5":"13"},{"rec_digits":null,"company_id":"05101","group_name":"ION","mid":"03172","rec_prefix":null,"tid":"65130247","gst_no":"201405244D","company_name":"SV Global Enterprise Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"SV Global Enterprise Pte. Ltd. ","item_code3":null,"item_code2":null,"item_code1":"28","item_code5":null},{"rec_digits":null,"company_id":"05133","group_name":"ION","mid":"03229","rec_prefix":null,"tid":"65130249","gst_no":"200722074E","company_name":"Elush (T3) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"iStudio - Changi Airport T3","item_code3":null,"item_code2":"28","item_code1":"03","item_code5":null},{"rec_digits":null,"company_id":"05144","group_name":"ION","mid":"03257","rec_prefix":null,"tid":"65130250","gst_no":"200413885M","company_name":"Eadeco (Singapore) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"Akemi Uchi - Jem","item_code3":null,"item_code2":null,"item_code1":"23","item_code5":null}]}
+[INFO] 2017-09-19 17:25:51,386 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:25:51,387 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchAutoCompanyName
+[INFO] 2017-09-19 17:25:51,387 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:25:51,396 - sendHttp_Json >> RES size:351
+[INFO] 2017-09-19 17:25:51,396 - <--{"rows":5,"list":[{"company_id":"05144","company_name":"Eadeco (Singapore) Pte. Ltd. "},{"company_id":"05101","company_name":"SV Global Enterprise Pte. Ltd. "},{"company_id":"05133","company_name":"Elush (T3) Pte. Ltd. "},{"company_id":"05018","company_name":"Global Tax Free Pte Ltd"},{"company_id":"05147","company_name":"JNA Networks Pte. Ltd. "}]}
+[INFO] 2017-09-19 17:25:51,397 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:25:51,398 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-19 17:25:51,497 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-19 17:25:51,505 - sendHttp_Json >> RES size:1595
+[INFO] 2017-09-19 17:25:51,506 - <--{"rows":5,"list":[{"rec_digits":null,"company_id":"05147","group_name":"ION","mid":"03260","rec_prefix":null,"tid":"65130248","gst_no":"201503402K","company_name":"JNA Networks Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"OBBA & LLang","item_code3":null,"item_code2":"09","item_code1":"05","item_code5":null},{"rec_digits":"7","company_id":"05018","group_name":"ION","mid":"03030","rec_prefix":"GTF","tid":"65130246","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","item_code4":"11","dup_rc":"N","store_name":"Global Tax Free Pte Ltd","item_code3":"09","item_code2":"04","item_code1":"06","item_code5":"13"},{"rec_digits":null,"company_id":"05101","group_name":"ION","mid":"03172","rec_prefix":null,"tid":"65130247","gst_no":"201405244D","company_name":"SV Global Enterprise Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"SV Global Enterprise Pte. Ltd. ","item_code3":null,"item_code2":null,"item_code1":"28","item_code5":null},{"rec_digits":null,"company_id":"05133","group_name":"ION","mid":"03229","rec_prefix":null,"tid":"65130249","gst_no":"200722074E","company_name":"Elush (T3) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"iStudio - Changi Airport T3","item_code3":null,"item_code2":"28","item_code1":"03","item_code5":null},{"rec_digits":null,"company_id":"05144","group_name":"ION","mid":"03257","rec_prefix":null,"tid":"65130250","gst_no":"200413885M","company_name":"Eadeco (Singapore) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"Akemi Uchi - Jem","item_code3":null,"item_code2":null,"item_code1":"23","item_code5":null}]}
+[INFO] 2017-09-19 17:25:53,966 - -->{
+  "group_id": "0000000002",
+  "start_date": "20170919",
+  "end_date": "20170919",
+  "receipt_no": "",
+  "gst_no": ""
+}
+[INFO] 2017-09-19 17:25:53,967 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchReceiptCount
+[INFO] 2017-09-19 17:25:53,967 - sendHttp_Json >> REQ:{
+  "group_id": "0000000002",
+  "start_date": "20170919",
+  "end_date": "20170919",
+  "receipt_no": "",
+  "gst_no": ""
+}
+[INFO] 2017-09-19 17:25:53,976 - sendHttp_Json >> RES size:46
+[INFO] 2017-09-19 17:25:53,976 - <--{"total_cnt":1,"code":"1","message":"Success"}
+[INFO] 2017-09-19 17:25:53,981 - -->{
+  "display_num": 15,
+  "page_num": "1",
+  "group_id": "0000000002",
+  "start_date": "20170919",
+  "end_date": "20170919",
+  "receipt_no": "",
+  "gst_no": ""
+}
+[INFO] 2017-09-19 17:25:53,981 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchReceiptList
+[INFO] 2017-09-19 17:25:53,982 - sendHttp_Json >> REQ:{
+  "display_num": 15,
+  "page_num": "1",
+  "group_id": "0000000002",
+  "start_date": "20170919",
+  "end_date": "20170919",
+  "receipt_no": "",
+  "gst_no": ""
+}
+[INFO] 2017-09-19 17:25:53,998 - sendHttp_Json >> RES size:454
+[INFO] 2017-09-19 17:25:53,999 - <--{"rows":1,"list":[{"purchase_item":"Dept. Store","receipt_no":"GTF9988","group_name":"ION","status_name":"Issued","refund_amt":5,"service_amt":"3.08","doc_id":"20052599999170001900","refund_date":null,"purchase_amt":"123.45","issue_date":"19-09-2017 16:18:04","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","store_name":"Global Tax Free Pte Ltd","row_no":1,"purchase_date":"20170919","sales_amt":"123.45","gst_amt":"8.08","status":"01"}]}
+[INFO] 2017-09-19 17:25:54,993 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:25:54,993 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:25:54,994 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:25:57,559 - -->{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:25:57,559 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getDocIdDetails
+[INFO] 2017-09-19 17:25:57,559 - sendHttp_Json >> REQ:{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:25:57,568 - sendHttp_Json >> RES size:830
+[INFO] 2017-09-19 17:25:57,569 - <--{"rows":1,"list":[{"status_code":"01","gender":"M","agent_name":null,"refund_reversal":null,"date_of_birth":"19840902","refund_amt":"5.00","mid":"03030","crc_seq_no":null,"token_type":" ","tid":"65130246","invoice_date":null,"statement_date":null,"statement_no":null,"issue_date":"19-09-2017 16:18:04","gtf_id":"02296","gst_no":"201136344W","tel_no":"62217058","country_name":"South Korea","statement_content":null,"store_name":"Global Tax Free Pte Ltd","first_name":"WONGYU","sales_amt":"123.45","company_id":"05018","invoice_no":null,"passport_no":"M71293013","last_name":"LEE","service_amt":"3.08","agent_no":null,"doc_id":"20052599999170001900","token_display":" ","refund_date":null,"country_code":"KOR","company_name":"Global Tax Free Pte Ltd","refund_method":null,"crc_refund_amt":null,"gst_amt":"8.08","status":"Issued"}]}
+[INFO] 2017-09-19 17:25:58,035 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:25:58,039 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:25:58,384 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:26:04,278 - -->{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:26:04,279 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getReceiptDetails
+[INFO] 2017-09-19 17:26:04,279 - sendHttp_Json >> REQ:{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:26:04,288 - sendHttp_Json >> RES size:153
+[INFO] 2017-09-19 17:26:04,288 - <--{"rows":1,"list":[{"number":"1","purchase_item":"Dept. Store","receipt_no":"GTF9988","purchase_amt":"123.45","quantity":1,"purchase_date":"19-09-2017"}]}
+[INFO] 2017-09-19 17:26:16,707 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:26:16,707 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:26:16,708 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:26:19,709 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:26:19,709 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:26:19,711 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:26:22,711 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:26:22,711 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:26:22,712 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:26:25,714 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:26:25,714 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:26:25,715 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:26:28,716 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:26:28,716 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:26:28,717 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:26:31,718 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:26:31,718 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:26:31,719 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:26:34,720 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:26:34,720 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:26:34,721 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:26:35,609 - -->{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:26:35,609 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getDocIdDetails
+[INFO] 2017-09-19 17:26:35,610 - sendHttp_Json >> REQ:{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:26:35,619 - sendHttp_Json >> RES size:830
+[INFO] 2017-09-19 17:26:35,619 - <--{"rows":1,"list":[{"status_code":"01","gender":"M","agent_name":null,"refund_reversal":null,"date_of_birth":"19840902","refund_amt":"5.00","mid":"03030","crc_seq_no":null,"token_type":" ","tid":"65130246","invoice_date":null,"statement_date":null,"statement_no":null,"issue_date":"19-09-2017 16:18:04","gtf_id":"02296","gst_no":"201136344W","tel_no":"62217058","country_name":"South Korea","statement_content":null,"store_name":"Global Tax Free Pte Ltd","first_name":"WONGYU","sales_amt":"123.45","company_id":"05018","invoice_no":null,"passport_no":"M71293013","last_name":"LEE","service_amt":"3.08","agent_no":null,"doc_id":"20052599999170001900","token_display":" ","refund_date":null,"country_code":"KOR","company_name":"Global Tax Free Pte Ltd","refund_method":null,"crc_refund_amt":null,"gst_amt":"8.08","status":"Issued"}]}
+[INFO] 2017-09-19 17:26:35,625 - -->{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:26:35,625 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getReceiptDetails
+[INFO] 2017-09-19 17:26:35,625 - sendHttp_Json >> REQ:{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:26:35,632 - sendHttp_Json >> RES size:153
+[INFO] 2017-09-19 17:26:35,632 - <--{"rows":1,"list":[{"number":"1","purchase_item":"Dept. Store","receipt_no":"GTF9988","purchase_amt":"123.45","quantity":1,"purchase_date":"19-09-2017"}]}
+[INFO] 2017-09-19 17:26:37,722 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:26:37,723 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:26:37,724 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:26:40,726 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:26:40,726 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:26:40,727 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:26:41,022 - -->{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:26:41,022 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getDocIdDetails
+[INFO] 2017-09-19 17:26:41,023 - sendHttp_Json >> REQ:{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:26:41,031 - sendHttp_Json >> RES size:830
+[INFO] 2017-09-19 17:26:41,032 - <--{"rows":1,"list":[{"status_code":"01","gender":"M","agent_name":null,"refund_reversal":null,"date_of_birth":"19840902","refund_amt":"5.00","mid":"03030","crc_seq_no":null,"token_type":" ","tid":"65130246","invoice_date":null,"statement_date":null,"statement_no":null,"issue_date":"19-09-2017 16:18:04","gtf_id":"02296","gst_no":"201136344W","tel_no":"62217058","country_name":"South Korea","statement_content":null,"store_name":"Global Tax Free Pte Ltd","first_name":"WONGYU","sales_amt":"123.45","company_id":"05018","invoice_no":null,"passport_no":"M71293013","last_name":"LEE","service_amt":"3.08","agent_no":null,"doc_id":"20052599999170001900","token_display":" ","refund_date":null,"country_code":"KOR","company_name":"Global Tax Free Pte Ltd","refund_method":null,"crc_refund_amt":null,"gst_amt":"8.08","status":"Issued"}]}
+[INFO] 2017-09-19 17:26:41,047 - -->{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:26:41,048 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getReceiptDetails
+[INFO] 2017-09-19 17:26:41,048 - sendHttp_Json >> REQ:{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:26:41,056 - sendHttp_Json >> RES size:153
+[INFO] 2017-09-19 17:26:41,056 - <--{"rows":1,"list":[{"number":"1","purchase_item":"Dept. Store","receipt_no":"GTF9988","purchase_amt":"123.45","quantity":1,"purchase_date":"19-09-2017"}]}
+[INFO] 2017-09-19 17:26:43,728 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:26:43,728 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:26:43,729 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:26:46,730 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:26:46,730 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:26:46,731 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:26:51,840 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:26:51,840 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:26:51,841 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:26:52,018 - -->{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:26:52,018 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getDocIdDetails
+[INFO] 2017-09-19 17:26:52,018 - sendHttp_Json >> REQ:{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:26:52,027 - sendHttp_Json >> RES size:830
+[INFO] 2017-09-19 17:26:52,028 - <--{"rows":1,"list":[{"status_code":"01","gender":"M","agent_name":null,"refund_reversal":null,"date_of_birth":"19840902","refund_amt":"5.00","mid":"03030","crc_seq_no":null,"token_type":" ","tid":"65130246","invoice_date":null,"statement_date":null,"statement_no":null,"issue_date":"19-09-2017 16:18:04","gtf_id":"02296","gst_no":"201136344W","tel_no":"62217058","country_name":"South Korea","statement_content":null,"store_name":"Global Tax Free Pte Ltd","first_name":"WONGYU","sales_amt":"123.45","company_id":"05018","invoice_no":null,"passport_no":"M71293013","last_name":"LEE","service_amt":"3.08","agent_no":null,"doc_id":"20052599999170001900","token_display":" ","refund_date":null,"country_code":"KOR","company_name":"Global Tax Free Pte Ltd","refund_method":null,"crc_refund_amt":null,"gst_amt":"8.08","status":"Issued"}]}
+[INFO] 2017-09-19 17:26:52,058 - -->{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:26:52,059 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getReceiptDetails
+[INFO] 2017-09-19 17:26:52,059 - sendHttp_Json >> REQ:{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:26:52,066 - sendHttp_Json >> RES size:153
+[INFO] 2017-09-19 17:26:52,067 - <--{"rows":1,"list":[{"number":"1","purchase_item":"Dept. Store","receipt_no":"GTF9988","purchase_amt":"123.45","quantity":1,"purchase_date":"19-09-2017"}]}
+[INFO] 2017-09-19 17:26:54,842 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:26:54,842 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:26:54,843 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:26:54,929 - -->{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:26:54,930 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getDocIdDetails
+[INFO] 2017-09-19 17:26:54,930 - sendHttp_Json >> REQ:{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:26:54,939 - sendHttp_Json >> RES size:830
+[INFO] 2017-09-19 17:26:54,939 - <--{"rows":1,"list":[{"status_code":"01","gender":"M","agent_name":null,"refund_reversal":null,"date_of_birth":"19840902","refund_amt":"5.00","mid":"03030","crc_seq_no":null,"token_type":" ","tid":"65130246","invoice_date":null,"statement_date":null,"statement_no":null,"issue_date":"19-09-2017 16:18:04","gtf_id":"02296","gst_no":"201136344W","tel_no":"62217058","country_name":"South Korea","statement_content":null,"store_name":"Global Tax Free Pte Ltd","first_name":"WONGYU","sales_amt":"123.45","company_id":"05018","invoice_no":null,"passport_no":"M71293013","last_name":"LEE","service_amt":"3.08","agent_no":null,"doc_id":"20052599999170001900","token_display":" ","refund_date":null,"country_code":"KOR","company_name":"Global Tax Free Pte Ltd","refund_method":null,"crc_refund_amt":null,"gst_amt":"8.08","status":"Issued"}]}
+[INFO] 2017-09-19 17:26:55,060 - -->{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:26:55,060 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getReceiptDetails
+[INFO] 2017-09-19 17:26:55,060 - sendHttp_Json >> REQ:{
+  "doc_id": "20052599999170001900"
+}
+[INFO] 2017-09-19 17:26:55,067 - sendHttp_Json >> RES size:153
+[INFO] 2017-09-19 17:26:55,067 - <--{"rows":1,"list":[{"number":"1","purchase_item":"Dept. Store","receipt_no":"GTF9988","purchase_amt":"123.45","quantity":1,"purchase_date":"19-09-2017"}]}
+[INFO] 2017-09-19 17:26:57,845 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:26:57,845 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:26:57,846 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:27:00,847 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:27:00,847 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:27:00,848 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:27:03,849 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:27:03,849 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:27:03,850 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:27:06,850 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:27:06,850 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:27:06,851 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:27:09,852 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:27:09,852 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:27:09,853 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:27:12,854 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:27:12,854 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:27:12,855 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:27:15,857 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:27:15,857 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:27:15,858 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:27:18,859 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:27:18,859 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:27:18,860 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:27:21,861 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:27:21,861 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:27:21,863 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:27:24,863 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:27:24,863 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:27:24,864 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:27:27,865 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:27:27,865 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:27:27,867 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:27:30,867 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:27:30,867 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:27:30,868 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:27:33,870 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:27:33,870 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:27:33,871 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:27:36,872 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:27:36,872 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:27:36,873 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:27:39,874 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:27:39,875 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:27:39,876 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:27:42,877 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:27:42,877 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:27:42,878 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:27:45,879 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:27:45,879 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:27:45,880 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:27:48,881 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:27:48,881 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:27:48,882 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:27:51,884 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:27:51,884 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:27:51,885 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:27:54,886 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:27:54,886 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:27:54,887 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:27:57,888 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:27:57,888 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:27:57,889 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:28:00,890 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:28:00,890 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:28:00,891 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:28:03,892 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:28:03,892 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:28:03,893 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:28:06,893 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:28:06,893 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:28:06,894 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:28:09,896 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:28:09,896 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:28:09,897 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:28:12,897 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:28:12,897 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:28:12,899 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:28:15,899 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:28:15,899 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:28:15,900 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:28:18,901 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:28:18,901 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:28:18,902 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:28:21,903 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:28:21,903 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:28:21,906 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:28:24,906 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:28:24,906 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:28:24,907 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:28:27,909 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:28:27,909 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:28:27,910 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:28:30,911 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:28:30,911 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:28:30,913 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:28:33,913 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:28:33,913 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:28:33,914 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:28:36,915 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:28:36,915 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:28:36,916 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:28:39,917 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:28:39,917 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:28:39,918 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:28:42,919 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:28:42,919 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:28:42,920 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:28:45,921 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:28:45,921 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:28:45,922 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:28:48,923 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:28:48,923 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:28:48,925 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:28:51,925 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:28:51,925 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:28:51,926 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:28:54,927 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:28:54,927 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:28:54,928 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:28:57,929 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:28:57,929 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:28:57,931 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:29:00,935 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:29:00,935 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:29:00,936 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:29:03,937 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:29:03,937 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:29:03,938 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:29:06,938 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:29:06,938 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:29:06,939 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:29:09,940 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:29:09,940 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:29:09,941 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:29:12,942 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:29:12,942 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:29:12,943 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:29:15,944 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:29:15,944 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:29:15,945 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:29:18,947 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:29:18,947 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:29:18,948 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:29:21,949 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:29:21,949 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:29:21,950 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:29:24,951 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:29:24,951 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:29:24,952 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:29:27,965 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:29:27,965 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:29:27,966 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:29:30,967 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:29:30,967 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:29:30,969 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:29:33,969 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:29:33,969 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:29:33,970 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:29:36,972 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:29:36,972 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:29:36,973 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:29:39,973 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:29:39,973 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:29:39,974 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:29:42,974 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:29:42,974 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:29:42,976 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:29:45,976 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:29:45,976 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:29:45,978 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:29:48,979 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:29:48,979 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:29:48,981 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:29:51,981 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:29:51,981 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:29:51,982 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:29:54,984 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:29:54,984 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:29:54,985 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:29:57,986 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:29:57,986 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:29:57,987 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:30:00,988 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:30:00,988 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:30:00,989 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:30:03,990 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:30:03,990 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:30:03,991 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:30:06,991 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:30:06,991 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:30:06,992 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:30:09,993 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:30:09,993 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:30:09,994 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:30:12,996 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:30:12,996 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:30:12,998 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:30:15,998 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:30:15,998 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:30:16,013 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:30:19,014 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:30:19,014 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:30:19,015 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:30:22,015 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:30:22,015 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:30:22,016 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:30:25,017 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:30:25,017 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:30:25,018 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:30:28,020 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:30:28,020 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:30:28,021 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:30:31,022 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:30:31,022 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:30:31,023 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:30:34,024 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:30:34,024 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:30:34,025 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:30:37,026 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:30:37,026 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:30:37,027 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:30:40,028 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:30:40,028 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:30:40,029 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:30:43,029 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:30:43,029 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:30:43,030 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:30:46,032 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:30:46,032 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:30:46,033 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:30:49,034 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:30:49,034 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:30:49,035 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:30:52,036 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:30:52,036 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:30:52,044 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:30:55,045 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:30:55,045 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:30:55,047 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:30:58,047 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:30:58,047 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:30:58,048 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:31:01,049 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:31:01,049 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:31:01,050 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:31:04,052 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-19 17:31:04,052 - sendHttp_Json >> REQ:{
+  "userid": "tfmuser1"
+}
+[INFO] 2017-09-19 17:31:04,053 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-19 17:31:07,054 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus

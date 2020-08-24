@@ -1,0 +1,1409 @@
+[INFO] 2017-09-18 20:00:43,498 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:00:43,514 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:00:46,516 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:00:46,516 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:00:46,522 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:00:49,524 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:00:49,524 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:00:49,525 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:00:52,527 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:00:52,527 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:00:52,528 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:00:55,529 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:00:55,529 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:00:55,533 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:00:58,534 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:00:58,534 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:00:58,536 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:01:01,537 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:01:01,537 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:01:01,539 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:01:04,540 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:01:04,540 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:01:04,541 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:01:07,544 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:01:07,544 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:01:07,545 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:01:10,546 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:01:10,546 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:01:10,547 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:01:13,548 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:01:13,548 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:01:13,549 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:01:16,550 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:01:16,550 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:01:16,551 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:01:19,552 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:01:19,552 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:01:19,554 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:01:22,555 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:01:22,555 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:01:22,557 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:01:25,557 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:01:25,557 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:01:25,559 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:01:28,559 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:01:28,559 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:01:28,561 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:01:31,561 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:01:31,561 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:01:31,562 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:01:34,564 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:01:34,564 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:01:34,565 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:01:37,566 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:01:37,566 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:01:37,568 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:01:40,569 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:01:40,569 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:01:40,570 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:01:43,571 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:01:43,571 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:01:43,572 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:01:46,572 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:01:46,572 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:01:46,574 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:01:49,574 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:01:49,574 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:01:49,575 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:01:52,576 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:01:52,576 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:01:52,577 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:01:55,579 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:01:55,579 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:01:55,580 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:01:58,581 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:01:58,581 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:01:58,582 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:02:01,582 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:02:01,582 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:02:01,584 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:02:04,585 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:02:04,585 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:02:04,586 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:02:07,587 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:02:07,587 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:02:07,594 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:02:10,604 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:02:10,604 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:02:10,605 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:02:13,607 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:02:13,607 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:02:13,609 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:02:16,610 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:02:16,610 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:02:16,612 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:02:19,612 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:02:19,612 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:02:19,613 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:02:22,614 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:02:22,614 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:02:22,615 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:02:25,616 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:02:25,616 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:02:25,624 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:02:28,630 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:02:28,630 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:02:28,631 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:02:31,633 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:02:31,633 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:02:31,635 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:02:34,636 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:02:34,636 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:02:34,637 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:02:37,637 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:02:37,637 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:02:37,638 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:02:40,639 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:02:40,639 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:02:40,641 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:02:43,641 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:02:43,641 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:02:43,642 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:02:46,647 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:02:46,647 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:02:46,657 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:02:49,659 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:02:49,659 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:02:49,660 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:02:52,661 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:02:52,661 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:02:52,662 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:02:55,663 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:02:55,663 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:02:55,665 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:02:58,665 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:02:58,665 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:02:58,666 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:03:01,667 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:03:01,667 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:03:01,668 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:03:04,669 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:03:04,669 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:03:04,670 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:03:07,672 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:03:07,672 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:03:07,674 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:03:10,674 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:03:10,674 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:03:10,675 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:04:28,431 - Start Application................
+[INFO] 2017-09-18 20:04:32,798 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/login
+[INFO] 2017-09-18 20:04:32,799 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1",
+  "password": "gtf12345"
+}
+[INFO] 2017-09-18 20:04:32,864 - sendHttp_Json >> RES size:85
+[INFO] 2017-09-18 20:04:32,927 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:04:32,929 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:04:32,932 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:04:33,083 - -->{}
+[INFO] 2017-09-18 20:04:33,083 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchCountryCode
+[INFO] 2017-09-18 20:04:33,084 - sendHttp_Json >> REQ:{}
+[INFO] 2017-09-18 20:04:33,118 - sendHttp_Json >> RES size:8440
+[INFO] 2017-09-18 20:04:33,118 - <--{"rows":248,"list":[{"country_code":"ABW-Aruba"},{"country_code":"AFG-Afghanistan"},{"country_code":"AGO-Angola"},{"country_code":"AIA-Anguilla"},{"country_code":"ALA-Aland Islands"},{"country_code":"ALB-Albania"},{"country_code":"AND-Andorra"},{"country_code":"ARE-United Arab Emirates"},{"country_code":"ARG-Argentina"},{"country_code":"ARM-Armenia"},{"country_code":"ASM-American Samoa"},{"country_code":"ATA-Antarctica"},{"country_code":"ATF-French Southern Territories"},{"country_code":"ATG-Antigua and Barbuda"},{"country_code":"AUS-Australia"},{"country_code":"AUT-Austria"},{"country_code":"AZE-Azerbaijan"},{"country_code":"BDI-Burundi"},{"country_code":"BEL-Belgium"},{"country_code":"BEN-Benin"},{"country_code":"BES-Bonaire"},{"country_code":"BFA-Burkina Faso"},{"country_code":"BGD-Bangladesh"},{"country_code":"BGR-Bulgaria"},{"country_code":"BHR-Bahrain"},{"country_code":"BHS-Bahamas"},{"country_code":"BIH-Bosnia and Herzegovina"},{"country_code":"BLM-Saint Barthelemy"},{"country_code":"BLR-Belarus"},{"country_code":"BLZ-Belize"},{"country_code":"BMU-Bermuda"},{"country_code":"BOL-Bolivia"},{"country_code":"BRA-Brazil"},{"country_code":"BRB-Barbados"},{"country_code":"BRN-Brunei Darussalam"},{"country_code":"BTN-Bhutan"},{"country_code":"BVT-Bouvet Island"},{"country_code":"BWA-Botswana"},{"country_code":"CAF-Central African Republic"},{"country_code":"CAN-Canada"},{"country_code":"CCK-Cocos Islands"},{"country_code":"CHE-Switzerland"},{"country_code":"CHL-Chile"},{"country_code":"CHN-China"},{"country_code":"CIV-Ivory Coast"},{"country_code":"CMR-Cameroon"},{"country_code":"COD-Congo"},{"country_code":"COG-Congo"},{"country_code":"COK-Cook Islands"},{"country_code":"COL-Colombia"},{"country_code":"COM-Comoros"},{"country_code":"CPV-Cape Verde"},{"country_code":"CRI-Costa Rica"},{"country_code":"CUB-Cuba"},{"country_code":"CUW-Curacao"},{"country_code":"CXR-Christmas Island"},{"country_code":"CYM-Cayman Islands"},{"country_code":"CYP-Cyprus"},{"country_code":"CZE-Czech Republic"},{"country_code":"DEU-Germany"},{"country_code":"DJI-Djibouti"},{"country_code":"DMA-Dominica"},{"country_code":"DNK-Denmark"},{"country_code":"DOM-Dominican Republic"},{"country_code":"DZA-Algeria"},{"country_code":"ECU-Ecuador"},{"country_code":"EGY-Egypt"},{"country_code":"ERI-Eritrea"},{"country_code":"ESH-Western Sahara"},{"country_code":"ESP-Spain"},{"country_code":"EST-Estonia"},{"country_code":"ETH-Ethiopia"},{"country_code":"FIN-Finland"},{"country_code":"FJI-Fiji"},{"country_code":"FLK-Falkland Islands"},{"country_code":"FRA-France"},{"country_code":"FRO-Faeroe Islands"},{"country_code":"FSM-Micronesia"},{"country_code":"GAB-Gabon"},{"country_code":"GBR-United Kingdom"},{"country_code":"GEO-Georgia"},{"country_code":"GGY-Guernsey"},{"country_code":"GHA-Ghana"},{"country_code":"GIB-Gibraltar"},{"country_code":"GIN-Guinea"},{"country_code":"GLP-Guadaloupe"},{"country_code":"GMB-Gambia"},{"country_code":"GNB-Guinea-Bissau"},{"country_code":"GNQ-Equatorial Guinea"},{"country_code":"GRC-Greece"},{"country_code":"GRD-Grenada"},{"country_code":"GRL-Greenland"},{"country_code":"GTM-Guatemala"},{"country_code":"GUF-French Guiana"},{"country_code":"GUM-Guam"},{"country_code":"GUY-Guyana"},{"country_code":"HKG-Hong Kong"},{"country_code":"HMD-Heard and McDonald Islands"},{"country_code":"HND-Honduras"},{"country_code":"HRV-Hrvatska"},{"country_code":"HTI-Haiti"},{"country_code":"HUN-Hungary"},{"country_code":"IDN-Indonesia"},{"country_code":"IMN-Isle of Man"},{"country_code":"IND-India"},{"country_code":"IOT-British Indian Ocean Territory"},{"country_code":"IRL-Ireland"},{"country_code":"IRN-Iran"},{"country_code":"IRQ-Iraq"},{"country_code":"ISL-Iceland"},{"country_code":"ISR-Israel"},{"country_code":"ITA-Italy"},{"country_code":"JAM-Jamaica"},{"country_code":"JEY-Jersey"},{"country_code":"JOR-Jordan"},{"country_code":"JPN-Japan"},{"country_code":"KAZ-Kazakhstan"},{"country_code":"KEN-Kenya"},{"country_code":"KGZ-Kyrgyz Republic"},{"country_code":"KHM-Cambodia"},{"country_code":"KIR-Kiribati"},{"country_code":"KNA-St. Kitts and Nevis"},{"country_code":"KOR-South Korea"},{"country_code":"KWT-Kuwait"},{"country_code":"LAO-Lao"},{"country_code":"LBN-Lebanon"},{"country_code":"LBR-Liberia"},{"country_code":"LBY-Libyan Arab Jamahiriya"},{"country_code":"LCA-St. Lucia"},{"country_code":"LIE-Liechtenstein"},{"country_code":"LKA-Sri Lanka"},{"country_code":"LSO-Lesotho"},{"country_code":"LTU-Lithuania"},{"country_code":"LUX-Luxembourg"},{"country_code":"LVA-Latvia"},{"country_code":"MAC-Macao"},{"country_code":"MAF-Saint Martin"},{"country_code":"MAR-Morocco"},{"country_code":"MCO-Monaco"},{"country_code":"MDA-Moldova"},{"country_code":"MDG-Madagascar"},{"country_code":"MDV-Maldives"},{"country_code":"MEX-Mexico"},{"country_code":"MHL-Marshall Islands"},{"country_code":"MKD-Macedonia"},{"country_code":"MLI-Mali"},{"country_code":"MLT-Malta"},{"country_code":"MMR-Myanmar"},{"country_code":"MNE-Montenegro"},{"country_code":"MNG-Mongolia"},{"country_code":"MNP-Northern Mariana Islands"},{"country_code":"MOZ-Mozambique"},{"country_code":"MRT-Mauritania"},{"country_code":"MSR-Montserrat"},{"country_code":"MTQ-Martinique"},{"country_code":"MUS-Mauritius"},{"country_code":"MWI-Malawi"},{"country_code":"MYS-Malaysia"},{"country_code":"MYT-Mayotte"},{"country_code":"NAM-Namibia"},{"country_code":"NCL-New Caledonia"},{"country_code":"NER-Niger"},{"country_code":"NFK-Norfolk Island"},{"country_code":"NGA-Nigeria"},{"country_code":"NIC-Nicaragua"},{"country_code":"NIU-Niue"},{"country_code":"NLD-Netherlands"},{"country_code":"NOR-Norway"},{"country_code":"NPL-Nepal"},{"country_code":"NRU-Nauru"},{"country_code":"NZL-New Zealand"},{"country_code":"OMN-Oman"},{"country_code":"PAK-Pakistan"},{"country_code":"PAN-Panama"},{"country_code":"PCN-Pitcairn Island"},{"country_code":"PER-Peru"},{"country_code":"PHL-Philippines"},{"country_code":"PLW-Palau"},{"country_code":"PNG-Papua New Guinea"},{"country_code":"POL-Poland"},{"country_code":"PRI-Puerto Rico"},{"country_code":"PRK-North Korea"},{"country_code":"PRT-Portugal"},{"country_code":"PRY-Paraguay"},{"country_code":"PSE-Palestinian Territory"},{"country_code":"PYF-French Polynesia"},{"country_code":"QAT-Qatar"},{"country_code":"REU-Reunion"},{"country_code":"ROU-Romania"},{"country_code":"RUS-Russian Federation"},{"country_code":"RWA-Rwanda"},{"country_code":"SAU-Saudi Arabia"},{"country_code":"SDN-Sudan"},{"country_code":"SEN-Senegal"},{"country_code":"SGP-Singapore"},{"country_code":"SGS-South Georgia and the South Sandwich Islands"},{"country_code":"SHN-Saint Helena"},{"country_code":"SJM-Svalbard & Jan Mayen Islands"},{"country_code":"SLB-Solomon Islands"},{"country_code":"SLE-Sierra Leone"},{"country_code":"SLV-El Salvador"},{"country_code":"SMR-San Marino"},{"country_code":"SOM-Somalia"},{"country_code":"SPM-St. Pierre and Miquelon"},{"country_code":"SRB-Serbia"},{"country_code":"STP-Sao Tome and Principe"},{"country_code":"SUR-Suriname"},{"country_code":"SVK-Slovakia"},{"country_code":"SVN-Slovenia"},{"country_code":"SWE-Sweden"},{"country_code":"SWZ-Swaziland"},{"country_code":"SXM-Sint Maarten"},{"country_code":"SYC-Seychelles"},{"country_code":"SYR-Syrian Arab Republic"},{"country_code":"TCA-Turks and Caicos Islands"},{"country_code":"TCD-Chad"},{"country_code":"TGO-Togo"},{"country_code":"THA-Thailand"},{"country_code":"TJK-Tajikistan"},{"country_code":"TKL-Tokelau"},{"country_code":"TKM-Turkmenistan"},{"country_code":"TLS-Timor-Leste"},{"country_code":"TON-Tonga"},{"country_code":"TTO-Trinidad and Tobago"},{"country_code":"TUN-Tunisia"},{"country_code":"TUR-Turkey"},{"country_code":"TUV-Tuvalu"},{"country_code":"TWN-Taiwan"},{"country_code":"TZA-Tanzania"},{"country_code":"UGA-Uganda"},{"country_code":"UKR-Ukraine"},{"country_code":"UMI-United States Minor Outlying Islands"},{"country_code":"URY-Uruguay"},{"country_code":"USA-United States of America"},{"country_code":"UZB-Uzbekistan"},{"country_code":"VAT-Vatican City State"},{"country_code":"VCT-St. Vincent and the Grenadines"},{"country_code":"VEN-Venezuela"},{"country_code":"VGB-British Virgin Islands"},{"country_code":"VIR-US Virgin Islands"},{"country_code":"VNM-Viet Nam"},{"country_code":"VUT-Vanuatu"},{"country_code":"WLF-Wallis and Futuna Islands"},{"country_code":"WSM-Samoa"},{"country_code":"YEM-Yemen"},{"country_code":"ZAF-South Africa"},{"country_code":"ZMB-Zambia"},{"country_code":"ZWE-Zimbabwe"}]}
+[INFO] 2017-09-18 20:04:34,709 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:04:34,710 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchAutoCompanyName
+[INFO] 2017-09-18 20:04:34,710 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:04:34,721 - sendHttp_Json >> RES size:351
+[INFO] 2017-09-18 20:04:34,723 - <--{"rows":5,"list":[{"company_id":"05144","company_name":"Eadeco (Singapore) Pte. Ltd. "},{"company_id":"05101","company_name":"SV Global Enterprise Pte. Ltd. "},{"company_id":"05133","company_name":"Elush (T3) Pte. Ltd. "},{"company_id":"05018","company_name":"Global Tax Free Pte Ltd"},{"company_id":"05147","company_name":"JNA Networks Pte. Ltd. "}]}
+[INFO] 2017-09-18 20:04:34,804 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:04:34,805 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-18 20:04:34,806 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:04:34,816 - sendHttp_Json >> RES size:1595
+[INFO] 2017-09-18 20:04:34,816 - <--{"rows":5,"list":[{"rec_digits":null,"company_id":"05147","group_name":"ION","mid":"03260","rec_prefix":null,"tid":"65130248","gst_no":"201503402K","company_name":"JNA Networks Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"OBBA & LLang","item_code3":null,"item_code2":"09","item_code1":"05","item_code5":null},{"rec_digits":"7","company_id":"05018","group_name":"ION","mid":"03030","rec_prefix":"GTF","tid":"65130246","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","item_code4":"11","dup_rc":"N","store_name":"Global Tax Free Pte Ltd","item_code3":"09","item_code2":"04","item_code1":"06","item_code5":"13"},{"rec_digits":null,"company_id":"05101","group_name":"ION","mid":"03172","rec_prefix":null,"tid":"65130247","gst_no":"201405244D","company_name":"SV Global Enterprise Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"SV Global Enterprise Pte. Ltd. ","item_code3":null,"item_code2":null,"item_code1":"28","item_code5":null},{"rec_digits":null,"company_id":"05133","group_name":"ION","mid":"03229","rec_prefix":null,"tid":"65130249","gst_no":"200722074E","company_name":"Elush (T3) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"iStudio - Changi Airport T3","item_code3":null,"item_code2":"28","item_code1":"03","item_code5":null},{"rec_digits":null,"company_id":"05144","group_name":"ION","mid":"03257","rec_prefix":null,"tid":"65130250","gst_no":"200413885M","company_name":"Eadeco (Singapore) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"Akemi Uchi - Jem","item_code3":null,"item_code2":null,"item_code1":"23","item_code5":null}]}
+[INFO] 2017-09-18 20:04:35,295 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:04:35,295 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchAutoCompanyName
+[INFO] 2017-09-18 20:04:35,296 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:04:35,313 - sendHttp_Json >> RES size:351
+[INFO] 2017-09-18 20:04:35,328 - <--{"rows":5,"list":[{"company_id":"05144","company_name":"Eadeco (Singapore) Pte. Ltd. "},{"company_id":"05101","company_name":"SV Global Enterprise Pte. Ltd. "},{"company_id":"05133","company_name":"Elush (T3) Pte. Ltd. "},{"company_id":"05018","company_name":"Global Tax Free Pte Ltd"},{"company_id":"05147","company_name":"JNA Networks Pte. Ltd. "}]}
+[INFO] 2017-09-18 20:04:35,329 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:04:35,330 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-18 20:04:35,404 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:04:35,413 - sendHttp_Json >> RES size:1595
+[INFO] 2017-09-18 20:04:35,414 - <--{"rows":5,"list":[{"rec_digits":null,"company_id":"05147","group_name":"ION","mid":"03260","rec_prefix":null,"tid":"65130248","gst_no":"201503402K","company_name":"JNA Networks Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"OBBA & LLang","item_code3":null,"item_code2":"09","item_code1":"05","item_code5":null},{"rec_digits":"7","company_id":"05018","group_name":"ION","mid":"03030","rec_prefix":"GTF","tid":"65130246","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","item_code4":"11","dup_rc":"N","store_name":"Global Tax Free Pte Ltd","item_code3":"09","item_code2":"04","item_code1":"06","item_code5":"13"},{"rec_digits":null,"company_id":"05101","group_name":"ION","mid":"03172","rec_prefix":null,"tid":"65130247","gst_no":"201405244D","company_name":"SV Global Enterprise Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"SV Global Enterprise Pte. Ltd. ","item_code3":null,"item_code2":null,"item_code1":"28","item_code5":null},{"rec_digits":null,"company_id":"05133","group_name":"ION","mid":"03229","rec_prefix":null,"tid":"65130249","gst_no":"200722074E","company_name":"Elush (T3) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"iStudio - Changi Airport T3","item_code3":null,"item_code2":"28","item_code1":"03","item_code5":null},{"rec_digits":null,"company_id":"05144","group_name":"ION","mid":"03257","rec_prefix":null,"tid":"65130250","gst_no":"200413885M","company_name":"Eadeco (Singapore) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"Akemi Uchi - Jem","item_code3":null,"item_code2":null,"item_code1":"23","item_code5":null}]}
+[INFO] 2017-09-18 20:04:38,942 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:04:38,942 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:04:38,943 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:04:41,944 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:04:41,944 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:04:41,945 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:04:44,946 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:04:44,946 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:04:44,947 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:04:47,948 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:04:47,948 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:04:47,950 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:04:50,951 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:04:50,951 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:04:50,953 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:04:53,953 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:04:53,953 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:04:53,955 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:04:56,955 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:04:56,955 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:04:56,956 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:04:59,957 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:04:59,957 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:04:59,958 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:05:02,959 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:05:02,959 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:05:02,960 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:05:05,961 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:05:05,961 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:05:05,962 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:05:08,964 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:05:08,964 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:05:08,965 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:18:51,594 - Start Application................
+[INFO] 2017-09-18 20:18:56,215 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/login
+[INFO] 2017-09-18 20:18:56,216 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1",
+  "password": "gtf12345"
+}
+[INFO] 2017-09-18 20:18:56,327 - sendHttp_Json >> RES size:85
+[INFO] 2017-09-18 20:18:56,388 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:18:56,390 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:18:56,396 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:18:56,649 - -->{}
+[INFO] 2017-09-18 20:18:56,650 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchCountryCode
+[INFO] 2017-09-18 20:18:56,650 - sendHttp_Json >> REQ:{}
+[INFO] 2017-09-18 20:18:56,684 - sendHttp_Json >> RES size:8440
+[INFO] 2017-09-18 20:18:56,684 - <--{"rows":248,"list":[{"country_code":"ABW-Aruba"},{"country_code":"AFG-Afghanistan"},{"country_code":"AGO-Angola"},{"country_code":"AIA-Anguilla"},{"country_code":"ALA-Aland Islands"},{"country_code":"ALB-Albania"},{"country_code":"AND-Andorra"},{"country_code":"ARE-United Arab Emirates"},{"country_code":"ARG-Argentina"},{"country_code":"ARM-Armenia"},{"country_code":"ASM-American Samoa"},{"country_code":"ATA-Antarctica"},{"country_code":"ATF-French Southern Territories"},{"country_code":"ATG-Antigua and Barbuda"},{"country_code":"AUS-Australia"},{"country_code":"AUT-Austria"},{"country_code":"AZE-Azerbaijan"},{"country_code":"BDI-Burundi"},{"country_code":"BEL-Belgium"},{"country_code":"BEN-Benin"},{"country_code":"BES-Bonaire"},{"country_code":"BFA-Burkina Faso"},{"country_code":"BGD-Bangladesh"},{"country_code":"BGR-Bulgaria"},{"country_code":"BHR-Bahrain"},{"country_code":"BHS-Bahamas"},{"country_code":"BIH-Bosnia and Herzegovina"},{"country_code":"BLM-Saint Barthelemy"},{"country_code":"BLR-Belarus"},{"country_code":"BLZ-Belize"},{"country_code":"BMU-Bermuda"},{"country_code":"BOL-Bolivia"},{"country_code":"BRA-Brazil"},{"country_code":"BRB-Barbados"},{"country_code":"BRN-Brunei Darussalam"},{"country_code":"BTN-Bhutan"},{"country_code":"BVT-Bouvet Island"},{"country_code":"BWA-Botswana"},{"country_code":"CAF-Central African Republic"},{"country_code":"CAN-Canada"},{"country_code":"CCK-Cocos Islands"},{"country_code":"CHE-Switzerland"},{"country_code":"CHL-Chile"},{"country_code":"CHN-China"},{"country_code":"CIV-Ivory Coast"},{"country_code":"CMR-Cameroon"},{"country_code":"COD-Congo"},{"country_code":"COG-Congo"},{"country_code":"COK-Cook Islands"},{"country_code":"COL-Colombia"},{"country_code":"COM-Comoros"},{"country_code":"CPV-Cape Verde"},{"country_code":"CRI-Costa Rica"},{"country_code":"CUB-Cuba"},{"country_code":"CUW-Curacao"},{"country_code":"CXR-Christmas Island"},{"country_code":"CYM-Cayman Islands"},{"country_code":"CYP-Cyprus"},{"country_code":"CZE-Czech Republic"},{"country_code":"DEU-Germany"},{"country_code":"DJI-Djibouti"},{"country_code":"DMA-Dominica"},{"country_code":"DNK-Denmark"},{"country_code":"DOM-Dominican Republic"},{"country_code":"DZA-Algeria"},{"country_code":"ECU-Ecuador"},{"country_code":"EGY-Egypt"},{"country_code":"ERI-Eritrea"},{"country_code":"ESH-Western Sahara"},{"country_code":"ESP-Spain"},{"country_code":"EST-Estonia"},{"country_code":"ETH-Ethiopia"},{"country_code":"FIN-Finland"},{"country_code":"FJI-Fiji"},{"country_code":"FLK-Falkland Islands"},{"country_code":"FRA-France"},{"country_code":"FRO-Faeroe Islands"},{"country_code":"FSM-Micronesia"},{"country_code":"GAB-Gabon"},{"country_code":"GBR-United Kingdom"},{"country_code":"GEO-Georgia"},{"country_code":"GGY-Guernsey"},{"country_code":"GHA-Ghana"},{"country_code":"GIB-Gibraltar"},{"country_code":"GIN-Guinea"},{"country_code":"GLP-Guadaloupe"},{"country_code":"GMB-Gambia"},{"country_code":"GNB-Guinea-Bissau"},{"country_code":"GNQ-Equatorial Guinea"},{"country_code":"GRC-Greece"},{"country_code":"GRD-Grenada"},{"country_code":"GRL-Greenland"},{"country_code":"GTM-Guatemala"},{"country_code":"GUF-French Guiana"},{"country_code":"GUM-Guam"},{"country_code":"GUY-Guyana"},{"country_code":"HKG-Hong Kong"},{"country_code":"HMD-Heard and McDonald Islands"},{"country_code":"HND-Honduras"},{"country_code":"HRV-Hrvatska"},{"country_code":"HTI-Haiti"},{"country_code":"HUN-Hungary"},{"country_code":"IDN-Indonesia"},{"country_code":"IMN-Isle of Man"},{"country_code":"IND-India"},{"country_code":"IOT-British Indian Ocean Territory"},{"country_code":"IRL-Ireland"},{"country_code":"IRN-Iran"},{"country_code":"IRQ-Iraq"},{"country_code":"ISL-Iceland"},{"country_code":"ISR-Israel"},{"country_code":"ITA-Italy"},{"country_code":"JAM-Jamaica"},{"country_code":"JEY-Jersey"},{"country_code":"JOR-Jordan"},{"country_code":"JPN-Japan"},{"country_code":"KAZ-Kazakhstan"},{"country_code":"KEN-Kenya"},{"country_code":"KGZ-Kyrgyz Republic"},{"country_code":"KHM-Cambodia"},{"country_code":"KIR-Kiribati"},{"country_code":"KNA-St. Kitts and Nevis"},{"country_code":"KOR-South Korea"},{"country_code":"KWT-Kuwait"},{"country_code":"LAO-Lao"},{"country_code":"LBN-Lebanon"},{"country_code":"LBR-Liberia"},{"country_code":"LBY-Libyan Arab Jamahiriya"},{"country_code":"LCA-St. Lucia"},{"country_code":"LIE-Liechtenstein"},{"country_code":"LKA-Sri Lanka"},{"country_code":"LSO-Lesotho"},{"country_code":"LTU-Lithuania"},{"country_code":"LUX-Luxembourg"},{"country_code":"LVA-Latvia"},{"country_code":"MAC-Macao"},{"country_code":"MAF-Saint Martin"},{"country_code":"MAR-Morocco"},{"country_code":"MCO-Monaco"},{"country_code":"MDA-Moldova"},{"country_code":"MDG-Madagascar"},{"country_code":"MDV-Maldives"},{"country_code":"MEX-Mexico"},{"country_code":"MHL-Marshall Islands"},{"country_code":"MKD-Macedonia"},{"country_code":"MLI-Mali"},{"country_code":"MLT-Malta"},{"country_code":"MMR-Myanmar"},{"country_code":"MNE-Montenegro"},{"country_code":"MNG-Mongolia"},{"country_code":"MNP-Northern Mariana Islands"},{"country_code":"MOZ-Mozambique"},{"country_code":"MRT-Mauritania"},{"country_code":"MSR-Montserrat"},{"country_code":"MTQ-Martinique"},{"country_code":"MUS-Mauritius"},{"country_code":"MWI-Malawi"},{"country_code":"MYS-Malaysia"},{"country_code":"MYT-Mayotte"},{"country_code":"NAM-Namibia"},{"country_code":"NCL-New Caledonia"},{"country_code":"NER-Niger"},{"country_code":"NFK-Norfolk Island"},{"country_code":"NGA-Nigeria"},{"country_code":"NIC-Nicaragua"},{"country_code":"NIU-Niue"},{"country_code":"NLD-Netherlands"},{"country_code":"NOR-Norway"},{"country_code":"NPL-Nepal"},{"country_code":"NRU-Nauru"},{"country_code":"NZL-New Zealand"},{"country_code":"OMN-Oman"},{"country_code":"PAK-Pakistan"},{"country_code":"PAN-Panama"},{"country_code":"PCN-Pitcairn Island"},{"country_code":"PER-Peru"},{"country_code":"PHL-Philippines"},{"country_code":"PLW-Palau"},{"country_code":"PNG-Papua New Guinea"},{"country_code":"POL-Poland"},{"country_code":"PRI-Puerto Rico"},{"country_code":"PRK-North Korea"},{"country_code":"PRT-Portugal"},{"country_code":"PRY-Paraguay"},{"country_code":"PSE-Palestinian Territory"},{"country_code":"PYF-French Polynesia"},{"country_code":"QAT-Qatar"},{"country_code":"REU-Reunion"},{"country_code":"ROU-Romania"},{"country_code":"RUS-Russian Federation"},{"country_code":"RWA-Rwanda"},{"country_code":"SAU-Saudi Arabia"},{"country_code":"SDN-Sudan"},{"country_code":"SEN-Senegal"},{"country_code":"SGP-Singapore"},{"country_code":"SGS-South Georgia and the South Sandwich Islands"},{"country_code":"SHN-Saint Helena"},{"country_code":"SJM-Svalbard & Jan Mayen Islands"},{"country_code":"SLB-Solomon Islands"},{"country_code":"SLE-Sierra Leone"},{"country_code":"SLV-El Salvador"},{"country_code":"SMR-San Marino"},{"country_code":"SOM-Somalia"},{"country_code":"SPM-St. Pierre and Miquelon"},{"country_code":"SRB-Serbia"},{"country_code":"STP-Sao Tome and Principe"},{"country_code":"SUR-Suriname"},{"country_code":"SVK-Slovakia"},{"country_code":"SVN-Slovenia"},{"country_code":"SWE-Sweden"},{"country_code":"SWZ-Swaziland"},{"country_code":"SXM-Sint Maarten"},{"country_code":"SYC-Seychelles"},{"country_code":"SYR-Syrian Arab Republic"},{"country_code":"TCA-Turks and Caicos Islands"},{"country_code":"TCD-Chad"},{"country_code":"TGO-Togo"},{"country_code":"THA-Thailand"},{"country_code":"TJK-Tajikistan"},{"country_code":"TKL-Tokelau"},{"country_code":"TKM-Turkmenistan"},{"country_code":"TLS-Timor-Leste"},{"country_code":"TON-Tonga"},{"country_code":"TTO-Trinidad and Tobago"},{"country_code":"TUN-Tunisia"},{"country_code":"TUR-Turkey"},{"country_code":"TUV-Tuvalu"},{"country_code":"TWN-Taiwan"},{"country_code":"TZA-Tanzania"},{"country_code":"UGA-Uganda"},{"country_code":"UKR-Ukraine"},{"country_code":"UMI-United States Minor Outlying Islands"},{"country_code":"URY-Uruguay"},{"country_code":"USA-United States of America"},{"country_code":"UZB-Uzbekistan"},{"country_code":"VAT-Vatican City State"},{"country_code":"VCT-St. Vincent and the Grenadines"},{"country_code":"VEN-Venezuela"},{"country_code":"VGB-British Virgin Islands"},{"country_code":"VIR-US Virgin Islands"},{"country_code":"VNM-Viet Nam"},{"country_code":"VUT-Vanuatu"},{"country_code":"WLF-Wallis and Futuna Islands"},{"country_code":"WSM-Samoa"},{"country_code":"YEM-Yemen"},{"country_code":"ZAF-South Africa"},{"country_code":"ZMB-Zambia"},{"country_code":"ZWE-Zimbabwe"}]}
+[INFO] 2017-09-18 20:18:58,384 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:18:58,384 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchAutoCompanyName
+[INFO] 2017-09-18 20:18:58,384 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:18:58,391 - sendHttp_Json >> RES size:351
+[INFO] 2017-09-18 20:18:58,392 - <--{"rows":5,"list":[{"company_id":"05144","company_name":"Eadeco (Singapore) Pte. Ltd. "},{"company_id":"05101","company_name":"SV Global Enterprise Pte. Ltd. "},{"company_id":"05133","company_name":"Elush (T3) Pte. Ltd. "},{"company_id":"05018","company_name":"Global Tax Free Pte Ltd"},{"company_id":"05147","company_name":"JNA Networks Pte. Ltd. "}]}
+[INFO] 2017-09-18 20:18:58,454 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:18:58,455 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-18 20:18:58,456 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:18:58,463 - sendHttp_Json >> RES size:1595
+[INFO] 2017-09-18 20:18:58,464 - <--{"rows":5,"list":[{"rec_digits":null,"company_id":"05147","group_name":"ION","mid":"03260","rec_prefix":null,"tid":"65130248","gst_no":"201503402K","company_name":"JNA Networks Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"OBBA & LLang","item_code3":null,"item_code2":"09","item_code1":"05","item_code5":null},{"rec_digits":"7","company_id":"05018","group_name":"ION","mid":"03030","rec_prefix":"GTF","tid":"65130246","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","item_code4":"11","dup_rc":"N","store_name":"Global Tax Free Pte Ltd","item_code3":"09","item_code2":"04","item_code1":"06","item_code5":"13"},{"rec_digits":null,"company_id":"05101","group_name":"ION","mid":"03172","rec_prefix":null,"tid":"65130247","gst_no":"201405244D","company_name":"SV Global Enterprise Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"SV Global Enterprise Pte. Ltd. ","item_code3":null,"item_code2":null,"item_code1":"28","item_code5":null},{"rec_digits":null,"company_id":"05133","group_name":"ION","mid":"03229","rec_prefix":null,"tid":"65130249","gst_no":"200722074E","company_name":"Elush (T3) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"iStudio - Changi Airport T3","item_code3":null,"item_code2":"28","item_code1":"03","item_code5":null},{"rec_digits":null,"company_id":"05144","group_name":"ION","mid":"03257","rec_prefix":null,"tid":"65130250","gst_no":"200413885M","company_name":"Eadeco (Singapore) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"Akemi Uchi - Jem","item_code3":null,"item_code2":null,"item_code1":"23","item_code5":null}]}
+[INFO] 2017-09-18 20:18:58,949 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:18:58,950 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchAutoCompanyName
+[INFO] 2017-09-18 20:18:58,950 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:18:58,959 - sendHttp_Json >> RES size:351
+[INFO] 2017-09-18 20:18:58,959 - <--{"rows":5,"list":[{"company_id":"05144","company_name":"Eadeco (Singapore) Pte. Ltd. "},{"company_id":"05101","company_name":"SV Global Enterprise Pte. Ltd. "},{"company_id":"05133","company_name":"Elush (T3) Pte. Ltd. "},{"company_id":"05018","company_name":"Global Tax Free Pte Ltd"},{"company_id":"05147","company_name":"JNA Networks Pte. Ltd. "}]}
+[INFO] 2017-09-18 20:18:58,960 - -->{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:18:58,960 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-18 20:18:58,960 - sendHttp_Json >> REQ:{
+  "keyword": "",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:18:59,062 - sendHttp_Json >> RES size:1595
+[INFO] 2017-09-18 20:18:59,062 - <--{"rows":5,"list":[{"rec_digits":null,"company_id":"05147","group_name":"ION","mid":"03260","rec_prefix":null,"tid":"65130248","gst_no":"201503402K","company_name":"JNA Networks Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"OBBA & LLang","item_code3":null,"item_code2":"09","item_code1":"05","item_code5":null},{"rec_digits":"7","company_id":"05018","group_name":"ION","mid":"03030","rec_prefix":"GTF","tid":"65130246","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","item_code4":"11","dup_rc":"N","store_name":"Global Tax Free Pte Ltd","item_code3":"09","item_code2":"04","item_code1":"06","item_code5":"13"},{"rec_digits":null,"company_id":"05101","group_name":"ION","mid":"03172","rec_prefix":null,"tid":"65130247","gst_no":"201405244D","company_name":"SV Global Enterprise Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"SV Global Enterprise Pte. Ltd. ","item_code3":null,"item_code2":null,"item_code1":"28","item_code5":null},{"rec_digits":null,"company_id":"05133","group_name":"ION","mid":"03229","rec_prefix":null,"tid":"65130249","gst_no":"200722074E","company_name":"Elush (T3) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"iStudio - Changi Airport T3","item_code3":null,"item_code2":"28","item_code1":"03","item_code5":null},{"rec_digits":null,"company_id":"05144","group_name":"ION","mid":"03257","rec_prefix":null,"tid":"65130250","gst_no":"200413885M","company_name":"Eadeco (Singapore) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"Akemi Uchi - Jem","item_code3":null,"item_code2":null,"item_code1":"23","item_code5":null}]}
+[INFO] 2017-09-18 20:18:59,397 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:18:59,397 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:18:59,398 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:19:02,567 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:19:02,567 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:19:02,569 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:19:07,094 - -->{}
+[INFO] 2017-09-18 20:19:07,094 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/getItemCodeList
+[INFO] 2017-09-18 20:19:07,095 - sendHttp_Json >> REQ:{}
+[INFO] 2017-09-18 20:19:07,106 - sendHttp_Json >> RES size:1539
+[INFO] 2017-09-18 20:19:07,107 - <--{"rows":33,"list":[{"code_name":"Arts & Antiques","code_id":"01"},{"code_name":"Automobile Acc.","code_id":"02"},{"code_name":"AV & IT","code_id":"03"},{"code_name":"Baby Products","code_id":"04"},{"code_name":"Cosmetic & Essence","code_id":"05"},{"code_name":"Dept. Store","code_id":"06"},{"code_name":"Eyewear & Optics","code_id":"07"},{"code_name":"Fashion & Clothing","code_id":"08"},{"code_name":"Fashion Acc.","code_id":"09"},{"code_name":"Footwear","code_id":"10"},{"code_name":"Furniture","code_id":"11"},{"code_name":"Games and Toys","code_id":"12"},{"code_name":"Glass & Crystal","code_id":"13"},{"code_name":"Handicraft","code_id":"14"},{"code_name":"Health & Beauty","code_id":"15"},{"code_name":"Home Appliances","code_id":"16"},{"code_name":"Jewellery","code_id":"17"},{"code_name":"Leather Goods","code_id":"18"},{"code_name":"Lingerie Apparels","code_id":"19"},{"code_name":"Mag & Stationery","code_id":"20"},{"code_name":"Medical Clinics","code_id":"21"},{"code_name":"Medical Equipment","code_id":"22"},{"code_name":"Other retailing","code_id":"23"},{"code_name":"Pharmaceutical","code_id":"24"},{"code_name":"Photo equipment","code_id":"25"},{"code_name":"Souvenirs & Gifts","code_id":"26"},{"code_name":"Sports equipment","code_id":"27"},{"code_name":"Telecommunications","code_id":"28"},{"code_name":"Textile & Carpets","code_id":"29"},{"code_name":"Tobacco & Wines","code_id":"30"},{"code_name":"Travel Accessories","code_id":"31"},{"code_name":"Video & Music","code_id":"32"},{"code_name":"Watches","code_id":"33"}]}
+[INFO] 2017-09-18 20:19:07,118 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:19:07,118 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:19:07,119 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:19:08,116 - -->{
+  "keyword": "g",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:19:08,117 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-18 20:19:08,117 - sendHttp_Json >> REQ:{
+  "keyword": "g",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:19:08,126 - sendHttp_Json >> RES size:1282
+[INFO] 2017-09-18 20:19:08,126 - <--{"rows":4,"list":[{"rec_digits":null,"company_id":"05147","group_name":"ION","mid":"03260","rec_prefix":null,"tid":"65130248","gst_no":"201503402K","company_name":"JNA Networks Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"OBBA & LLang","item_code3":null,"item_code2":"09","item_code1":"05","item_code5":null},{"rec_digits":"7","company_id":"05018","group_name":"ION","mid":"03030","rec_prefix":"GTF","tid":"65130246","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","item_code4":"11","dup_rc":"N","store_name":"Global Tax Free Pte Ltd","item_code3":"09","item_code2":"04","item_code1":"06","item_code5":"13"},{"rec_digits":null,"company_id":"05101","group_name":"ION","mid":"03172","rec_prefix":null,"tid":"65130247","gst_no":"201405244D","company_name":"SV Global Enterprise Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"SV Global Enterprise Pte. Ltd. ","item_code3":null,"item_code2":null,"item_code1":"28","item_code5":null},{"rec_digits":null,"company_id":"05133","group_name":"ION","mid":"03229","rec_prefix":null,"tid":"65130249","gst_no":"200722074E","company_name":"Elush (T3) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"iStudio - Changi Airport T3","item_code3":null,"item_code2":"28","item_code1":"03","item_code5":null}]}
+[INFO] 2017-09-18 20:19:10,316 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:19:10,316 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:19:10,317 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:19:13,318 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:19:13,318 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:19:13,319 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:19:16,321 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:19:16,321 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:19:16,322 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:19:19,323 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:19:19,323 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:19:19,325 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:19:22,325 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:19:22,325 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:19:22,326 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:19:25,328 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:19:25,328 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:19:25,329 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:19:25,846 - -->{
+  "shop_id": "03260",
+  "receipt_no": "WGLEE201709180001",
+  "userId": "TFMUSER1",
+  "outlet": "ION"
+}
+[INFO] 2017-09-18 20:19:25,846 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkRctCount
+[INFO] 2017-09-18 20:19:25,847 - sendHttp_Json >> REQ:{
+  "shop_id": "03260",
+  "receipt_no": "WGLEE201709180001",
+  "userId": "TFMUSER1",
+  "outlet": "ION"
+}
+[INFO] 2017-09-18 20:19:25,859 - sendHttp_Json >> RES size:46
+[INFO] 2017-09-18 20:19:25,859 - <--{"total_cnt":1,"code":"1","message":"Success"}
+[INFO] 2017-09-18 20:19:28,330 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:19:28,330 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:19:28,331 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:19:31,332 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:19:31,332 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:19:31,333 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:19:34,334 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:19:34,334 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:19:34,335 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:19:37,336 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:19:37,336 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:19:37,337 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:19:38,400 - -->{
+  "shop_id": "03260",
+  "receipt_no": "WGLEE201709180130",
+  "userId": "TFMUSER1",
+  "outlet": "ION"
+}
+[INFO] 2017-09-18 20:19:38,401 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkRctCount
+[INFO] 2017-09-18 20:19:38,401 - sendHttp_Json >> REQ:{
+  "shop_id": "03260",
+  "receipt_no": "WGLEE201709180130",
+  "userId": "TFMUSER1",
+  "outlet": "ION"
+}
+[INFO] 2017-09-18 20:19:38,417 - sendHttp_Json >> RES size:46
+[INFO] 2017-09-18 20:19:38,417 - <--{"total_cnt":0,"code":"0","message":"Failure"}
+[INFO] 2017-09-18 20:19:40,338 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:19:40,338 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:19:40,340 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:19:41,522 - -->{
+  "keyword": "g",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:19:41,522 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-18 20:19:41,523 - sendHttp_Json >> REQ:{
+  "keyword": "g",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:19:41,533 - sendHttp_Json >> RES size:1282
+[INFO] 2017-09-18 20:19:41,533 - <--{"rows":4,"list":[{"rec_digits":null,"company_id":"05147","group_name":"ION","mid":"03260","rec_prefix":null,"tid":"65130248","gst_no":"201503402K","company_name":"JNA Networks Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"OBBA & LLang","item_code3":null,"item_code2":"09","item_code1":"05","item_code5":null},{"rec_digits":"7","company_id":"05018","group_name":"ION","mid":"03030","rec_prefix":"GTF","tid":"65130246","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","item_code4":"11","dup_rc":"N","store_name":"Global Tax Free Pte Ltd","item_code3":"09","item_code2":"04","item_code1":"06","item_code5":"13"},{"rec_digits":null,"company_id":"05101","group_name":"ION","mid":"03172","rec_prefix":null,"tid":"65130247","gst_no":"201405244D","company_name":"SV Global Enterprise Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"SV Global Enterprise Pte. Ltd. ","item_code3":null,"item_code2":null,"item_code1":"28","item_code5":null},{"rec_digits":null,"company_id":"05133","group_name":"ION","mid":"03229","rec_prefix":null,"tid":"65130249","gst_no":"200722074E","company_name":"Elush (T3) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"iStudio - Changi Airport T3","item_code3":null,"item_code2":"28","item_code1":"03","item_code5":null}]}
+[INFO] 2017-09-18 20:19:43,341 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:19:43,341 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:19:43,342 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:19:46,343 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:19:46,343 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:19:46,344 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:19:49,345 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:19:49,345 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:19:49,346 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:19:50,160 - -->{
+  "shop_id": "03260",
+  "receipt_no": "WGLEE201709180130",
+  "userId": "TFMUSER1",
+  "outlet": "ION"
+}
+[INFO] 2017-09-18 20:19:50,161 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkRctCount
+[INFO] 2017-09-18 20:19:50,161 - sendHttp_Json >> REQ:{
+  "shop_id": "03260",
+  "receipt_no": "WGLEE201709180130",
+  "userId": "TFMUSER1",
+  "outlet": "ION"
+}
+[INFO] 2017-09-18 20:19:50,174 - sendHttp_Json >> RES size:46
+[INFO] 2017-09-18 20:19:50,175 - <--{"total_cnt":0,"code":"0","message":"Failure"}
+[INFO] 2017-09-18 20:19:52,346 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:19:52,346 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:19:52,348 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:19:55,348 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:19:55,348 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:19:55,349 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:19:57,816 - -->{
+  "shop_id": "03260",
+  "receipt_no": "WGLEE201709180130",
+  "userId": "TFMUSER1",
+  "outlet": "ION"
+}
+[INFO] 2017-09-18 20:19:57,816 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkRctCount
+[INFO] 2017-09-18 20:19:57,817 - sendHttp_Json >> REQ:{
+  "shop_id": "03260",
+  "receipt_no": "WGLEE201709180130",
+  "userId": "TFMUSER1",
+  "outlet": "ION"
+}
+[INFO] 2017-09-18 20:19:57,831 - sendHttp_Json >> RES size:46
+[INFO] 2017-09-18 20:19:57,831 - <--{"total_cnt":0,"code":"0","message":"Failure"}
+[INFO] 2017-09-18 20:19:58,350 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:19:58,350 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:19:58,351 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:20:01,353 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:20:01,353 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:20:01,354 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:20:04,355 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:20:04,355 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:20:04,356 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:20:07,357 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:20:07,357 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:20:07,358 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:20:07,956 - -->{
+  "status": "Issue",
+  "tid": "65130248",
+  "mid": "03260",
+  "userId": "TFMUSER1",
+  "passport_number": "M71293013",
+  "country_code": "KOR",
+  "last_name": "LEE",
+  "first_name": "WONGYU",
+  "expiry_date": "20220723",
+  "date_of_birth": "19840902",
+  "gender": "M",
+  "purchase_list": "[\r\n  {\r\n    \"description\": \"05:Cosmetic & Essence\",\r\n    \"gross_amount\": \"123.45\",\r\n    \"quantity\": \"1\",\r\n    \"receipt_date\": \"20170918\",\r\n    \"receipt_number\": \"WGLEE201709180130\"\r\n  }\r\n]",
+  "outlet": "ION"
+}
+[INFO] 2017-09-18 20:20:07,956 - sendHttp_Json >> URI:http://localhost:7005/service/json/etrs/issueTicket
+[INFO] 2017-09-18 20:20:07,957 - sendHttp_Json >> REQ:{
+  "status": "Issue",
+  "tid": "65130248",
+  "mid": "03260",
+  "userId": "TFMUSER1",
+  "passport_number": "M71293013",
+  "country_code": "KOR",
+  "last_name": "LEE",
+  "first_name": "WONGYU",
+  "expiry_date": "20220723",
+  "date_of_birth": "19840902",
+  "gender": "M",
+  "purchase_list": "[\r\n  {\r\n    \"description\": \"05:Cosmetic & Essence\",\r\n    \"gross_amount\": \"123.45\",\r\n    \"quantity\": \"1\",\r\n    \"receipt_date\": \"20170918\",\r\n    \"receipt_number\": \"WGLEE201709180130\"\r\n  }\r\n]",
+  "outlet": "ION"
+}
+[INFO] 2017-09-18 20:20:08,097 - sendHttp_Json >> RES size:902
+[INFO] 2017-09-18 20:20:08,097 - <--{"code":"00","gender":"M","date_of_birth":"19840902","cra_telno":"+65 6221 7058","purchase_list":[{"quantity":1,"receipt_number":"WGLEE201709180130","receipt_date":"20170918","description":"05:Cosmetic & Essence","gross_amount":123.45}],"mid":"03260","formatted_docid":"200525.99999.1700.01827","token_type":"","tid":"65130248","retailer_gstno":"201503402K","exiration_date":"20220723","time_of_issue":"192008","gst_amount":8.08,"service_amount":3.08,"date_of_issue":"20170918","cra_address2":"Liat Towers, Singapore 238881","cra_address1":"541 Orchard Road, #17-01","cra_name":"GLOBAL TAX FREE Pte. Ltd.","refund_amount":5,"first_name":"WONGYU","docid":"20052599999170001827","last_name":"LEE","sales_amount":123.45,"cra_gstno":"201136344W","message":"Ticket is successfully issued","token_display":"","country_code":"KOR","passport_number":"M71293013","retailer_name":"OBBA & LLang","status":"Issue"}
+[INFO] 2017-09-18 20:20:08,171 - Start Print(Multiple) --> nIndex : 0
+[INFO] 2017-09-18 20:20:08,319 - flag : 1-->{
+  "retailer_name": "OBBA & LLang",
+  "gst_no": "201503402K",
+  "doc_id": "200525.99999.1700.01827",
+  "issue_date": "18-09-2017 19:20:08",
+  "passport_number": "M71293013",
+  "country_code": "KOR",
+  "purchase_list": "[\r\n  {\r\n    \"number\": 1,\r\n    \"receipt_number\": \"WGLEE201709180130\",\r\n    \"receipt_date\": \"18-09-2017\",\r\n    \"gross_amount\": \"123.45\",\r\n    \"quantity\": \"1\",\r\n    \"description\": \"05:Cosmetic & Essence\"\r\n  }\r\n]",
+  "sales_amt": "123.45",
+  "gst_amt": "8.08",
+  "service_amt": "3.08",
+  "refund_amt": "5",
+  "token_type": "",
+  "token_display": ""
+}
+[INFO] 2017-09-18 20:20:10,359 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:20:10,359 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:20:10,360 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:20:13,361 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:20:13,361 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:20:13,362 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:20:16,363 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:20:16,363 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:20:16,364 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:20:18,233 - -->{
+  "keyword": "g",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:20:18,233 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-18 20:20:18,234 - sendHttp_Json >> REQ:{
+  "keyword": "g",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:20:18,242 - sendHttp_Json >> RES size:1282
+[INFO] 2017-09-18 20:20:18,243 - <--{"rows":4,"list":[{"rec_digits":null,"company_id":"05147","group_name":"ION","mid":"03260","rec_prefix":null,"tid":"65130248","gst_no":"201503402K","company_name":"JNA Networks Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"OBBA & LLang","item_code3":null,"item_code2":"09","item_code1":"05","item_code5":null},{"rec_digits":"7","company_id":"05018","group_name":"ION","mid":"03030","rec_prefix":"GTF","tid":"65130246","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","item_code4":"11","dup_rc":"N","store_name":"Global Tax Free Pte Ltd","item_code3":"09","item_code2":"04","item_code1":"06","item_code5":"13"},{"rec_digits":null,"company_id":"05101","group_name":"ION","mid":"03172","rec_prefix":null,"tid":"65130247","gst_no":"201405244D","company_name":"SV Global Enterprise Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"SV Global Enterprise Pte. Ltd. ","item_code3":null,"item_code2":null,"item_code1":"28","item_code5":null},{"rec_digits":null,"company_id":"05133","group_name":"ION","mid":"03229","rec_prefix":null,"tid":"65130249","gst_no":"200722074E","company_name":"Elush (T3) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"iStudio - Changi Airport T3","item_code3":null,"item_code2":"28","item_code1":"03","item_code5":null}]}
+[INFO] 2017-09-18 20:20:19,909 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:20:19,909 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:20:19,910 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:20:22,911 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:20:22,911 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:20:22,912 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:20:25,847 - -->{
+  "shop_id": "03260",
+  "receipt_no": "WGLEE201709180130",
+  "userId": "TFMUSER1",
+  "outlet": "ION"
+}
+[INFO] 2017-09-18 20:20:25,847 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkRctCount
+[INFO] 2017-09-18 20:20:25,848 - sendHttp_Json >> REQ:{
+  "shop_id": "03260",
+  "receipt_no": "WGLEE201709180130",
+  "userId": "TFMUSER1",
+  "outlet": "ION"
+}
+[INFO] 2017-09-18 20:20:25,861 - sendHttp_Json >> RES size:46
+[INFO] 2017-09-18 20:20:25,861 - <--{"total_cnt":1,"code":"1","message":"Success"}
+[INFO] 2017-09-18 20:20:25,913 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:20:25,913 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:20:25,914 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:20:28,915 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:20:28,915 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:20:28,916 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:20:31,766 - -->{
+  "shop_id": "03260",
+  "receipt_no": "WGLEE201709180131",
+  "userId": "TFMUSER1",
+  "outlet": "ION"
+}
+[INFO] 2017-09-18 20:20:31,767 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkRctCount
+[INFO] 2017-09-18 20:20:31,767 - sendHttp_Json >> REQ:{
+  "shop_id": "03260",
+  "receipt_no": "WGLEE201709180131",
+  "userId": "TFMUSER1",
+  "outlet": "ION"
+}
+[INFO] 2017-09-18 20:20:31,779 - sendHttp_Json >> RES size:46
+[INFO] 2017-09-18 20:20:31,779 - <--{"total_cnt":0,"code":"0","message":"Failure"}
+[INFO] 2017-09-18 20:20:31,917 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:20:31,917 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:20:31,918 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:20:34,913 - -->{
+  "keyword": "g",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:20:34,914 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/searchStoreName
+[INFO] 2017-09-18 20:20:34,914 - sendHttp_Json >> REQ:{
+  "keyword": "g",
+  "group_id": "0000000002"
+}
+[INFO] 2017-09-18 20:20:34,920 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:20:34,920 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:20:34,924 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:20:34,925 - sendHttp_Json >> RES size:1282
+[INFO] 2017-09-18 20:20:34,926 - <--{"rows":4,"list":[{"rec_digits":null,"company_id":"05147","group_name":"ION","mid":"03260","rec_prefix":null,"tid":"65130248","gst_no":"201503402K","company_name":"JNA Networks Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"OBBA & LLang","item_code3":null,"item_code2":"09","item_code1":"05","item_code5":null},{"rec_digits":"7","company_id":"05018","group_name":"ION","mid":"03030","rec_prefix":"GTF","tid":"65130246","gst_no":"201136344W","company_name":"Global Tax Free Pte Ltd","item_code4":"11","dup_rc":"N","store_name":"Global Tax Free Pte Ltd","item_code3":"09","item_code2":"04","item_code1":"06","item_code5":"13"},{"rec_digits":null,"company_id":"05101","group_name":"ION","mid":"03172","rec_prefix":null,"tid":"65130247","gst_no":"201405244D","company_name":"SV Global Enterprise Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"SV Global Enterprise Pte. Ltd. ","item_code3":null,"item_code2":null,"item_code1":"28","item_code5":null},{"rec_digits":null,"company_id":"05133","group_name":"ION","mid":"03229","rec_prefix":null,"tid":"65130249","gst_no":"200722074E","company_name":"Elush (T3) Pte. Ltd. ","item_code4":null,"dup_rc":"Y","store_name":"iStudio - Changi Airport T3","item_code3":null,"item_code2":"28","item_code1":"03","item_code5":null}]}
+[INFO] 2017-09-18 20:20:38,124 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:20:38,124 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:20:38,126 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:20:41,126 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:20:41,126 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:20:41,127 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:20:43,086 - -->{
+  "shop_id": "03260",
+  "receipt_no": "WGLEE201709180131",
+  "userId": "TFMUSER1",
+  "outlet": "ION"
+}
+[INFO] 2017-09-18 20:20:43,087 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkRctCount
+[INFO] 2017-09-18 20:20:43,088 - sendHttp_Json >> REQ:{
+  "shop_id": "03260",
+  "receipt_no": "WGLEE201709180131",
+  "userId": "TFMUSER1",
+  "outlet": "ION"
+}
+[INFO] 2017-09-18 20:20:43,099 - sendHttp_Json >> RES size:46
+[INFO] 2017-09-18 20:20:43,100 - <--{"total_cnt":0,"code":"0","message":"Failure"}
+[INFO] 2017-09-18 20:20:44,128 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:20:44,128 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:20:44,129 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:20:44,246 - -->{
+  "shop_id": "03260",
+  "receipt_no": "WGLEE201709180131",
+  "userId": "TFMUSER1",
+  "outlet": "ION"
+}
+[INFO] 2017-09-18 20:20:44,247 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkRctCount
+[INFO] 2017-09-18 20:20:44,248 - sendHttp_Json >> REQ:{
+  "shop_id": "03260",
+  "receipt_no": "WGLEE201709180131",
+  "userId": "TFMUSER1",
+  "outlet": "ION"
+}
+[INFO] 2017-09-18 20:20:44,262 - sendHttp_Json >> RES size:46
+[INFO] 2017-09-18 20:20:44,263 - <--{"total_cnt":0,"code":"0","message":"Failure"}
+[INFO] 2017-09-18 20:20:47,130 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:20:47,130 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:20:47,131 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:20:50,132 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:20:50,132 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:20:50,134 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:20:53,135 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:20:53,135 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:20:53,136 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:20:56,136 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:20:56,136 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:20:56,137 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:20:59,138 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:20:59,138 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:20:59,139 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:21:02,140 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:21:02,140 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:21:02,141 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:21:05,142 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:21:05,142 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:21:05,144 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:21:08,144 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:21:08,144 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:21:08,145 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:21:11,147 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:21:11,147 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:21:11,149 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:21:14,149 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:21:14,149 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:21:14,150 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:21:17,151 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:21:17,151 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:21:17,152 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:21:20,153 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:21:20,153 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:21:20,154 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:21:23,155 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:21:23,155 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:21:23,156 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:21:26,156 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:21:26,156 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:21:26,157 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:21:29,159 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:21:29,159 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:21:29,160 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:21:32,160 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:21:32,161 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:21:32,162 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:21:35,166 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:21:35,166 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:21:35,167 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:21:38,168 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:21:38,168 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:21:38,169 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:21:41,170 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:21:41,170 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:21:41,171 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:21:44,172 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:21:44,172 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:21:44,173 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:21:47,175 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:21:47,175 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:21:47,177 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:21:50,178 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:21:50,178 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:21:50,180 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:21:53,180 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:21:53,180 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:21:53,182 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:21:56,182 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:21:56,182 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:21:56,183 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:21:59,185 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:21:59,185 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:21:59,187 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:22:02,188 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:22:02,188 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:22:02,189 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:22:05,190 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:22:05,190 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:22:05,191 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:22:08,192 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:22:08,192 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:22:08,193 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:22:11,193 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:22:11,193 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:22:11,194 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:22:14,195 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:22:14,195 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:22:14,196 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:22:17,197 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:22:17,197 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:22:17,198 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:22:20,200 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:22:20,200 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:22:20,201 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:22:23,202 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:22:23,202 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:22:23,203 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:22:26,204 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:22:26,204 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:22:26,205 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:22:29,206 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:22:29,206 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:22:29,207 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:22:32,208 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:22:32,208 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:22:32,209 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:22:35,210 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:22:35,210 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:22:35,211 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:22:38,213 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:22:38,213 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:22:38,214 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:22:41,215 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:22:41,215 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:22:41,216 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:22:44,217 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:22:44,217 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:22:44,218 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:22:47,219 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:22:47,219 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:22:47,220 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:22:50,221 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:22:50,221 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:22:50,222 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:22:53,222 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:22:53,222 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:22:53,223 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:22:56,225 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:22:56,225 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:22:56,226 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:22:59,227 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:22:59,227 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:22:59,229 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:23:02,229 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:23:02,229 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:23:02,244 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:23:05,244 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:23:05,244 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:23:05,245 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:23:08,246 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:23:08,246 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:23:08,247 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:23:11,248 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:23:11,248 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:23:11,249 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:23:14,251 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:23:14,251 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:23:14,252 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:23:17,253 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:23:17,253 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:23:17,254 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:23:20,254 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:23:20,254 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:23:20,255 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:23:23,255 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:23:23,255 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:23:23,256 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:23:26,257 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:23:26,257 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:23:26,258 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:23:29,259 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:23:29,259 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:23:29,260 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:23:32,262 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:23:32,262 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:23:32,263 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:23:35,264 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:23:35,264 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:23:35,265 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:23:38,266 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:23:38,266 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:23:38,267 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:23:41,268 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:23:41,268 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:23:41,269 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:23:44,270 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:23:44,270 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:23:44,271 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:23:47,273 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:23:47,273 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:23:47,274 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:23:50,275 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:23:50,275 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:23:50,276 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:23:53,277 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:23:53,277 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:23:53,278 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:23:56,279 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:23:56,279 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:23:56,280 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:23:59,281 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:23:59,281 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:23:59,282 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:24:02,283 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:24:02,283 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:24:02,284 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:24:05,286 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:24:05,286 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:24:05,287 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:24:08,288 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:24:08,288 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:24:08,289 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:24:11,290 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:24:11,290 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:24:11,291 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:24:14,292 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:24:14,292 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:24:14,293 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:24:17,294 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:24:17,294 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:24:17,295 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:24:20,296 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:24:20,296 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:24:20,297 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:24:23,298 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:24:23,298 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:24:23,299 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:24:26,300 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:24:26,300 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:24:26,301 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:24:29,302 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:24:29,302 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:24:29,303 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:24:32,304 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:24:32,304 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:24:32,305 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:24:35,306 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:24:35,306 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:24:35,307 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:24:38,308 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:24:38,308 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:24:38,309 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:24:41,311 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:24:41,311 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:24:41,312 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:24:44,313 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:24:44,313 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:24:44,314 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:24:47,315 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:24:47,315 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:24:47,317 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:24:50,317 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:24:50,317 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:24:50,318 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:24:53,319 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:24:53,319 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:24:53,320 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:24:56,321 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:24:56,321 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:24:56,322 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:24:59,324 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:24:59,324 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:24:59,325 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:25:02,326 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:25:02,326 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:25:02,327 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:25:05,328 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:25:05,328 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:25:05,329 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:25:08,329 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:25:08,329 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:25:08,331 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:25:11,331 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:25:11,331 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:25:11,332 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:25:14,334 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:25:14,334 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:25:14,335 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:25:17,336 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:25:17,336 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:25:17,337 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:25:20,338 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:25:20,338 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:25:20,340 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:25:23,340 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:25:23,340 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:25:23,341 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:25:26,342 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:25:26,342 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:25:26,343 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:25:29,344 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:25:29,344 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:25:29,345 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:25:32,347 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:25:32,347 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:25:32,348 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:25:35,348 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:25:35,348 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:25:35,349 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:25:38,350 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:25:38,350 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:25:38,351 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:25:41,352 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:25:41,352 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:25:41,354 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:25:44,354 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:25:44,354 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:25:44,359 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:25:47,359 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:25:47,359 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:25:47,360 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:25:50,362 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:25:50,362 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:25:50,363 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:25:53,364 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:25:53,364 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:25:53,366 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:25:56,366 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:25:56,366 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:25:56,367 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:25:59,368 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:25:59,368 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:25:59,370 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:26:02,370 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:26:02,370 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:26:02,372 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:26:05,372 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:26:05,372 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:26:05,373 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:26:08,375 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:26:08,375 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:26:08,376 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:26:11,376 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:26:11,376 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:26:11,377 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:26:14,378 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:26:14,378 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:26:14,379 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:26:17,380 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:26:17,380 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:26:17,381 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:26:20,382 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:26:20,382 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:26:20,383 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:26:23,384 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:26:23,384 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:26:23,385 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:26:26,387 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:26:26,387 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:26:26,388 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:26:29,389 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:26:29,389 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:26:29,393 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:26:32,393 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:26:32,393 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:26:32,394 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:26:35,395 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:26:35,395 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:26:35,396 - sendHttp_Json >> RES size:52
+[INFO] 2017-09-18 20:26:38,397 - sendHttp_Json >> URI:http://localhost:7005/service/merchant/tfm/checkNetworkStatus
+[INFO] 2017-09-18 20:26:38,397 - sendHttp_Json >> REQ:{
+  "userid": "TFMUSER1"
+}
+[INFO] 2017-09-18 20:26:38,398 - sendHttp_Json >> RES size:52
